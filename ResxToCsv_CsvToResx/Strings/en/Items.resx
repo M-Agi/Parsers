@@ -1,0 +1,1189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<metadata name="comments" />
+	<data name="ItemBackpack1">
+		<value>Backpack of lack</value>
+	</data>
+	<data name="ItemBackpack1Short">
+		<value>Being a completionist is a virtue!</value>
+	</data>
+	<data name="ItemBackpack1Long">
+		<value>Picking up an item for the first time (including this one) heals you for 1 point.</value>
+	</data>
+	<data name="ItemBackpack2">
+		<value>Lute</value>
+	</data>
+	<data name="ItemBackpack2Short">
+		<value>Traveling musicians bump into easy money a lot.</value>
+	</data>
+	<data name="ItemBackpack2Long">
+		<value>+50 luck for influencing the amount found when picking up gold.</value>
+	</data>
+	<data name="ItemBackpack3">
+		<value>Wheelbarrow</value>
+	</data>
+	<data name="ItemBackpack3Short">
+		<value>It is a breeze to carry your heavy platings in it.</value>
+	</data>
+	<data name="ItemBackpack3Long">
+		<value>+100% bonus to permanent defense pickups (maximum 5 times).</value>
+	</data>
+	<data name="ItemBackpack4">
+		<value>Cooking pot</value>
+	</data>
+	<data name="ItemBackpack4Short">
+		<value>Cook your food, so you will have reserves for the journey home.</value>
+	</data>
+	<data name="ItemBackpack4Long">
+		<value>+1 to permanent attack and vitality bonus pickups (maximum 6 times).</value>
+	</data>
+	<data name="ItemBackpack5">
+		<value>Travel bundle</value>
+	</data>
+	<data name="ItemBackpack5Short">
+		<value>If you travel far enough, you will run into goods.</value>
+	</data>
+	<data name="ItemBackpack5Long">
+		<value>Every dungeon level will have +1 extra pickup.</value>
+	</data>
+	<data name="ItemCape1">
+		<value>Naturewalker tabard</value>
+	</data>
+	<data name="ItemCape1Short">
+		<value>Ease of movement from a durable cloth.</value>
+	</data>
+	<data name="ItemCape1Long">
+		<value>Extra speed and defense bonus at the same time.</value>
+	</data>
+	<data name="ItemCape2">
+		<value>High collar vampire cloak</value>
+	</data>
+	<data name="ItemCape2Desc" xml:space="preserve">
+		<value>High collar
+vampire cloak</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemCape2Short">
+		<value>Blood is now a refreshing beverage.</value>
+	</data>
+	<data name="ItemCape2Long">
+		<value>33% chance to steal 1 health when inflicting damage (only 10% against undead).</value>
+	</data>
+	<data name="ItemCape3">
+		<value>Lich robe</value>
+	</data>
+	<data name="ItemCape3Short">
+		<value>Each kill fuels your might.</value>
+	</data>
+	<data name="ItemCape3Long">
+		<value>+1 vitality for every three monster killed (maximum +10), while wearing the robe.</value>
+	</data>
+	<data name="ItemCape4">
+		<value>Wizard mantle</value>
+	</data>
+	<data name="ItemCape4Short">
+		<value>Just as a powerful wizard, control your own faith!</value>
+	</data>
+	<data name="ItemCape4Long">
+		<value>+100% bonus to all of your luck trials.</value>
+	</data>
+	<data name="ItemCape5">
+		<value>Royal cape</value>
+	</data>
+	<data name="ItemCape5Short">
+		<value>Each revealed chest raises the fortune of a king.</value>
+	</data>
+	<data name="ItemCape5Long">
+		<value>+1 permanent luck bonus every time you open a chest (maximum +10).</value>
+	</data>
+	<data name="ItemOffHand1">
+		<value>Crescent moon buckler</value>
+	</data>
+	<data name="ItemOffHand1Short">
+		<value>No attacking monster can escape divine retribution.</value>
+	</data>
+	<data name="ItemOffHand1Long">
+		<value>200% of the suffered damage is reflected.
+Immune to interrupts.</value>
+	</data>
+	<data name="ItemOffHand2">
+		<value>Parrying dagger</value>
+	</data>
+	<data name="ItemOffHand2Short">
+		<value>The best defense is a good offense.</value>
+	</data>
+	<data name="ItemOffHand2Long">
+		<value>15% chance to use your defense value as an attack bonus when striking.</value>
+	</data>
+	<data name="ItemOffHand3">
+		<value>Banal valor shield</value>
+	</data>
+	<data name="ItemOffHand3Short">
+		<value>As banal defense bonus as it can get.</value>
+	</data>
+	<data name="ItemOffHand3Long">
+		<value>Good protection at the cost of a small speed loss.</value>
+	</data>
+	<data name="ItemOffHand4">
+		<value>Fortune-teller's orb</value>
+	</data>
+	<data name="ItemOffHand4Short">
+		<value>It may bring good luck, or it may not...</value>
+	</data>
+	<data name="ItemOffHand4Long">
+		<value>+5 bonus for every luck trial.</value>
+	</data>
+	<data name="ItemOffHand5">
+		<value>Royal aegis</value>
+	</data>
+	<data name="ItemOffHand5Short">
+		<value>Some say gold is evil, but it can protect you from evil just as much.</value>
+	</data>
+	<data name="ItemOffHand5Long">
+		<value>+1% defense bonus for every 5 gold you own (maximum +50%).</value>
+	</data>
+	<data name="ItemForearms1">
+		<value>Regular vambrace</value>
+	</data>
+	<data name="ItemForearms1Short">
+		<value>The defense bonus is regular too.</value>
+	</data>
+	<data name="ItemForearms1Long">
+		<value>Moderate defense and a tiny attack bonus, for lesser speed in exchange.</value>
+	</data>
+	<data name="ItemForearms2">
+		<value>Rapid crossbow</value>
+	</data>
+	<data name="ItemForearms2Short">
+		<value>Hidden tricks for a coup de grâce.</value>
+	</data>
+	<data name="ItemForearms2Long">
+		<value>Quadrupled attack value against enemies having 50% or less of their maximum health.</value>
+	</data>
+	<data name="ItemForearms3">
+		<value>Hidden dagger</value>
+	</data>
+	<data name="ItemForearms3Short">
+		<value>A well-timed strike is critical.</value>
+	</data>
+	<data name="ItemForearms3Long">
+		<value>Every attack against fully healed enemies will be a critical strike.</value>
+	</data>
+	<data name="ItemForearms4">
+		<value>Barbarian bracer</value>
+	</data>
+	<data name="ItemForearms4Short">
+		<value>Break the defense of your opponents.</value>
+	</data>
+	<data name="ItemForearms4Long">
+		<value>Permanently reduce the defense of a creature by 33% and 5% chance to interrupt on hit.</value>
+	</data>
+	<data name="ItemForearms5">
+		<value>Sleeve gun</value>
+	</data>
+	<data name="ItemForearms5Short">
+		<value>Little extra firepower during battle.</value>
+	</data>
+	<data name="ItemForearms5Long">
+		<value>100% bonus value to every fourth attack of yours.</value>
+	</data>
+	<data name="ItemHead1">
+		<value>Wizard hat</value>
+	</data>
+	<data name="ItemHead1Short">
+		<value>A clear mind can withstand all illusions.</value>
+	</data>
+	<data name="ItemHead1Long">
+		<value>Dissolves all the hallucinations immediately beside the luck bonus.</value>
+	</data>
+	<data name="ItemHead2">
+		<value>Necromancer's headgear</value>
+	</data>
+	<data name="ItemHead2Short">
+		<value>Smells funky, but monsters mistake you for the lord of death!</value>
+	</data>
+	<data name="ItemHead2Long">
+		<value>33% chance to scare the monsters in the dungeon, when you kill an enemy.</value>
+	</data>
+	<data name="ItemHead3">
+		<value>Wolf head</value>
+	</data>
+	<data name="ItemHead3Short">
+		<value>Powerful shamanic totem with a tiny downside (are you high?).</value>
+	</data>
+	<data name="ItemHead3Long">
+		<value>One monster in each dungeon will be a hallucination.</value>
+	</data>
+	<data name="ItemHead4">
+		<value>Royal crown</value>
+	</data>
+	<data name="ItemHead4Short">
+		<value>For a king, chests open their mysteries for less gold.</value>
+	</data>
+	<data name="ItemHead4Long">
+		<value>Opening a chest costs 10 gold less.</value>
+	</data>
+	<data name="ItemHead5">
+		<value>Ordinary great helm</value>
+	</data>
+	<data name="ItemHead5Short">
+		<value>Comes with ordinary defense and slightly reduced sight.</value>
+	</data>
+	<data name="ItemHead5Long">
+		<value>5% of your attacks miss their target due to your reduced sight.</value>
+	</data>
+	<data name="ItemPants1">
+		<value>Commonplace armor pants</value>
+	</data>
+	<data name="ItemPants1Desc" xml:space="preserve">
+		<value>Commonplace
+armor pants</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPants1Short">
+		<value>Commonplace protection against attacks.</value>
+	</data>
+	<data name="ItemPants1Long">
+		<value>Huge defense bonus, but restrained movement.</value>
+	</data>
+	<data name="ItemPants2">
+		<value>Trekker leather pants</value>
+	</data>
+	<data name="ItemPants2Desc" xml:space="preserve">
+		<value>Trekker
+leather pants</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPants2Short">
+		<value>Ensures free movement.</value>
+	</data>
+	<data name="ItemPants2Long">
+		<value>5% chance to dodge all incoming attacks.</value>
+	</data>
+	<data name="ItemPants3">
+		<value>Mawashi (sumo pants)</value>
+	</data>
+	<data name="ItemPants3Desc" xml:space="preserve">
+		<value>Mawashi
+(sumo pants)</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPants3Short">
+		<value>Meet the immovable, tough and healthful.</value>
+	</data>
+	<data name="ItemPants3Long">
+		<value>25% of your vitality also counts as attack.
+Immune to interrupts.</value>
+	</data>
+	<data name="ItemPants4">
+		<value>Rubber duck swim ring</value>
+	</data>
+	<data name="ItemPants4Desc" xml:space="preserve">
+		<value>Rubber duck
+swim ring</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPants4Short">
+		<value>Beating your head against the wall may actually lead to something...</value>
+	</data>
+	<data name="ItemPants4Long">
+		<value>Phase through thin walls after hitting them a few times, if the target is clear.</value>
+	</data>
+	<data name="ItemPants5">
+		<value>Fig leaf</value>
+	</data>
+	<data name="ItemPants5Short">
+		<value>Monsters astonished by your pants, or the lack of, forget to strike.</value>
+	</data>
+	<data name="ItemPants5Long">
+		<value>Always initiate in battles regardless of your speed.</value>
+	</data>
+	<data name="ItemShoulders1">
+		<value>Rhino shoulder blades</value>
+	</data>
+	<data name="ItemShoulders1Desc" xml:space="preserve">
+		<value>Rhino
+shoulder blades</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemShoulders1Short">
+		<value>Careful it is pointy, it could easily hurt anyone touching it!</value>
+	</data>
+	<data name="ItemShoulders1Long">
+		<value>When hit 5 points of damage is reflected to the striking enemy.</value>
+	</data>
+	<data name="ItemShoulders2">
+		<value>Pirate's crafty parrot</value>
+	</data>
+	<data name="ItemShoulders2Short">
+		<value>Helps with gold looting, just like it did for its previous owner.</value>
+	</data>
+	<data name="ItemShoulders2Long">
+		<value>+3 gold found every time you loot a monster.</value>
+	</data>
+	<data name="ItemShoulders3">
+		<value>Uninspired shoulder plate</value>
+	</data>
+	<data name="ItemShoulders3Desc" xml:space="preserve">
+		<value>Uninspired
+shoulder plate</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemShoulders3Short">
+		<value>Grants uninspired armor bonus.</value>
+	</data>
+	<data name="ItemShoulders3Long">
+		<value>Uninspired armor bonus, nothing more.</value>
+	</data>
+	<data name="ItemShoulders4">
+		<value>Leather pauldron</value>
+	</data>
+	<data name="ItemShoulders4Short">
+		<value>Stay nimble even under enduring protection.</value>
+	</data>
+	<data name="ItemShoulders4Long">
+		<value>+25% speed for your initiative trials besides the protection bonus.</value>
+	</data>
+	<data name="ItemShoulders5">
+		<value>Shoulder cannon</value>
+	</data>
+	<data name="ItemShoulders5Short">
+		<value>Though an effective weapon, it does not shoot plasma blasts.</value>
+	</data>
+	<data name="ItemShoulders5Long">
+		<value>Whenever you hit a target, randomly blasts a monster in the dungeon for 7 damage.</value>
+	</data>
+	<data name="ItemNecklace1">
+		<value>Heavy cross necklace</value>
+	</data>
+	<data name="ItemNecklace1Short">
+		<value>They should have stayed dead!</value>
+	</data>
+	<data name="ItemNecklace1Long">
+		<value>+33% attack bonus and 5% critical strike chance against undead and resurrected creatures.</value>
+	</data>
+	<data name="ItemNecklace2">
+		<value>Mana vial</value>
+	</data>
+	<data name="ItemNecklace2Short">
+		<value>Heavenly energy influencing your endurance.</value>
+	</data>
+	<data name="ItemNecklace2Long">
+		<value>Heals you for 4 points the first time you pick it up.</value>
+	</data>
+	<data name="ItemNecklace3">
+		<value>Velocity claw necklace</value>
+	</data>
+	<data name="ItemNecklace3Short">
+		<value>Claws of a ferocious beast from another realm gives hunter instincts.</value>
+	</data>	
+	<data name="ItemNecklace3Long">
+		<value>Grants as much critical strike chance as your speed value.</value>
+	</data>
+	<data name="ItemNecklace4">
+		<value>Gold digger's chain</value>
+	</data>
+	<data name="ItemNecklace4Short">
+		<value>I came to find gold, not to fight monstrosities.</value>
+	</data>
+	<data name="ItemNecklace4Long">
+		<value>Heals you for 1 health point when picking up gold.</value>
+	</data>
+	<data name="ItemNecklace5">
+		<value>Ring-maker's silver fist necklace</value>
+	</data>
+	<data name="ItemNecklace5Desc" xml:space="preserve">
+		<value>Ring-maker's
+silver fist necklace</value>
+	</data>
+	<data name="ItemNecklace5Short">
+		<value>Belonged to an unlucky smith. Could help with precious metal gathering.</value>
+	</data>
+	<data name="ItemNecklace5Long">
+		<value>+10 gold gained for defense bonus pickups, but reduces your defense by 10%.</value>
+	</data>
+	<data name="ItemScarf1">
+		<value>Hangman's favorite</value>
+	</data>
+	<data name="ItemScarf1Short">
+		<value>You may survive a deadly blow with only an aching neck.</value>
+	</data>
+	<data name="ItemScarf1Long">
+		<value>50% chance of nullifying damage suffered from a hit if it would be deadly.</value>
+	</data>
+	<data name="ItemScarf2">
+		<value>Airman scarf</value>
+	</data>
+	<data name="ItemScarf2Short">
+		<value>Bold and fearless like a real hero.</value>
+	</data>
+	<data name="ItemScarf2Long">
+		<value>Immunity to fear besides the speed and luck bonuses.</value>
+	</data>
+	<data name="ItemScarf3">
+		<value>Don't say its name three times</value>
+	</data>
+	<data name="ItemScarf3Short">
+		<value>I venture someplace scary, turning loose something ghastly!</value>
+	</data>
+	<data name="ItemScarf3Long">
+		<value>Saves you from 3 deadly hits, but you won't thank it for the third time!</value>
+	</data>
+	<data name="ItemScarf4">
+		<value>Monk cowl</value>
+	</data>
+	<data name="ItemScarf4Short">
+		<value>The monastery cook makes the most out of the ingredients available.</value>
+	</data>
+	<data name="ItemScarf4Long">
+		<value>Vitality pickups heal you for 1 to 3 extra points.</value>
+	</data>
+	<data name="ItemScarf5">
+		<value>Red bow tie</value>
+	</data>
+	<data name="ItemScarf5Short">
+		<value>A real gentleman maintains his elegance even during battle.</value>
+	</data>
+	<data name="ItemScarf5Long">
+		<value>+1% chance to dodge incoming attacks for every 2 points of speed value.</value>
+	</data>
+	<data name="ItemRing1">
+		<value>Engagement ring</value>
+	</data>
+	<data name="ItemRing1Short">
+		<value>This is going to cost you a lot for the rest of my life.</value>
+	</data>
+	<data name="ItemRing1Long">
+		<value>1 less gold found every time you pick up gold or loot a monster.</value>
+	</data>
+	<data name="ItemRing2">
+		<value>Insignificant ring</value>
+	</data>
+	<data name="ItemRing2Short">
+		<value>Don't let its name fool you, it could change things for the better.</value>
+	</data>
+	<data name="ItemRing2Long">
+		<value>In case of a tie on initiative you will start the battle.</value>
+	</data>
+	<data name="ItemRing3">
+		<value>Golden knuckles</value>
+	</data>
+	<data name="ItemRing3Short">
+		<value>The more money you have the more powerful you are.</value>
+	</data>
+	<data name="ItemRing3Long">
+		<value>+1 attack for every 10 gold you own (maximum +10).</value>
+	</data>
+	<data name="ItemRing4">
+		<value>Blood-finger claw</value>
+	</data>
+	<data name="ItemRing4Short">
+		<value>Critical strikes heal you.</value>
+	</data>
+	<data name="ItemRing4Long">
+		<value>1 health point retrieved when you deliver a critical strike.</value>
+	</data>
+	<data name="ItemRing5">
+		<value>Finger traps</value>
+	</data>
+	<data name="ItemRing5Short">
+		<value>How unfortunate, your trapped victims don't know how to relax.</value>
+	</data>
+	<data name="ItemRing5Long">
+		<value>Reduces the attack power of your enemies by 3 on each successful hit.</value>
+	</data>
+	<data name="ItemFeet1">
+		<value>Wanderer leather boots</value>
+	</data>
+	<data name="ItemFeet1Desc" xml:space="preserve">
+		<value>Wanderer
+leather boots</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemFeet1Short">
+		<value>Be swift even on hard terrain.</value>
+	</data>
+	<data name="ItemFeet1Long">
+		<value>5% chance to dodge an attack besides the speed bonus.</value>
+	</data>
+	<data name="ItemFeet2">
+		<value>Geta (samurai sandal)</value>
+	</data>
+	<data name="ItemFeet2Desc" xml:space="preserve">
+		<value>Geta
+(samurai sandal)</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemFeet2Short">
+		<value>Footwear to fight effectively.</value>
+	</data>
+	<data name="ItemFeet2Long">
+		<value>33% chance to land another quick jab after a successful hit.</value>
+	</data>
+	<data name="ItemFeet3">
+		<value>Unnoteworthy greaves</value>
+	</data>
+	<data name="ItemFeet3Short">
+		<value>Feels heavy, shields well though!</value>
+	</data>
+	<data name="ItemFeet3Long">
+		<value>Reduces your speed by 10% for initiative trials.</value>
+	</data>
+	<data name="ItemFeet4">
+		<value>Gambler pirate's peg leg</value>
+	</data>
+	<data name="ItemFeet4Desc" xml:space="preserve">
+		<value>Gambler pirate's
+peg leg</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemFeet4Short">
+		<value>Win big or lose it all at the market.</value>
+	</data>
+	<data name="ItemFeet4Long">
+		<value>Pay only 50% of the item cost at the market, but have 1 less choice.</value>
+	</data>
+	<data name="ItemFeet5">
+		<value>Zombie blood tainted socks</value>
+	</data>
+	<data name="ItemFeet5Short">
+		<value>Keeps your body parts together even after huge strikes.</value>
+	</data>
+	<data name="ItemFeet5Long">
+		<value>May heal up to 3 points when you are under 50% health and suffer damage.</value>
+	</data>
+	<data name="ItemHands1">
+		<value>Frenzied policeman's biker gloves</value>
+	</data>
+	<data name="ItemHands1Short">
+		<value>100% SNAFU</value>
+	</data>
+	<data name="ItemHands1Long">
+		<value>Interrupt immunity and attribute bonuses for reduced defense.</value>
+	</data>
+	<data name="ItemHands2">
+		<value>Medical gloves</value>
+	</data>
+	<data name="ItemHands2Short">
+		<value>Near immunity to poison and better coping with injury.</value>
+	</data>
+	<data name="ItemHands2Long">
+		<value>50% poison damage reduction and damage suffered above 5 points are nullified.</value>
+	</data>
+	<data name="ItemHands3">
+		<value>Foresters gloves</value>
+	</data>
+	<data name="ItemHands3Short">
+		<value>Frees your hands and sharpens your attacks.</value>
+	</data>
+	<data name="ItemHands3Long">
+		<value>10% critical strike chance besides the attack and speed bonus.</value>
+	</data>
+	<data name="ItemHands4">
+		<value>Boxing gloves</value>
+	</data>
+	<data name="ItemHands4Short">
+		<value>Interrupt your opponents in battle.</value>
+	</data>
+	<data name="ItemHands4Long">
+		<value>25% chance to interrupt your opponent when you attack first in battle.</value>
+	</data>
+	<data name="ItemHands5">
+		<value>Dull gauntlets</value>
+	</data>
+	<data name="ItemHands5Short">
+		<value>Dull on multiple levels, yet shields well and hits hard.</value>
+	</data>
+	<data name="ItemHands5Long">
+		<value>Increases both your attack and defense values, but reduces your speed.</value>
+	</data>
+	<data name="ItemPocket1">
+		<value>Magician's ace of clubs</value>
+	</data>
+	<data name="ItemPocket1Desc" xml:space="preserve">
+		<value>Magician's
+ace of clubs</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPocket1Short">
+		<value>Grants a keen eye for rare artifacts.</value>
+	</data>
+	<data name="ItemPocket1Long">
+		<value>+66 luck for finding better artifacts scattered around the dungeon and in chests.</value>
+	</data>
+	<data name="ItemPocket2">
+		<value>Buzzard feather</value>
+	</data>
+	<data name="ItemPocket2Short">
+		<value>Looks like the owner of this dungeon has lost a precious artifact.</value>
+	</data>
+	<data name="ItemPocket2Long">
+		<value>+6 attack bonus against were, giant, mutant and avian creatures.</value>
+	</data>
+	<data name="ItemPocket3">
+		<value>Prayer book</value>
+	</data>
+	<data name="ItemPocket3Short">
+		<value>A prayer could turn poison into wine?!</value>
+	</data>
+	<data name="ItemPocket3Long">
+		<value>+33 luck for a better chance of finding unknown potions with a positive effect.</value>
+	</data>
+	<data name="ItemPocket4">
+		<value>Accustomed spell scroll</value>
+	</data>
+	<data name="ItemPocket4Desc" xml:space="preserve">
+		<value>Accustomed
+spell scroll</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPocket4Short">
+		<value>Instructions: chant when drinking an elixir...</value>
+	</data>
+	<data name="ItemPocket4Long">
+		<value>+50 luck for affecting the healing power of health potions.</value>
+	</data>
+	<data name="ItemPocket5">
+		<value>Skeleton key</value>
+	</data>
+	<data name="ItemPocket5Short">
+		<value>Only half the hassle to open a chest.</value>
+	</data>
+	<data name="ItemPocket5Long">
+		<value>Chest costs reduced by 50%.</value>
+	</data>
+	<data name="ItemChest1">
+		<value>Boring breastplate</value>
+	</data>
+	<data name="ItemChest1Short">
+		<value>Armed with boring defense bonus.</value>
+	</data>
+	<data name="ItemChest1Long">
+		<value>+10% to your final defense value, but slows you down a little.</value>
+	</data>
+	<data name="ItemChest2">
+		<value>Cardboard box</value>
+	</data>
+	<data name="ItemChest2Short">
+		<value>High chance to evade when no one knows exactly where to strike.</value>
+	</data>
+	<data name="ItemChest2Long">
+		<value>20% chance to dodge all incoming attacks.</value>
+	</data>
+	<data name="ItemChest3">
+		<value>Mad man's leather jacket</value>
+	</data>
+	<data name="ItemChest3Desc" xml:space="preserve">
+		<value>Mad man's
+leather jacket</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemChest3Short">
+		<value>Terminal craze with a bronze badge that says "One of the good guys".</value>
+	</data>
+	<data name="ItemChest3Long">
+		<value>Attack and speed bonus with a major defense penalty.</value>
+	</data>
+	<data name="ItemChest4">
+		<value>Giant beetle carapace</value>
+	</data>
+	<data name="ItemChest4Short">
+		<value>Renders its healthy wearer nearly invulnerable.</value>
+	</data>
+	<data name="ItemChest4Long">
+		<value>+10 defense bonus if you have 50% or more of your maximum health.</value>
+	</data>
+	<data name="ItemChest5">
+		<value>Straitjacket</value>
+	</data>
+	<data name="ItemChest5Short">
+		<value>Show no fear, no emotion, rush into battle like a crazy person!</value>
+	</data>
+	<data name="ItemChest5Long">
+		<value>Immunity to fear.
+Immunity to interrupts.
++25% attack and speed bonus.</value>
+	</data>
+	<data name="ItemCompanion1">
+		<value>Bear</value>
+	</data>
+	<data name="ItemCompanion1Short">
+		<value>Pain is a little more bearable.</value>
+	</data>
+	<data name="ItemCompanion1Long">
+		<value>1 damage reduced from the final damage suffered on top of your defense.</value>
+	</data>
+	<data name="ItemCompanion2">
+		<value>Mosquito in amber</value>
+	</data>
+	<data name="ItemCompanion2Short">
+		<value>Legends tell of a lost world it could resurrect.</value>
+	</data>
+	<data name="ItemCompanion2Long">
+		<value>Resurrects you upon death, replenishing 100% of your health, but only once!</value>
+	</data>
+	<data name="ItemCompanion3">
+		<value>Snail</value>
+	</data>
+	<data name="ItemCompanion3Short">
+		<value>Slow critter filling your heart with warmth.</value>
+	</data>
+	<data name="ItemCompanion3Long">
+		<value>Heals you for 25% of your maximum health when reaching the next dungeon.</value>
+	</data>
+	<data name="ItemCompanion4">
+		<value>Dragon egg</value>
+	</data>
+	<data name="ItemCompanion4Short">
+		<value>A green breed with a long tongue, devouring enemies.</value>
+	</data>
+	<data name="ItemCompanion4Long">
+		<value>Heals you for 1 health point when you kill a monster.</value>
+	</data>
+	<data name="ItemCompanion5">
+		<value>Fairy fungus</value>
+	</data>
+	<data name="ItemCompanion5Short">
+		<value>Grows over all of your stuff, even you too...</value>
+	</data>
+	<data name="ItemCompanion5Long">
+		<value>+1 permanent defense bonus when reaching the next dungeon (maximum +7).</value>
+	</data>
+	<data name="ItemPouch1">
+		<value>Leprechaun's sack</value>
+	</data>
+	<data name="ItemPouch1Short">
+		<value>A whole spectrum of gold, like a rainbow!</value>
+	</data>
+	<data name="ItemPouch1Long">
+		<value>+1 luck for every 5 gold you own (maximum +10).</value>
+	</data>
+	<data name="ItemPouch2">
+		<value>Ancient briefcase</value>
+	</data>
+	<data name="ItemPouch2Short">
+		<value>One can always find hidden money in old pockets.</value>
+	</data>
+	<data name="ItemPouch2Long">
+		<value>+1 gold found every time you pick up gold or loot a monster.</value>
+	</data>
+	<data name="ItemPouch3">
+		<value>Mimic pouch</value>
+	</data>
+	<data name="ItemPouch3Short">
+		<value>A horrific, but handy creature for battle.</value>
+	</data>
+	<data name="ItemPouch3Long">
+		<value>5% chance to intimidate a monster on a successful hit, leaving it in fear.</value>
+	</data>
+	<data name="ItemPouch4">
+		<value>Leather flask</value>
+	</data>
+	<data name="ItemPouch4Short">
+		<value>Can be filled with beverages found in chests.</value>
+	</data>
+	<data name="ItemPouch4Long">
+		<value>Heals you for 1 health point when you open a chest.</value>
+	</data>
+	<data name="ItemPouch5">
+		<value>Hulu (Bottle gourd)</value>
+	</data>
+	<data name="ItemPouch5Short">
+		<value>Transforms every beverage into panacea.</value>
+	</data>
+	<data name="ItemPouch5Long">
+		<value>50% more health points gained when drinking health potions.</value>
+	</data>
+	<data name="ItemFace1">
+		<value>Pirate's eyepatch</value>
+	</data>
+	<data name="ItemFace1Short">
+		<value>Pirates love to haggle!</value>
+	</data>
+	<data name="ItemFace1Long">
+		<value>Buying something in the market costs 15 gold less.</value>
+	</data>
+	<data name="ItemFace2">
+		<value>Spyglass</value>
+	</data>
+	<data name="ItemFace2Short">
+		<value>Reveals the true stance of the monsters.</value>
+	</data>
+	<data name="ItemFace2Long">
+		<value>Health bars of the monsters are visible when equipped and reveals hallucinations.</value>
+	</data>
+	<data name="ItemFace3">
+		<value>Red tie</value>
+	</data>
+	<data name="ItemFace3Short">
+		<value>Tying it on your forehead makes you stronger.</value>
+	</data>
+	<data name="ItemFace3Long">
+		<value>The attack and speed bonuses of the tie are doubled when you are under 50% health.</value>
+	</data>
+	<data name="ItemFace4">
+		<value>Carnival mask</value>
+	</data>
+	<data name="ItemFace4Short">
+		<value>Imbued with dark magic, blurs the line between reality and imagination.</value>
+	</data>
+	<data name="ItemFace4Long">
+		<value>25% chance of turning a random monster into a hallucination whenever you kill an enemy.</value>
+	</data>
+	<data name="ItemFace5">
+		<value>Creepy bandana</value>
+	</data>
+	<data name="ItemFace5Short">
+		<value>Petrifies your enemies.</value>
+	</data>
+	<data name="ItemFace5Long">
+		<value>33% chance to scare your enemies at the start of a battle, skipping their next attack due to fear.</value>
+	</data>
+	<data name="ItemWaist1">
+		<value>Usual belt</value>
+	</data>
+	<data name="ItemWaist1Short">
+		<value>A sturdy belt, nothing unusual.</value>
+	</data>
+	<data name="ItemWaist1Long">
+		<value>Grants 2 health points the first time you pick it up.</value>
+	</data>
+	<data name="ItemWaist2">
+		<value>Super mega-belt</value>
+	</data>
+	<data name="ItemWaist2Short">
+		<value>Everything is better when it's prefixed by super! Same goes for mega.</value>
+	</data>
+	<data name="ItemWaist2Long">
+		<value>+1 more health point gained when drinking health potions.</value>
+	</data>
+	<data name="ItemWaist3">
+		<value>Champion's belt</value>
+	</data>
+	<data name="ItemWaist3Short">
+		<value>How hard can you get hit?</value>
+	</data>
+	<data name="ItemWaist3Long">
+		<value>Replenishes 25% of your health after every fifth monster you killed.</value>
+	</data>
+	<data name="ItemWaist4">
+		<value>Utility belt</value>
+	</data>
+	<data name="ItemWaist4Short">
+		<value>Have something for every situation.</value>
+	</data>
+	<data name="ItemWaist4Long">
+		<value>5% chance to strike a critical hit.
+2% chance to dodge incoming attacks.</value>
+	</data>
+	<data name="ItemWaist5">
+		<value>Lenymn's red sash</value>
+	</data>
+	<data name="ItemWaist5Short">
+		<value>Who the hell is Lenymn and why is the sash red, why not green?!</value>
+	</data>
+	<data name="ItemWaist5Long">
+		<value>+25% speed bonus to your initiative trials.</value>
+	</data>
+	<data name="ItemBracelet1">
+		<value>Shackles</value>
+	</data>
+	<data name="ItemBracelet1Short">
+		<value>Slows monsters.</value>
+	</data>
+	<data name="ItemBracelet1Long">
+		<value>Permanently reduces the speed of monsters to 0 when hitting them.</value>
+	</data>
+	<data name="ItemBracelet2">
+		<value>Rainbow arm band</value>
+	</data>
+	<data name="ItemBracelet2Short">
+		<value>Diversity adds richness.</value>
+	</data>
+	<data name="ItemBracelet2Long">
+		<value>+1 to all your attributes.</value>
+	</data>
+	<data name="ItemBracelet3">
+		<value>Brass charm bracelet</value>
+	</data>
+	<data name="ItemBracelet3Short">
+		<value>Lucky charm and a warrior's adornment in one.</value>
+	</data>
+	<data name="ItemBracelet3Long">
+		<value>+25 luck for influencing the amount found when you loot a monster.</value>
+	</data>
+	<data name="ItemBracelet4">
+		<value>Sundial watch</value>
+	</data>
+	<data name="ItemBracelet4Short">
+		<value>It can not even measure time without sunlight, but can it skew it bit?</value>
+	</data>
+	<data name="ItemBracelet4Long">
+		<value>10% chance of bending time and nullifying the damage suffered from a hit.</value>
+	</data>
+	<data name="ItemBracelet5">
+		<value>Stocks</value>
+	</data>
+	<data name="ItemBracelet5Short">
+		<value>Not too helpful in a fight, but it is surprisingly sturdy.</value>
+	</data>
+	<data name="ItemBracelet5Long">
+		<value>Immunity to interrupts and a huge defense bonus for reduced attack and speed.</value>
+	</data>
+	<data name="ItemMainHand1">
+		<value>Sword of mediocrity</value>
+	</data>
+	<data name="ItemMainHand1Short">
+		<value>At least it is sharp...</value>
+	</data>
+	<data name="ItemMainHand1Long">
+		<value>Significant attack bonus.</value>
+	</data>
+	<data name="ItemMainHand2">
+		<value>Mace blunt</value>
+	</data>
+	<data name="ItemMainHand2Short">
+		<value>Its shaft is brilliant, its head is pure (steel).</value>
+	</data>
+	<data name="ItemMainHand2Long">
+		<value>+50% bonus to your final attack value.</value>
+	</data>
+	<data name="ItemMainHand3">
+		<value>Rusty axe</value>
+	</data>
+	<data name="ItemMainHand3Short">
+		<value>Leaves a nasty wide open wound.</value>
+	</data>
+	<data name="ItemMainHand3Long">
+		<value>Permanently reduces the vitality of a damaged creature by 30%.</value>
+	</data>
+	<data name="ItemMainHand4">
+		<value>Risk of pain</value>
+	</data>
+	<data name="ItemMainHand4Short">
+		<value>Nunchucks are versatile, but beware, you can hurt yourself.</value>
+	</data>
+	<data name="ItemMainHand4Long">
+		<value>50% critical strike chance, but 10% chance to hit yourself for 3 points.</value>
+	</data>
+	<data name="ItemMainHand5">
+		<value>Thunder mallet</value>
+	</data>
+	<data name="ItemMainHand5Short">
+		<value>Lightning strike inside the dungeon! What in the world?</value>
+	</data>
+	<data name="ItemMainHand5Long">
+		<value>When hitting a monster lightning will strike every enemy in the dungeon damaging 1 point.</value>
+	</data>
+	<!-- 100+ -->
+	<data name="ItemPocket6">
+		<value>Lost raven feather</value>
+	</data>
+	<data name="ItemPocket6Short">
+		<value>In exchange for it, squeeze out extra merchandise from its owner.</value>
+	</data>
+	<data name="ItemPocket6Long">
+		<value>1 extra choice in the black raven market.</value>
+	</data>
+	<data name="ItemMainHand6">
+		<value>Dao dual swords</value>
+	</data>
+	<data name="ItemMainHand6Short">
+		<value>Don't think of them as separate. They're two halves of a single weapon.</value>
+	</data>
+	<data name="ItemMainHand6Long">
+		<value>25% chance to land another quick jab when attacking.</value>
+	</data>
+	<data name="ItemPouch6">
+		<value>Antidote potion</value>
+	</data>
+	<data name="ItemPouch6Short">
+		<value>Poison?! Nah, it's called vodka...</value>
+	</data>
+	<data name="ItemPouch6Long">
+		<value>Nullifies damage suffered from poisoning and neutralizes hallucinogens.</value>
+	</data>
+	<data name="ItemOffHand6">
+		<value>Toxin dagger</value>
+	</data>
+	<data name="ItemOffHand6Short">
+		<value>Don't breathe the toxic gas!</value>
+	</data>
+	<data name="ItemOffHand6Long">
+		<value>When killing a monster toxic gases will poison every enemy in the dungeon damaging 3 points.</value>
+	</data>
+	<data name="ItemHead6">
+		<value>Pumpkin helmet</value>
+	</data>
+	<data name="ItemHead6Short">
+		<value>Said the Raven, in fear shaking, shrieking, "Nevermore".</value>
+	</data>
+	<data name="ItemHead6Long">
+		<value>You can buy multiple pickups or items in the shop, not only one.</value>
+	</data>
+	<data name="ItemChest6">
+		<value>Red shirt</value>
+	</data>
+	<data name="ItemChest6Short">
+		<value>Rank: Security officer. Emergency call: "Beam me up".</value>
+	</data>
+	<data name="ItemChest6Long">
+		<value>Has 20% chance to save you from death by teleporting to a nearby location.</value>
+	</data>
+	<data name="ItemCompanion6">
+		<value>Hedgehog familiar</value>
+	</data>
+	<data name="ItemCompanion6Short">
+		<value>Fast, blue and sturdy follower, but loses gold every time when hurt.</value>
+	</data>
+	<data name="ItemCompanion6Long">
+		<value>When hit 1 damage is reflected to the striking enemy, but also 1 gold gets lost.</value>
+	</data>
+	<data name="ItemFace6">
+		<value>Unic(h)orn</value>
+	</data>
+	<data name="ItemFace6Short">
+		<value>Attach it to your forehead to experience power level over 9000.</value>
+	</data>
+	<data name="ItemFace6Long">
+		<value>1% chance to deliver 9001 damage when hitting lesser beings (boss excluded).</value>
+	</data>
+	<data name="ItemShoulders6">
+		<value>Shoulder pads</value>
+	</data>
+	<data name="ItemShoulders6Short">
+		<value>Quarterback, lead the offense from a defensive position!</value>
+	</data>
+	<data name="ItemShoulders6Long">
+		<value>25% of your defense also counts as attack.</value>
+	</data>
+	<data name="ItemBackpack6">
+		<value>Identity disc</value>
+	</data>
+	<data name="ItemBackpack6Short">
+		<value>Here goes something; here comes nothing!</value>
+	</data>
+	<data name="ItemBackpack6Long">
+		<value>20% chance to phase through enemies when hitting them, if the target is clear.</value>
+	</data>
+	<data name="ItemHands6">
+		<value>Pickaxe gloves</value>
+	</data>
+	<data name="ItemHands6Short">
+		<value>And the new title is "I Am OverCraft"</value>
+	</data>
+	<data name="ItemHands6Long">
+		<value>Hitting a dungeon wall a few times destroys it (maximum 10 uses).</value>
+	</data>
+	<data name="ItemWaist6">
+		<value>Tool belt</value>
+	</data>
+	<data name="ItemWaist6Short">
+		<value>It is so infuriating that chests block the way...</value>
+	</data>
+	<data name="ItemWaist6Long">
+		<value>You can take apart opened chests.</value>
+	</data>
+	<data name="ItemNecklace6">
+		<value>Snake eyes pendant</value>
+	</data>
+	<data name="ItemNecklace6Short">
+		<value>Don't look in it's eyes!</value>
+	</data>
+	<data name="ItemNecklace6Long">
+		<value>30% chance to scare the monsters in the dungeon, when entering a floor.</value>
+	</data>
+	<data name="ItemRing6">
+		<value>Wishbone ring</value>
+	</data>
+	<data name="ItemRing6Short">
+		<value>Even parts of dead birds have great power in this dungeon.</value>
+	</data>
+	<data name="ItemRing6Long">
+		<value>A randomly selected chest will be opened for free (maximum 5), when entering a floor.</value>
+	</data>
+	<data name="ItemFeet6">
+		<value>Crutch and leg cast</value>
+	</data>
+	<data name="ItemFeet6Short">
+		<value>Think about the possibilities: priority seat on public transport!</value>
+	</data>
+	<data name="ItemFeet6Long">
+		<value>Heals you 1 point, when entering a dungeon floor.</value>
+	</data>
+	<data name="ItemForearms6">
+		<value>Grappling hook</value>
+	</data>
+	<data name="ItemForearms6Short">
+		<value>Worm platoon, do 10 push ups and the Indian rope trick!</value>
+	</data>
+	<data name="ItemForearms6Long">
+		<value>8% chance to jump over enemies when hitting them, if the target is clear.</value>
+	</data>
+	<data name="ItemCape6">
+		<value>Frostborn hood</value>
+	</data>
+	<data name="ItemCape6Short">
+		<value>Sacred relic of the frostborn mongers.</value>
+	</data>
+	<data name="ItemCape6Long">
+		<value>Damages monsters for 1 point and reduces their speed to 0 when killing an enemy.</value>
+	</data>
+	<data name="ItemNecklace7">
+		<value>Cyclops eye</value>
+	</data>
+	<data name="ItemNecklace7Short">
+		<value>Not the one with the X gene, but the monster. Or maybe it is?!</value>
+	</data>
+	<data name="ItemNecklace7Long">
+		<value>Shots a death ray on every third strike damaging for 100% of your attack value.</value>
+	</data>
+	<data name="ItemScarf6">
+		<value>Overcharged scarf</value>
+	</data>
+	<data name="ItemScarf6Short">
+		<value>What happens when a magic scarf gets static?</value>
+	</data>
+	<data name="ItemScarf6Long">
+		<value>On every hit lightning strikes 3 nearby monsters damaging for 20% of your attack.</value>
+	</data>
+	<data name="ItemBracelet6">
+		<value>Gemstone wristlet</value>
+	</data>
+	<data name="ItemBracelet6Short">
+		<value>Brilliance, carved from the crystalline depths.</value>
+	</data>
+	<data name="ItemBracelet6Long">
+		<value>+4 to all your attributes.</value>
+	</data>
+	<data name="ItemPants6">
+		<value>Gladiator pteruges</value>
+	</data>
+	<data name="ItemPants6Short">
+		<value>Came for the protection, but stayed due to swiftness.</value>
+	</data>
+	<data name="ItemPants6Long">
+		<value>50% chance to increase your defense and speed in a battle by 2.</value>
+	</data>
+	<data name="ItemMainHand7">
+		<value>Flail of failure</value>
+	</data>
+	<data name="ItemMainHand7Short">
+		<value>Failure is inevitable. Get used to it and build on it!</value>
+	</data>
+	<data name="ItemMainHand7Long">
+		<value>5% of your strikes miss their target, but adds 1 to 4 to your attack in a battle.</value>
+	</data>
+</root>

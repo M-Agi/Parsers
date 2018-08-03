@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Font texture="Fonts\FontTiny.png" height="9">
+	<SpaceWidth>4</SpaceWidth>
+	<TabWidth>19</TabWidth>
+	<MinimumLineHeight>9</MinimumLineHeight>
+	<PlaceholderGlyph>117 40 5 9</PlaceholderGlyph>
+	<GlyphTable>
+		<Glyph number="32" advance="4">91 30 5 9</Glyph>
+		<Glyph number="33" advance="3">113 40 3 9</Glyph>
+		<Glyph number="34" advance="5">55 30 5 9</Glyph>
+  </GlyphTable>
+</Font>

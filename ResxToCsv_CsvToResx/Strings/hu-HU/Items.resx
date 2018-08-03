@@ -1,0 +1,1181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<metadata name="comments" />
+	<data name="ItemBackpack1">
+		<value>A Hiány Hátizsákja</value>
+	</data>
+	<data name="ItemBackpack1Short">
+		<value>Gyűjtögetőnek lenni nagy erény!</value>
+	</data>
+	<data name="ItemBackpack1Long">
+		<value>Tárgyak felvétele első alkalommal (ezt is beleértve) 1 életpontot gyógyít.</value>
+	</data>
+	<data name="ItemBackpack2">
+		<value>Lant</value>
+	</data>
+	<data name="ItemBackpack2Short">
+		<value>Vándorló muzsikusok gyakran könnyen jött pénzbe botlanak.</value>
+	</data>
+	<data name="ItemBackpack2Long">
+		<value>+50 szerencse talált pénz mennyiségének befolyásolására.</value>
+	</data>
+	<data name="ItemBackpack3">
+		<value>Talicska</value>
+	</data>
+	<data name="ItemBackpack3Short">
+		<value>Hát így mingyárt más nehézfémeket cipelni.</value>
+	</data>
+	<data name="ItemBackpack3Long">
+		<value>+100% bónusz permanens védelem kincsekre (maximum 5 alkalommal).</value>
+	</data>
+	<data name="ItemBackpack4">
+		<value>Kondér</value>
+	</data>
+	<data name="ItemBackpack4Short">
+		<value>Főzd meg az ételed, hogy a hazaútra is maradjon elemózsia.</value>
+	</data>
+	<data name="ItemBackpack4Long">
+		<value>+1 bónusz a permanens támadás és életerő kincsekre (maximum 6 alkalommal).</value>
+	</data>
+	<data name="ItemBackpack5">
+		<value>Batyu</value>
+	</data>
+	<data name="ItemBackpack5Short">
+		<value>Ha elég messzire utazol, biztos vagyonra lelsz.</value>
+	</data>
+	<data name="ItemBackpack5Long">
+		<value>A tömlöc minden szintjén +1 extra kincs vár.</value>
+	</data>
+	<data name="ItemCape1">
+		<value>A Természetjáró kabátja</value>
+	</data>
+	<data name="ItemCape1Short">
+		<value>Tartós ruházat és mégis könnyed mozgás.</value>
+	</data>
+	<data name="ItemCape1Long">
+		<value>Extra gyorsaság és védelem bónusz egyidőben.</value>
+	</data>
+	<data name="ItemCape2">
+		<value>Susogós vámpír köpönyeg</value>
+	</data>
+	<data name="ItemCape2Desc" xml:space="preserve">
+		<value>Susogós
+vámpír köpeny</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemCape2Short">
+		<value>A vér mától felfrissít.</value>
+	</data>
+	<data name="ItemCape2Long">
+		<value>33% esély 1 életpont ellopására sebzéskor (csak 10% élőholtak ellen).</value>
+	</data>
+	<data name="ItemCape3">
+		<value>Lidérc csuha</value>
+	</data>
+	<data name="ItemCape3Short">
+		<value>Minden gyilkosság hatalmasabbá tesz.</value>
+	</data>
+	<data name="ItemCape3Long">
+		<value>Amíg viseled +1 életerő minden 3 szörny megöléséért (maximum +10).</value>
+	</data>
+	<data name="ItemCape4">
+		<value>Mágus palást</value>
+	</data>
+	<data name="ItemCape4Short">
+		<value>Vedd a kezedbe a sorsod, akárcsak egy erős mágus!</value>
+	</data>
+	<data name="ItemCape4Long">
+		<value>+100% bónusz minden szerencse próbádra.</value>
+	</data>
+	<data name="ItemCape5">
+		<value>Királyi köpeny</value>
+	</data>
+	<data name="ItemCape5Short">
+		<value>Minden nyitott láda a királyi vagyont és szerencsét gyarapítja.</value>
+	</data>
+	<data name="ItemCape5Long">
+		<value>+1 permanens szerencse bónusz jár egy láda kinyitásakor (maximum +10).</value>
+	</data>
+	<data name="ItemOffHand1">
+		<value>Félhold kerek pajzs</value>
+	</data>
+	<data name="ItemOffHand1Short">
+		<value>A rád támadó szörnyek ben úszhatják meg az isteni bűntetést.</value>
+	</data>
+	<data name="ItemOffHand1Long">
+		<value>Visszaveri a téged érő sebzés 200%-át.
+Immunitás a megszakításra.</value>
+	</data>
+	<data name="ItemOffHand2">
+		<value>Hárítótőr</value>
+	</data>
+	<data name="ItemOffHand2Short">
+		<value>A legjobb védekezés a támadás.</value>
+	</data>
+	<data name="ItemOffHand2Long">
+		<value>15% esély, hogy a védekezési értékedet támadásként használd harcban.</value>
+	</data>
+	<data name="ItemOffHand3">
+		<value>Elcsépelt vitéz pajzs</value>
+	</data>
+	<data name="ItemOffHand3Short">
+		<value>Ennél elcsépeltebb védekezési bónusz már nem is lehet.</value>
+	</data>
+	<data name="ItemOffHand3Long">
+		<value>Remek védelem egy kis sebesség vesztésért cserébe.</value>
+	</data>
+	<data name="ItemOffHand4">
+		<value>Jövendőmondó varázsgömbje</value>
+	</data>
+	<data name="ItemOffHand4Short">
+		<value>Talán jó szerencsét hoz, talán nem...</value>
+	</data>
+	<data name="ItemOffHand4Long">
+		<value>+5 bónusz minden szerencsepróbára.</value>
+	</data>
+	<data name="ItemOffHand5">
+		<value>Királyi égisz</value>
+	</data>
+	<data name="ItemOffHand5Short">
+		<value>Pénznek szerelme, gonoszság gyökere, de az ördögöt is meg lehet venni.</value>
+	</data>
+	<data name="ItemOffHand5Long">
+		<value>+1% védelem minden 5 nálad lévő aranyért (maximum +50%).</value>
+	</data>
+	<data name="ItemForearms1">
+		<value>Szokványos alkarvédő</value>
+	</data>
+	<data name="ItemForearms1Short">
+		<value>A védelmi bónusz is elég szokványos.</value>
+	</data>
+	<data name="ItemForearms1Long">
+		<value>Mérsékelt védelmi és apró támadási bónusz, kisebb sebesség árán.</value>
+	</data>
+	<data name="ItemForearms2">
+		<value>Ismétlő nyílpuska</value>
+	</data>
+	<data name="ItemForearms2Short">
+		<value>Rejtett trükk kivégző mozdulatokhoz.</value>
+	</data>
+	<data name="ItemForearms2Long">
+		<value>Négyszeres támadási érték 50% alatti életerővel rendelkező szörnyek ellen.</value>
+	</data>
+	<data name="ItemForearms3">
+		<value>Rejtett penge</value>
+	</data>
+	<data name="ItemForearms3Short">
+		<value>Egy jól időzített támadás mindig kritikus.</value>
+	</data>
+	<data name="ItemForearms3Long">
+		<value>Minden támadás teljes életerős szörnyek ellen kritikus csapás lesz.</value>
+	</data>
+	<data name="ItemForearms4">
+		<value>Barbár alkarpánt</value>
+	</data>
+	<data name="ItemForearms4Short">
+		<value>Törd meg az ellenségeid védelmét.</value>
+	</data>
+	<data name="ItemForearms4Long">
+		<value>Véglegesen lecsökkenti a megsebzett lény védelmét 33%-kal és 5% esély megszakításra.</value>
+	</data>
+	<data name="ItemForearms5">
+		<value>Ingujj pisztoly</value>
+	</data>
+	<data name="ItemForearms5Short">
+		<value>Egy kis extra tűzerő a csatákhoz.</value>
+	</data>
+	<data name="ItemForearms5Long">
+		<value>100% bónusz érték minden negyedik támadásodhoz.</value>
+	</data>
+	<data name="ItemHead1">
+		<value>Varázsló sityak</value>
+	</data>
+	<data name="ItemHead1Short">
+		<value>A tiszta elme ellenáll minden illúziónak.</value>
+	</data>
+	<data name="ItemHead1Long">
+		<value>A szerencse bónuszon kívül eloszlat minden hallucinációt azonnal.</value>
+	</data>
+	<data name="ItemHead2">
+		<value>Nekromanta fejfedője</value>
+	</data>
+	<data name="ItemHead2Short">
+		<value>Elég szagos, de a szörnyek összetévesztenek a halál urával!</value>
+	</data>
+	<data name="ItemHead2Long">
+		<value>33% eséllyel félelmet keltesz a szörnyekben, ha megölsz egy ellenséget.</value>
+	</data>
+	<data name="ItemHead3">
+		<value>Farkas fej totem</value>
+	</data>
+	<data name="ItemHead3Short">
+		<value>Nagy erejű shámán totem egy kis hátránnyal (te be vagy lőve?).</value>
+	</data>
+	<data name="ItemHead3Long">
+		<value>Minden szinten a tömlöcben egy szörny hallucináció lesz.</value>
+	</data>
+	<data name="ItemHead4">
+		<value>Királyi korona</value>
+	</data>
+	<data name="ItemHead4Short">
+		<value>Egy király számára minden ajtó és zár könnyebben nyílik.</value>
+	</data>
+	<data name="ItemHead4Long">
+		<value>A ládák kinyitása 10 arannyal kevesebbe kerül.</value>
+	</data>
+	<data name="ItemHead5">
+		<value>Hétköznapi páncél sisak</value>
+	</data>
+	<data name="ItemHead5Short">
+		<value>Hétköznapi védelemmel és nehéz látási viszonyokkal jár együtt.</value>
+	</data>
+	<data name="ItemHead5Long">
+		<value>Támadásaid 5%-át elvéted a kis részeken való kukucskálás miatt.</value>
+	</data>
+	<data name="ItemPants1">
+		<value>Közönséges páncélozott nadrág</value>
+	</data>
+	<data name="ItemPants1Desc" xml:space="preserve">
+		<value>Közönséges
+páncélozott nadrág</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPants1Short">
+		<value>Közönséges védelem támadások ellen.</value>
+	</data>
+	<data name="ItemPants1Long">
+		<value>Hatalmas védelem, de nehezített mozgás.</value>
+	</data>
+	<data name="ItemPants2">
+		<value>Túra bőrnadrág</value>
+	</data>
+	<data name="ItemPants2Desc" xml:space="preserve">
+		<value>Túra bőrnadrág</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPants2Short">
+		<value>Szabad mozgást biztosít.</value>
+	</data>
+	<data name="ItemPants2Long">
+		<value>5% esély, hogy kitérj támadások elől.</value>
+	</data>
+	<data name="ItemPants3">
+		<value>Mawashi (szumó nadrág)</value>
+	</data>
+	<data name="ItemPants3Desc" xml:space="preserve">
+		<value>Mawashi
+(szumó nadrág)</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPants3Short">
+		<value>Üdvözöld a hústornyot, kemény és élterős.</value>
+	</data>
+	<data name="ItemPants3Long">
+		<value>Az életerőd 25%-a hozzáadódik a tamádásodhoz.
+Megszakíthatatlan.</value>
+	</data>
+	<data name="ItemPants4">
+		<value>Gumi kacsa úszógyűrű</value>
+	</data>
+	<data name="ItemPants4Desc" xml:space="preserve">
+		<value>Gumi kacsa úszógyűrű</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPants4Short">
+		<value>Ne menj fejjel a falnak, kivéve ha mégis vezet valamire...</value>
+	</data>
+	<data name="ItemPants4Long">
+		<value>Átmehetsz a vékony falakon ha a célpont üres, csak kell pár nekifutás.</value>
+	</data>
+	<data name="ItemPants5">
+		<value>Fügelevél</value>
+	</data>
+	<data name="ItemPants5Short">
+		<value>A szörnyeket lefoglalja a nadrágod, mármint a hiánya, megfeledkeznek a harcról.</value>
+	</data>
+	<data name="ItemPants5Long">
+		<value>Mindenképp te kezded a harcot, függetlenül a sebességedtől.</value>
+	</data>
+	<data name="ItemShoulders1">
+		<value>Orrszarvú váll pengék</value>
+	</data>
+	<data name="ItemShoulders1Desc" xml:space="preserve">
+		<value>Orrszarvú
+váll pengék</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemShoulders1Short">
+		<value>Óvatosan, nagyon hegyes. Bárkit megszúrhat aki hozzáér!</value>
+	</data>
+	<data name="ItemShoulders1Long">
+		<value>Visszaver 5 pontnyi sebzést a támadó ellenfélre.</value>
+	</data>
+	<data name="ItemShoulders2">
+		<value>Ravasz kalóz papagája</value>
+	</data>
+	<data name="ItemShoulders2Short">
+		<value>Segít az arany szerzésben, pont ahogy a régi gazdáját is szolgálta.</value>
+	</data>
+	<data name="ItemShoulders2Long">
+		<value>+3 aranyat találsz a szörnyek tetemének átkutatásakor.</value>
+	</data>
+	<data name="ItemShoulders3">
+		<value>Ötlettelen váll pajzs</value>
+	</data>
+	<data name="ItemShoulders3Desc" xml:space="preserve">
+		<value>Ötlettelen
+váll pajzs</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemShoulders3Short">
+		<value>Ötlettelen védelmi bónuszt nyújt.</value>
+	</data>
+	<data name="ItemShoulders3Long">
+		<value>Csak ötlettelen védelmi bónusz, semmi más.</value>
+	</data>
+	<data name="ItemShoulders4">
+		<value>Bőr vállvédő</value>
+	</data>
+	<data name="ItemShoulders4Short">
+		<value>Maradj mozgékony kitartó védelem mellett is.</value>
+	</data>
+	<data name="ItemShoulders4Long">
+		<value>+25% sebesség érték reakció próbákra a védelmi bónuszon kívül.</value>
+	</data>
+	<data name="ItemShoulders5">
+		<value>Vállvető</value>
+	</data>
+	<data name="ItemShoulders5Short">
+		<value>Hasznos fegyver, de azért nem irányított plazmát lő.</value>
+	</data>
+	<data name="ItemShoulders5Long">
+		<value>Ha megsebzel valakit véletlenszerűen tüzel 7 sebzésnyit egy ellenfélre a tömlöcben.</value>
+	</data>
+	<data name="ItemNecklace1">
+		<value>Nehéz kereszt nyaklánc</value>
+	</data>
+	<data name="ItemNecklace1Short">
+		<value>Halottnak kellett volna maradnod!</value>
+	</data>
+	<data name="ItemNecklace1Long">
+		<value>+33% támadási bónusz és 5% kritikus csapás esély élőholtak és feltámadt lények ellen.</value>
+	</data>
+	<data name="ItemNecklace2">
+		<value>Mana fiola</value>
+	</data>
+	<data name="ItemNecklace2Short">
+		<value>Mennyei energia ami a kitartásodat növeli.</value>
+	</data>
+	<data name="ItemNecklace2Long">
+		<value>4 életpontot gyógyit az első alkalommal amikor a nyakadba akasztod.</value>
+	</data>
+	<data name="ItemNecklace3">
+		<value>Velociraptor karom</value>
+	</data>
+	<data name="ItemNecklace3Short">
+		<value>Egy elfeledett világi vádász karmai kiélezik a gyilkos ösztöneidet.</value>
+	</data>
+	<data name="ItemNecklace3Long">
+		<value>Akkora esélyt kapsz kritikus csapásokra mint a sebesség értéked.</value>
+	</data>
+	<data name="ItemNecklace4">
+		<value>Aranyásó lánca</value>
+	</data>
+	<data name="ItemNecklace4Short">
+		<value>Nem szörnyekkel küzdeni jöttem, hanem aranyat lelni.</value>
+	</data>
+	<data name="ItemNecklace4Long">
+		<value>1 életpontot gyógyit amikor elhagyott aranyat találsz.</value>
+	</data>
+	<data name="ItemNecklace5">
+		<value>Ezüst ököl nyakláncca</value>
+	</data>
+	<data name="ItemNecklace5Desc" xml:space="preserve">
+		<value>Ezüst ököl nyakláncca</value>
+	</data>
+	<data name="ItemNecklace5Short">
+		<value>Egy szerencsétlen kovácsé volt, de lehet, hogy segít a fémgyűjtésben.</value>
+	</data>
+	<data name="ItemNecklace5Long">
+		<value>Vedélmi bónusz kincsekért +10 arany jár, de a védelmi éréked 10%-kal kisebb.</value>
+	</data>
+	<data name="ItemScarf1">
+		<value>A hóhér kedvence</value>
+	</data>
+	<data name="ItemScarf1Short">
+		<value>Túl lehet élni egy akasztás egy kis nyakfájással?!</value>
+	</data>
+	<data name="ItemScarf1Long">
+		<value>50% esély, hogy túlélsz egy halálost sérülést mintha meg se trötént volna.</value>
+	</data>
+	<data name="ItemScarf2">
+		<value>Pilóta sál</value>
+	</data>
+	<data name="ItemScarf2Short">
+		<value>Vakmerő és nem ismer félelmet mint egy igazi hős.</value>
+	</data>
+	<data name="ItemScarf2Long">
+		<value>Félelem immúnitás a sebesség és szerencse bónuszok mellett.</value>
+	</data>
+	<data name="ItemScarf3">
+		<value>Ne mond ki a nevét háromszor</value>
+	</data>
+	<data name="ItemScarf3Short">
+		<value>Ijesztő helyre keveredek, valami kísértetet kiengedek!</value>
+	</data>
+	<data name="ItemScarf3Long">
+		<value>Megment 3 halálos sérüléstől, de az utolsót nem köszönöd meg!</value>
+	</data>
+	<data name="ItemScarf4">
+		<value>Szerzetes csuklya</value>
+	</data>
+	<data name="ItemScarf4Short">
+		<value>A szerzetesrend szakácsa a legtöbbet hozza ki az alapanyagokból.</value>
+	</data>
+	<data name="ItemScarf4Long">
+		<value>Az életerő kincsek 1-től 3 életpontot gyógyitanak.</value>
+	</data>
+	<data name="ItemScarf5">
+		<value>Piros csokornyakkendő</value>
+	</data>
+	<data name="ItemScarf5Short">
+		<value>Egy igazi úriember harc során fenntartja eleganciáját.</value>
+	</data>
+	<data name="ItemScarf5Long">
+		<value>+1% esély kitérésre támadások elől minden 2 pont sebesség értékért.</value>
+	</data>
+	<data name="ItemRing1">
+		<value>Eljegyzési gyűrű</value>
+	</data>
+	<data name="ItemRing1Short">
+		<value>Sokba fog ez neked kerülni az életed végéig.</value>
+	</data>
+	<data name="ItemRing1Long">
+		<value>Egyel kevesebb aranyat találsz szörnyek tetemének átkutatásakor.</value>
+	</data>
+	<data name="ItemRing2">
+		<value>Jelentéktelen ring</value>
+	</data>
+	<data name="ItemRing2Short">
+		<value>Ne becsüld alá a neve miatt, jobbra fordíthatja a dolgok menetét.</value>
+	</data>
+	<data name="ItemRing2Long">
+		<value>Döntetlen reakció próba esetén te támadsz először a csatákban.</value>
+	</data>
+	<data name="ItemRing3">
+		<value>Arany bokszer</value>
+	</data>
+	<data name="ItemRing3Short">
+		<value>Minnél nagyobb a vagyonod, annál nagyobb a hatalmad.</value>
+	</data>
+	<data name="ItemRing3Long">
+		<value>+1 támadási érték minden 10 arany után (maximum +10).</value>
+	</data>
+	<data name="ItemRing4">
+		<value>Véres ujj karom</value>
+	</data>
+	<data name="ItemRing4Short">
+		<value>Kritikus csapásaid gyógyítanak téged.</value>
+	</data>
+	<data name="ItemRing4Long">
+		<value>1 életerő pontot gyógyulsz ha kritikus csapást mérsz egy szörnyre.</value>
+	</data>
+	<data name="ItemRing5">
+		<value>Ujj csapda</value>
+	</data>
+	<data name="ItemRing5Short">
+		<value>Milyen kellemetlen, hogy a csapdába esett áldozataid nem tudnak lazítani.</value>
+	</data>
+	<data name="ItemRing5Long">
+		<value>Véglegesen lecsökkenti az ellenségek támadó erejét 3 ponttal sikeres talált esetén.</value>
+	</data>
+	<data name="ItemFeet1">
+		<value>Vándor bőrcsizmája</value>
+	</data>
+	<data name="ItemFeet1Desc" xml:space="preserve">
+		<value>Vándor bőrcsizmája</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemFeet1Short">
+		<value>Legyél sebes nehéz terpen is.</value>
+	</data>
+	<data name="ItemFeet1Long">
+		<value>5% esély kitérésre a támadások elől a sebesség bónusz mellett.</value>
+	</data>
+	<data name="ItemFeet2">
+		<value>Geta (szamuráj szandál)</value>
+	</data>
+	<data name="ItemFeet2Desc" xml:space="preserve">
+		<value>Geta
+(szamuráj szandál)</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemFeet2Short">
+		<value>Lábbeli a kiegyensúlyozott harcosoknak.</value>
+	</data>
+	<data name="ItemFeet2Long">
+		<value>33% esély egy györs ismételt döfésre, sikeres támadás esetén.</value>
+	</data>
+	<data name="ItemFeet3">
+		<value>Említésre méltatlan fémcipő</value>
+	</data>
+	<data name="ItemFeet3Short">
+		<value>Marha nehéz, de remekül védi a lábat!</value>
+	</data>
+	<data name="ItemFeet3Long">
+		<value>Lecsökkenti 10%-kal a sebességed reakció próbáknál.</value>
+	</data>
+	<data name="ItemFeet4">
+		<value>Hazárdjátékos kalóz falába</value>
+	</data>
+	<data name="ItemFeet4Desc" xml:space="preserve">
+		<value>Hazárdjátékos kalóz falába</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemFeet4Short">
+		<value>Az nyer aki mindent visz a feketepiacon.</value>
+	</data>
+	<data name="ItemFeet4Long">
+		<value>Vásárolj féláron a piacon, de egyel kevesebb választásod lesz.</value>
+	</data>
+	<data name="ItemFeet5">
+		<value>Zombi vértől bűzlő zokni</value>
+	</data>
+	<data name="ItemFeet5Short">
+		<value>Egyben tartja a darabjaidat még hatalmas sérülések esetén is.</value>
+	</data>
+	<data name="ItemFeet5Long">
+		<value>Gyógyíthat rajtad akár 3 pontot mikor 50% életerő alatt vagy és megsérülsz.</value>
+	</data>
+	<data name="ItemHands1">
+		<value>Dühöngő rendőr motoros kesztyűi</value>
+	</data>
+	<data name="ItemHands1Short">
+		<value>100% káosz, zűrzavar</value>
+	</data>
+	<data name="ItemHands1Long">
+		<value>Megszakíthatatlan vagy harcban, de kevesebb a védelmed.</value>
+	</data>
+	<data name="ItemHands2">
+		<value>Orvosi kesztyűk</value>
+	</data>
+	<data name="ItemHands2Short">
+		<value>Közel immúnitás a méregre és sérülések jó kezelése.</value>
+	</data>
+	<data name="ItemHands2Long">
+		<value>50% méreg sebzés csökkentés és érvényteleníti az 5 pont fölötti sérüléseket.</value>
+	</data>
+	<data name="ItemHands3">
+		<value>Erdész kesztyűi</value>
+	</data>
+	<data name="ItemHands3Short">
+		<value>Felszabadítja a kézügyességed és pontosítja a támadásaid.</value>
+	</data>
+	<data name="ItemHands3Long">
+		<value>10% kritikus csapás esély a támadási és sebesség bónuszon kívül.</value>
+	</data>
+	<data name="ItemHands4">
+		<value>Boxkesztyű</value>
+	</data>
+	<data name="ItemHands4Short">
+		<value>Szakítsd félbe az ellenfeleid támadásait.</value>
+	</data>
+	<data name="ItemHands4Long">
+		<value>25% esély az ellenség megszakítására mikor elsőként támadsz a csatában.</value>
+	</data>
+	<data name="ItemHands5">
+		<value>Unalmas páncélkesztyű</value>
+	</data>
+	<data name="ItemHands5Short">
+		<value>Unalmas, több szinten, de jól véd és erős a markolata.</value>
+	</data>
+	<data name="ItemHands5Long">
+		<value>Növeli a támadási és védelmi értékedet is, kevesebb sebességért.</value>
+	</data>
+	<data name="ItemPocket1">
+		<value>Bűvész treff ásza</value>
+	</data>
+	<data name="ItemPocket1Desc" xml:space="preserve">
+		<value>Bűvész
+treff ásza</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPocket1Short">
+		<value>Jó a szemed? Csak a kezemet figyeld mert csalok!</value>
+	</data>
+	<data name="ItemPocket1Long">
+		<value>+66 szerencse, hogy jobb ereklyéket találj a tömlöcben és a ládákban.</value>
+	</data>
+	<data name="ItemPocket2">
+		<value>Fácán toll</value>
+	</data>
+	<data name="ItemPocket2Short">
+		<value>Úgy néz ki a tömlöc ura elvesztett valami értékeset.</value>
+	</data>
+	<data name="ItemPocket2Long">
+		<value>+6 támadási bónusz vér, óriás, mutáns és madárfajzat szörnyek ellen.</value>
+	</data>
+	<data name="ItemPocket3">
+		<value>Imakönyv</value>
+	</data>
+	<data name="ItemPocket3Short">
+		<value>Talán egy ima a mérget borrá változtatja?!</value>
+	</data>
+	<data name="ItemPocket3Long">
+		<value>+33 szerencse, hogy pozitív effektussal bíró ismeretlen főzeteket találj.</value>
+	</data>
+	<data name="ItemPocket4">
+		<value>Tipikus bűbáj tekercs</value>
+	</data>
+	<data name="ItemPocket4Desc" xml:space="preserve">
+		<value>Tipikus
+bűbáj tekercs</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemPocket4Short">
+		<value>Instrukciók: kántálj mielött meginnál egy elixirt...</value>
+	</data>
+	<data name="ItemPocket4Long">
+		<value>+50 szerencse, hogy nagyobb gyógyító erejű főzeteket találj.</value>
+	</data>
+	<data name="ItemPocket5">
+		<value>Tolvajkulcs</value>
+	</data>
+	<data name="ItemPocket5Short">
+		<value>Fele akkora kínlódással kinyitható egy láda.</value>
+	</data>
+	<data name="ItemPocket5Long">
+		<value>Lefelezi a ládák kinyitási költségét.</value>
+	</data>
+	<data name="ItemChest1">
+		<value>Egyhangú mellvért</value>
+	</data>
+	<data name="ItemChest1Short">
+		<value>Egyhangú védelmi bónusszal felvértezve.</value>
+	</data>
+	<data name="ItemChest1Long">
+		<value>+10% a végleges védelmi érékedhez, de lelassít egy kicsit.</value>
+	</data>
+	<data name="ItemChest2">
+		<value>Kartondoboz</value>
+	</data>
+	<data name="ItemChest2Short">
+		<value>Nagy eséllyel elkerülsz minden támadást, ha nem tudni hova kell ütni.</value>
+	</data>
+	<data name="ItemChest2Long">
+		<value>20% eséllyel elkerszül minden támadást.</value>
+	</data>
+	<data name="ItemChest3">
+		<value>Őrült ember bőrdzsekije</value>
+	</data>
+	<data name="ItemChest3Desc" xml:space="preserve">
+		<value>Őrült ember bőrdzsekije</value>
+		<comment>This name is formated for the book menu screens.</comment>
+	</data>
+	<data name="ItemChest3Short">
+		<value>Teljes őrület egy bronz jelvényvel, ami azt mondja "Jófiú vagyok".</value>
+	</data>
+	<data name="ItemChest3Long">
+		<value>Támadás és sebesség bónusz, de jelentős a védelem csökkenés.</value>
+	</data>
+	<data name="ItemChest4">
+		<value>Óriás szarvasbogár páncél</value>
+	</data>
+	<data name="ItemChest4Short">
+		<value>Közel sebezhetetlenné teszi az egészséges viselőjét.</value>
+	</data>
+	<data name="ItemChest4Long">
+		<value>+10 védelmi bónusz ha több mint az életerőd fele megvan.</value>
+	</data>
+	<data name="ItemChest5">
+		<value>Kényszerzubbony</value>
+	</data>
+	<data name="ItemChest5Short">
+		<value>Ne mutass semmi félelmet, érzelmet, csak rohanj a csatába mint egy tébolyult!</value>
+	</data>
+	<data name="ItemChest5Long">
+		<value>Félelem immúnitás. Megszakíthatatlanság. 25% támadás és sebesség bónusz.</value>
+	</data>
+	<data name="ItemCompanion1">
+		<value>Medve</value>
+	</data>
+	<data name="ItemCompanion1Short">
+		<value>A fájdalom jobban viselhető ha velünk egy medve társ.</value>
+	</data>
+	<data name="ItemCompanion1Long">
+		<value>A védelmeden túl még 1 sebzést semmissé tesz minden sérülésnél.</value>
+	</data>
+	<data name="ItemCompanion2">
+		<value>Borostyánba zárt szúnyog</value>
+	</data>
+	<data name="ItemCompanion2Short">
+		<value>Legendákat regélnek egy elveszett világról amit feltámaszthat.</value>
+	</data>
+	<data name="ItemCompanion2Long">
+		<value>Halálod esetén feltámaszt, visszatöltve az életpontjaidat, de csak egyszer!</value>
+	</data>
+	<data name="ItemCompanion3">
+		<value>Csiga</value>
+	</data>
+	<data name="ItemCompanion3Short">
+		<value>Lassú teremtmény de melegséggel tölti el a szíved.</value>
+	</data>
+	<data name="ItemCompanion3Long">
+		<value>Vissza gyógyítja az életpontjaid 25%-át amikor elérsz egy szint végére.</value>
+	</data>
+	<data name="ItemCompanion4">
+		<value>Sárkány tojás</value>
+	</data>
+	<data name="ItemCompanion4Short">
+		<value>Zöld fajta, hosszú nyelvvel, ami a szörnyekből lakomázik.</value>
+	</data>
+	<data name="ItemCompanion4Long">
+		<value>1 életpontot gyógyit rajtad amikor megölsz egy szörnyet.</value>
+	</data>
+	<data name="ItemCompanion5">
+		<value>Tündér gomba</value>
+	</data>
+	<data name="ItemCompanion5Short">
+		<value>Benövi minden cuccodat, még téged is...</value>
+	</data>
+	<data name="ItemCompanion5Long">
+		<value>+1 végleges védelmi bónusz amikor elérsz egy szint végére (maximum +7).</value>
+	</data>
+	<data name="ItemPouch1">
+		<value>Egy kobold batyuja</value>
+	</data>
+	<data name="ItemPouch1Short">
+		<value>Az arany egy új spektruma, akár egy szivárvány!</value>
+	</data>
+	<data name="ItemPouch1Long">
+		<value>+1 szerencse minden 5 nálad lévő aranyért (maximum +10).</value>
+	</data>
+	<data name="ItemPouch2">
+		<value>Ősi aktatáska</value>
+	</data>
+	<data name="ItemPouch2Short">
+		<value>Mindig lehet pénzt találni régi zsebekben.</value>
+	</data>
+	<data name="ItemPouch2Long">
+		<value>+1 aranyat kapsz szörnyek tetemek átkutatásakor vagy aranykincs felvételkor.</value>
+	</data>
+	<data name="ItemPouch3">
+		<value>Utánzó tartáska</value>
+	</data>
+	<data name="ItemPouch3Short">
+		<value>Egy rémisztő, de harcban hasznos lény.</value>
+	</data>
+	<data name="ItemPouch3Long">
+		<value>5% eséllyel megfélemlíti a sikeresen megsebzett szörnyeket.</value>
+	</data>
+	<data name="ItemPouch4">
+		<value>Bőr flaska</value>
+	</data>
+	<data name="ItemPouch4Short">
+		<value>Megtöltheted a ládákban talált italokkal.</value>
+	</data>
+	<data name="ItemPouch4Long">
+		<value>1 életpontot gyógyít rajtad egy láda kinyitásakor.</value>
+	</data>
+	<data name="ItemPouch5">
+		<value>Hulu (lopótök üveg)</value>
+	</data>
+	<data name="ItemPouch5Short">
+		<value>Minden italt csodaszerré változtat.</value>
+	</data>
+	<data name="ItemPouch5Long">
+		<value>50%-kal több életerőt gyógyítanak a főzetek amíg nálad van.</value>
+	</data>
+	<data name="ItemFace1">
+		<value>Kalóz szemkendője</value>
+	</data>
+	<data name="ItemFace1Short">
+		<value>A kalózok imádnak alkudozni!</value>
+	</data>
+	<data name="ItemFace1Long">
+		<value>Mindent 15 arannyal kevesebbért vásárolhatsz meg a piacon.</value>
+	</data>
+	<data name="ItemFace2">
+		<value>Messzelátó</value>
+	</data>
+	<data name="ItemFace2Short">
+		<value>Felfedi a szörnyek valódi állapotát.</value>
+	</data>
+	<data name="ItemFace2Long">
+		<value>A szörnyek életerőpontjai látszódnak amíg nálad van és felfedi a hallucinációkat is.</value>
+	</data>
+	<data name="ItemFace3">
+		<value>Piros nyakkendő</value>
+	</data>
+	<data name="ItemFace3Short">
+		<value>Kösd fel a homlokodra és garantáltan erősebb leszel.</value>
+	</data>
+	<data name="ItemFace3Long">
+		<value>Dupla támadási és sebesség bónuszok, ha az életerőpontjaid fele hiányzik.</value>
+	</data>
+	<data name="ItemFace4">
+		<value>Karnevál maszk</value>
+	</data>
+	<data name="ItemFace4Short">
+		<value>Sötét mágiával átitatva, elmossa a valóság és a képzelet határát.</value>
+	</data>
+	<data name="ItemFace4Long">
+		<value>25% eséllyel valamelyik szörny hallucinációvá válik amikor megölsz egy ellenséget.</value>
+	</data>
+	<data name="ItemFace5">
+		<value>Hátborzongató bandanna</value>
+	</data>
+	<data name="ItemFace5Short">
+		<value>Megrémíti az ellenségeidet.</value>
+	</data>
+	<data name="ItemFace5Long">
+		<value>33% eséllyel csata kezdetén megfélemlíti az ellenséged, amitől kihagyja a harcot.</value>
+	</data>
+	<data name="ItemWaist1">
+		<value>Megszokott öve</value>
+	</data>
+	<data name="ItemWaist1Short">
+		<value>Egy erős öv, semmi szokatlan.</value>
+	</data>
+	<data name="ItemWaist1Long">
+		<value>2 életpontot gyógyit az első alkalommal mikor bekötöd.</value>
+	</data>
+	<data name="ItemWaist2">
+		<value>Szuper mega-öv</value>
+	</data>
+	<data name="ItemWaist2Short">
+		<value>Minden jobban hangzik ha kap egy szuper prefixet! Ugyanilyen a mega.</value>
+	</data>
+	<data name="ItemWaist2Long">
+		<value>+1 életerőpontot kapsz amikor megiszol egy főzetet.</value>
+	</data>
+	<data name="ItemWaist3">
+		<value>Bajnoki öv</value>
+	</data>
+	<data name="ItemWaist3Short">
+		<value>Az a lényeg hány ütést bírsz ki!</value>
+	</data>
+	<data name="ItemWaist3Long">
+		<value>Vissza gyógyítja az életpontjaid 25%-át minden ötödik szörny megölésénél.</value>
+	</data>
+	<data name="ItemWaist4">
+		<value>Fegyverkészlet öv</value>
+	</data>
+	<data name="ItemWaist4Short">
+		<value>Legyél felkészülve bármire.</value>
+	</data>
+	<data name="ItemWaist4Long">
+		<value>5% esély kritikus csapásra.
+2% eséllyel kitérsz a támadások elől.</value>
+	</data>
+	<data name="ItemWaist5">
+		<value>Lenymn piros selyemöve</value>
+	</data>
+	<data name="ItemWaist5Short">
+		<value>Ki a fene az a Lenymn és miért piros a selyemöve, miért nem zöld?!</value>
+	</data>
+	<data name="ItemWaist5Long">
+		<value>+25% sebesség bónusz a reakció próbáidra.</value>
+	</data>
+	<data name="ItemBracelet1">
+		<value>Bilincs</value>
+	</data>
+	<data name="ItemBracelet1Short">
+		<value>Lelassítja a szörnyket.</value>
+	</data>
+	<data name="ItemBracelet1Long">
+		<value>Véglegesen 0-ra csökkenti a szörnyek sebességét találatkor.</value>
+	</data>
+	<data name="ItemBracelet2">
+		<value>Szivárvány karszalag</value>
+	</data>
+	<data name="ItemBracelet2Short">
+		<value>A sokszínűség növeli az esélyeket.</value>
+	</data>
+	<data name="ItemBracelet2Long">
+		<value>+1 bónusz minden jellemződre.</value>
+	</data>
+	<data name="ItemBracelet3">
+		<value>Sárgaréz karkötő</value>
+	</data>
+	<data name="ItemBracelet3Short">
+		<value>Szerencsehozó medál és harcost ékesítő dísz egyben.</value>
+	</data>
+	<data name="ItemBracelet3Long">
+		<value>+25 szerencse ami a tetemek átkutatásakor talált arany mennyiségét növeli.</value>
+	</data>
+	<data name="ItemBracelet4">
+		<value>Napóra karóra</value>
+	</data>
+	<data name="ItemBracelet4Short">
+		<value>Napfény nélkül nem is méri az időt, de vajon elferdíti egy picit?</value>
+	</data>
+	<data name="ItemBracelet4Long">
+		<value>10% eséllyel meghajlítja az időt és semmissé tesz egy harci sérülést.</value>
+	</data>
+	<data name="ItemBracelet5">
+		<value>Kaloda</value>
+	</data>
+	<data name="ItemBracelet5Short">
+		<value>Nem nagy segítség a harcban, de meglepően tartós.</value>
+	</data>
+	<data name="ItemBracelet5Long">
+		<value>Megszakíthatatlanság és hatalmas védelem. Csökkenti a támadást és a sebességet.</value>
+	</data>
+	<data name="ItemMainHand1">
+		<value>A középszerűség kardja</value>
+	</data>
+	<data name="ItemMainHand1Short">
+		<value>De legalább nagyon éles...</value>
+	</data>
+	<data name="ItemMainHand1Long">
+		<value>Szignifikáns támadási bónusz.</value>
+	</data>
+	<data name="ItemMainHand2">
+		<value>Tompa buzogány</value>
+	</data>
+	<data name="ItemMainHand2Short">
+		<value>A fogant ragyogó, a feje színtiszta acél.</value>
+	</data>
+	<data name="ItemMainHand2Long">
+		<value>+50% bónusz a végső támadási értékedhez.</value>
+	</data>
+	<data name="ItemMainHand3">
+		<value>Rozsdás fejsze</value>
+	</data>
+	<data name="ItemMainHand3Short">
+		<value>Ritka ronda, mély és nyitott sebet hagy.</value>
+	</data>
+	<data name="ItemMainHand3Long">
+		<value>Véglegesen lecsökkenti a megsebzett lény életerejét 30%-kal.</value>
+	</data>
+	<data name="ItemMainHand4">
+		<value>A fájdalom veszélye</value>
+	</data>
+	<data name="ItemMainHand4Short">
+		<value>A nuncsaku sokoldalú fegyver, de könnyen megsértheted magad.</value>
+	</data>
+	<data name="ItemMainHand4Long">
+		<value>50% kritikus csapás esély, de 10% eséllyel megsebzed magadat 3 ponttal.</value>
+	</data>
+	<data name="ItemMainHand5">
+		<value>Villám kalapács</value>
+	</data>
+	<data name="ItemMainHand5Short">
+		<value>Villámlik a tömlöcben, mi a frászkarika ez?!</value>
+	</data>
+	<data name="ItemMainHand5Long">
+		<value>Amikor megsebzel egy szörnyet villám csap minden ellneségbe a szinten 1 pontot sebezve.</value>
+	</data>
+	<!-- 100+ -->
+	<data name="ItemPocket6">
+		<value>Elveszett holló toll</value>
+	</data>
+	<data name="ItemPocket6Short">
+		<value>Kiharcolhatsz vele még egy választási lehetőséget a piacon.</value>
+	</data>
+	<data name="ItemPocket6Long">
+		<value>1 extra választási lehetőség a Fekete Holló piacon.</value>
+	</data>
+	<data name="ItemMainHand6">
+		<value>Dao duális kardok</value>
+	</data>
+	<data name="ItemMainHand6Short">
+		<value>Ne gondolj rájuk külön fegyverként, hanem egy egész részeiként.</value>
+	</data>
+	<data name="ItemMainHand6Long">
+		<value>25% esély egy ismételt györs döfésre támadás esetén.</value>
+	</data>
+	<data name="ItemPouch6">
+		<value>Ellenszer főzet</value>
+	</data>
+	<data name="ItemPouch6Short">
+		<value>Méreg?! Ugyan, azt úgy hívják pálinka...</value>
+	</data>
+	<data name="ItemPouch6Long">
+		<value>Semlegesíti a mérgeket és immunitást nyújt a hallucinogének ellen.</value>
+	</data>
+	<data name="ItemOffHand6">
+		<value>Toxikus tőr</value>
+	</data>
+	<data name="ItemOffHand6Short">
+		<value>Ne lélegezd be a toxikus gázt!</value>
+	</data>
+	<data name="ItemOffHand6Long">
+		<value>Mikor megölsz egy szörnyet mérges gázok megsebzik 3 ponttal a többi ellenséget a szinten.</value>
+	</data>
+	<data name="ItemHead6">
+		<value>Tök sapka</value>
+	</data>
+	<data name="ItemHead6Short">
+		<value>Szólt a Holló, gyászosan károgva, "Sohamár!".</value>
+	</data>
+	<data name="ItemHead6Long">
+		<value>Több kincs és tárgy vásárolható a piacon, nem csak egy.</value>
+	</data>
+	<data name="ItemChest6">
+		<value>Piros ing</value>
+	</data>
+	<data name="ItemChest6Short">
+		<value>Rang: Biztonsági őr. Vészhívás: "Sugározz fel".</value>
+	</data>
+	<data name="ItemChest6Long">
+		<value>20% eséllyel megment a haláltól egy közeli helyre teleportálva a szinten.</value>
+	</data>
+	<data name="ItemCompanion6">
+		<value>Sündisznó famulus</value>
+	</data>
+	<data name="ItemCompanion6Short">
+		<value>Gyors, kék és kitartó követő, de elszórja a pénzt mikor megsérülsz.</value>
+	</data>
+	<data name="ItemCompanion6Long">
+		<value>Sérüléskor visszaver 1 sebzést a támadóra, de 1 arany elveszik.</value>
+	</data>
+	<data name="ItemFace6">
+		<value>Unikornis szarv</value>
+	</data>
+	<data name="ItemFace6Short">
+		<value>Erősítsd a homlokodra hogy átéld a 9000 feletti erő szintet.</value>
+	</data>
+	<data name="ItemFace6Long">
+		<value>1% esély 9001 sebzésre támadásnál (kivéve a Fácán sámán ellen).</value>
+	</data>
+	<data name="ItemShoulders6">
+		<value>Vállvédők</value>
+	</data>
+	<data name="ItemShoulders6Short">
+		<value>Hátvéd, vezesd az offenzívát biztos pozícióból!</value>
+	</data>
+	<data name="ItemShoulders6Long">
+		<value>A védelmed 25%-a hozzáadódik a tamádásodhoz.</value>
+	</data>
+	<data name="ItemBackpack6">
+		<value>Személyi lemez</value>
+	</data>
+	<data name="ItemBackpack6Short">
+		<value>Épp ez a cél. Hogy a valamiből semmi legyen és fordítva!</value>
+	</data>
+	<data name="ItemBackpack6Long">
+		<value>20% esély, hogy átsiklassz egy ellenségen mikor megsebzed, ha a célpont üres.</value>
+	</data>
+	<data name="ItemHands6">
+		<value>Csákány kesztyűk</value>
+	</data>
+	<data name="ItemHands6Short">
+		<value>Az új cím pedig "I Am OverCraft"</value>
+	</data>
+	<data name="ItemHands6Long">
+		<value>Lebonthatod a tömlöc falait pár ütéssel (maximum 10-et).</value>
+	</data>
+	<data name="ItemWaist6">
+		<value>Szerszám öv</value>
+	</data>
+	<data name="ItemWaist6Short">
+		<value>Marha idegesítő, hogy a ládák elállják az utat...</value>
+	</data>
+	<data name="ItemWaist6Long">
+		<value>Szétszedheted a kinyitott ládákat.</value>
+	</data>
+	<data name="ItemNecklace6">
+		<value>Kígyószem nyakék</value>
+	</data>
+	<data name="ItemNecklace6Short">
+		<value>Véletlenül se nézz a szemébe!</value>
+	</data>
+	<data name="ItemNecklace6Long">
+		<value>30% eséllyel félelmet keltesz a szörnyekben amikor elérsz egy új szintre.</value>
+	</data>
+	<data name="ItemRing6">
+		<value>Szerencsecsont gyűrű</value>
+	</data>
+	<data name="ItemRing6Short">
+		<value>Még halott madarak darabkáinak is hatalma van ebben a tömlöcben.</value>
+	</data>
+	<data name="ItemRing6Long">
+		<value>Valamelyik láda ingyen kinyílik (maximum 5) amikor elérsz egy új szintre.</value>
+	</data>
+	<data name="ItemFeet6">
+		<value>Mankó és láb gipsz</value>
+	</data>
+	<data name="ItemFeet6Short">
+		<value>Tudod mit jelent ez? Szabad hely a tömegközlekedésen!</value>
+	</data>
+	<data name="ItemFeet6Long">
+		<value>1 életpontot gyógyit amikor elérsz egy új szintre.</value>
+	</data>
+	<data name="ItemForearms6">
+		<value>Kampó vető</value>
+	</data>
+	<data name="ItemForearms6Short">
+		<value>Kukac szakasz, 10 fekvőtámasz és egy Indiai kötél trükk!</value>
+	</data>
+	<data name="ItemForearms6Long">
+		<value>8% eséllyel átugrasz az ellenségen mikor megsebzed, ha a célpont üres.</value>
+	</data>
+	<data name="ItemCape6">
+		<value>Fagyfatty csukja</value>
+	</data>
+	<data name="ItemCape6Short">
+		<value>Szent ereklye amit egy fagyfatty hátrahagy.</value>
+	</data>
+	<data name="ItemCape6Long">
+		<value>Szörnyek megölésekor minden ellneségbe 1-et sebez és a sebességüket lenullázza.</value>
+	</data>
+	<data name="ItemNecklace7">
+		<value>Küklopsz szem</value>
+	</data>
+	<data name="ItemNecklace7Short">
+		<value>Nem az X génnel rendelkező szeme, hanem a szörnyé. Vagy mégis?!</value>
+	</data>
+	<data name="ItemNecklace7Long">
+		<value>Minden harmadik csapáskor halálsugarat lő ami a támadásod 100%-át sebzi.</value>
+	</data>
+	<data name="ItemScarf6">
+		<value>Túltöltött sál</value>
+	</data>
+	<data name="ItemScarf6Short">
+		<value>Vajon mi történik mikor egy mágikus sál statikus lesz?</value>
+	</data>
+	<data name="ItemScarf6Long">
+		<value>Minden találatkor villám csap 3 közeli ellenségbe támadásod 20%-val sebezve.</value>
+	</data>
+	<data name="ItemBracelet6">
+		<value>Drágakő karperec</value>
+	</data>
+	<data name="ItemBracelet6Short">
+		<value>Csiszolt ragyogás a kristályba zárt mélységből.</value>
+	</data>
+	<data name="ItemBracelet6Long">
+		<value>+4 bónusz minden jellemződre.</value>
+	</data>
+	<data name="ItemPants6">
+		<value>Gladiátor szoknya</value>
+	</data>
+	<data name="ItemPants6Short">
+		<value>A védelem miatt bújtam bele de a könnyed mozgás miatt maradtam.</value>
+	</data>
+	<data name="ItemPants6Long">
+		<value>50% eséllyel 2-vel növeli a védelmed és a sebességed egy csatában.</value>
+	</data>
+	<data name="ItemMainHand7">
+		<value>Gány buzogány</value>
+	</data>
+	<data name="ItemMainHand7Short">
+		<value>A bukás elkerülhetetlen. Szokj hozzá és meríts belőle erőt!</value>
+	</data>
+	<data name="ItemMainHand7Long">
+		<value>Támadásaid 5%-át elvéted, de 1-től 4 extra támadási értéket kapsz a csatákban.</value>
+	</data>
+</root>

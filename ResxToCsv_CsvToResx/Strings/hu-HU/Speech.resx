@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="NarratorIntro" xml:space="preserve">
+		<value>Egy gyanús küllemű ereklyevadász bemegy a bárba...</value>
+	</data>
+	<data name="NarratorPunchline" xml:space="preserve">
+		<value>Akarod hallani
+a poént?</value>
+	</data>
+	<data name="InnKeeperGreet" xml:space="preserve">
+		<value>Helyzet legény?! Segíthetek?
+Mi kéne ha volna?</value>
+	</data>
+	<data name="InnKeeperTrailer" xml:space="preserve">
+	<value>Arra a tömlöc öcsém,
+a csapóajtó közvetlen
+oda vezet...</value>
+	</data>
+	<data name="OldGuy" xml:space="preserve">
+		<value>Érdekelne egy réges régi történet, fiacskám?</value>
+	</data>
+	<data name="OldGuyStoryPlayEnter" xml:space="preserve">
+		<value>Hadd meséljek el akkor egyet...</value>
+	</data>
+	<data name="OldGuyStoryPlayLeaving" xml:space="preserve">
+		<value>Suhanc, mit gondolsz hová vezet az a csapóajtó?!</value>
+	</data>
+	<data name="PlayerStoryPlayCancel" xml:space="preserve">
+		<value>Vénember, meggondoltam magam...</value>
+	</data>
+	<data name="PlayerStoryPlayLeaving" xml:space="preserve">
+		<value>Vénember, olyat mondj, amit még nem tudok!</value>
+	</data>
+	<data name="Story1_1" xml:space="preserve">
+		<value>Azt mondják, hogy egy rettenetes rém</value>
+		<comment>The first "story" speech text is put together from text parts: Story1_1, Story1_2 and Story1_3</comment>
+	</data>
+	<data name="Story1_2" xml:space="preserve">
+		<value>,
+a Fácán Sámán</value>
+		<comment>The first "story" speech text is put together from text parts: Story1_1, Story1_2 and Story1_3</comment>
+	</data>
+	<data name="Story1_3" xml:space="preserve">
+		<value>, a felelős a
+mágia szertefoszlásáért.</value>
+		<comment>The first "story" speech text is put together from text parts: Story1_1, Story1_2 and Story1_3</comment>
+	</data>
+	<data name="Story2_1" xml:space="preserve">
+		<value>Az a hír járja</value>
+		<comment>The second "story" speech text is put together from text parts: Story2_1, Story2_2 and Story2_3</comment>
+	</data>
+	<data name="Story2_2" xml:space="preserve">
+		<value>, hogy ez az irdatlan
+démon máig életben van</value>
+		<comment>The second "story" speech text is put together from text parts: Story2_1, Story2_2 and Story2_3</comment>
+	</data>
+	<data name="Story2_3" xml:space="preserve">
+		<value> és a tömlöce
+telis tele van természetfeletti ereklyékkel.</value>
+		<comment>The second "story" speech text is put together from text parts: Story2_1, Story2_2 and Story2_3</comment>
+	</data>
+	<!-- -->
+	<data name="DrunkGuy" xml:space="preserve">
+		<value>Akarsz hallani valami furcsát?
+Ez itt mind kamu!
+Egy illúzióban élünk...</value>
+	</data>
+	<data name="Trophies" xml:space="preserve">
+		<value>Azok ott trófeák
+amiket idelátogató
+hősök szereztek.
+Semmit a kéznek!</value>
+	</data>
+	<data name="Stash" xml:space="preserve">
+		<value>Magaddal vihetsz
+egy ereklyét
+abból a ládikából
+a tömlöcbe.</value>
+	</data>
+	<data name="StashEmpty" xml:space="preserve">
+		<value>Nincs semmi
+számodra abban a
+ládikában amit
+magaddal vihetnél.</value>
+	</data>
+	<data name="HallOfFame" xml:space="preserve">
+		<value>Feljegyzések idelátogató hősökről.
+Nem tudtam, hogy ez a placc ilyen híres...</value>
+	</data>
+	<data name="BookShelf1" xml:space="preserve">
+		<value>Beállítások
+Hát az meg mit jelent?</value>
+	</data>
+	<data name="BookShelf2" xml:space="preserve">
+		<value>Ereklye Kötet
+Ejha, ez má döfi!</value>
+	</data>
+	<data name="BookShelf3" xml:space="preserve">
+		<value>Szörnyek Könyve
+Hadd látom azokat a dögöket!</value>
+	</data>
+	<data name="StatueAfraid" xml:space="preserve">
+		<value>Kedves kis kecske
+koponya szobor,
+hi-hi.</value>
+	</data>
+	<data name="StatueInstructions" xml:space="preserve">
+		<value>Valami rá van pingálva:
+Engedd szabadjára a rémségeket!</value>
+	</data>
+	<data name="CandleAfraid" xml:space="preserve">
+		<value>Rémisztő egy gyertya.
+Sajnos nincs nálam tűzkő...</value>
+	</data>
+	<data name="CandleWarning" xml:space="preserve">
+		<value>Gondold át mielött meggyújtod!
+Bolond az aki a saját vesztébe rohan.</value>
+	</data>
+	<data name="TreasuryOffLimits" xml:space="preserve">
+		<value>A kincstár zárva. Ki kell érdemelni előbb, hogy beléphess...</value>
+	</data>
+	<data name="PlayerInnExit" xml:space="preserve">
+		<value>Biztos fel akarom adni?
+Talán a következő tömlöc lesz a szerencsés!</value>
+	</data>
+	<!-- Levels -->
+	<data name="PlayerEnterDungeon" xml:space="preserve">
+		<value>A bitangok, rámzárták a csapóajtót.
+Keresnem kell egy másik kijáratot...</value>
+	</data>
+	<data name="PlayerFirstStairs" xml:space="preserve">
+		<value>A mindenségit, összedölt alattam ez a régi lépcső.
+Vigyáznom kell hova lépek!</value>
+	</data>
+	<data name="PlayerSewers" xml:space="preserve">
+		<value>Miért nem figyelmeztett erről a bűzről senki?!</value>
+	</data>
+	<data name="PlayerBarracks" xml:space="preserve">
+		<value>Úgy érzem, mintha valaki követne engem.</value>
+	</data>
+	<data name="PlayerVault" xml:space="preserve">
+		<value>Kopp-kopp a kamra ajtón.
+Vajon milyen kincsek rejtőznek mögötte.</value>
+	</data>
+	<data name="PlayerCellar" xml:space="preserve">
+		<value>Mit iszunk?!</value>
+	</data>
+	<data name="PlayerCatacombs" xml:space="preserve">
+		<value>Émelyítő egy hely.
+A lakói is velejéig romlottak.</value>
+	</data>
+	<data name="PlayerMausoleum" xml:space="preserve">
+	<value>Már egy ideje bandukolok ebben a tömlöcben...
+Csak közeledek már a végéhez, nemde?!</value>
+	</data>
+	<data name="PlayerTomb" xml:space="preserve">
+		<value>Pszt! Ne keltsük fel a holtakat...</value>
+	</data>
+	<data name="PlayerFort" xml:space="preserve">
+		<value>Kiráz a hideg ettől a helytől!</value>
+	</data>
+	<data name="PlayerCavern" xml:space="preserve">
+		<value>Mintha a valóság maga eltorzulna!
+Most akkor merre van le, és merre fel?</value>
+	</data>
+	<data name="PlayerAbyss1" xml:space="preserve">
+		<value>Szóval tényleg
+életben van
+Fácán Sámán?!</value>
+	</data>
+	<data name="PlayerAbyss2" xml:space="preserve">
+		<value>Na ide az ereklyékkel vagy átszúrom a kardom a zúzáján!!!</value>
+	</data>
+	<!-- Player -->
+	<data name="PlayerPoisonedForTheFirstTime" xml:space="preserve">
+		<value>Romlott pingvinhús íze van a számnak.
+Asszem ez méreg...</value>
+	</data>
+	<data name="PlayerHallucinatingForTheFirstTime" xml:space="preserve">
+		<value>Kápráznak a szemeim...
+Ez csak egy hallucináció volt?!</value>
+	</data>
+	<data name="PlayerFirstItemPickedUp" xml:space="preserve">
+		<value>Ez jól fog jönni, máris felveszem a leltárba...</value>
+	</data>
+	<data name="PlayerShinyArtifacts" xml:space="preserve">
+		<value>Ez már döfi! Nem semmi egy ereklye. Káprázatos. Megbabonázó.
+Engem hív...</value>
+	</data>
+	<data name="PlayerGoldenFeatherPickup" xml:space="preserve">
+		<value>Nagyon furcsán érzem magam...
+Mégis mi történik velem?!</value>
+	</data>
+	<data name="PlayerRightChoice" xml:space="preserve">
+		<value>El kell tűnnöm innen, de rögvest!</value>
+	</data>
+	<data name="KnightRightChoice" xml:space="preserve">
+		<value>Kell segítség kikecmeregni erről a nyamvadt helyről?</value>
+	</data>
+	<data name="SameItem1" xml:space="preserve">
+		<value>Már van nálam pont egy ugyanilyen!</value>
+	</data>
+	<data name="SameItem2" xml:space="preserve">
+		<value>Nem igazán van szükségem kettőre...</value>
+	</data>
+	<data name="SameItem3" xml:space="preserve">
+		<value>Mégis mit csináljak még eggyel?!</value>
+	</data>
+	<!-- Shopkeeper -->
+	<data name="Shop" xml:space="preserve">
+		<value>Üdvözöllek a Fekete Holló piacon! Kár!</value>
+	</data>
+	<data name="ShopFirst" xml:space="preserve">
+		<value>Jól fontold meg!
+Egyszerre csak egyet, a többit visszaveszem...</value>
+	</data>
+	<data name="ShopWhatever" xml:space="preserve">
+		<value>Vegyél amit akarsz, csak kérlek ne bánts...</value>
+	</data>
+	<data name="ShopAngry1" xml:space="preserve">
+		<value>Ne lökdössél már!</value>
+	</data>
+	<data name="ShopAngry2" xml:space="preserve">
+		<value>Ezzel meg mit akarsz elérni?!</value>
+	</data>
+	<data name="ShopAngry3" xml:space="preserve">
+		<value>Bármire is vagy
+kíváncsi; a válaszom
+42 (negyvenkettő)...</value>
+	</data>
+	<data name="ShopAngry4" xml:space="preserve">
+		<value>Az én boltomban nincs visszakozás!</value>
+	</data>
+	<!-- Death -->
+	<data name="Death1" xml:space="preserve">
+		<value>Ez biztos fájhatott.</value>
+	</data>
+	<data name="Death2" xml:space="preserve">
+		<value>Szegény Joey...
+Talán legközelebb!</value>
+	</data>
+	<data name="Death3" xml:space="preserve">
+		<value>Senki sem fogja elhantolni ezt a tetemet...</value>
+	</data>
+	<data name="Death4" xml:space="preserve">
+		<value>Szabályosan lemészároltak!</value>
+	</data>
+	<data name="Death5" xml:space="preserve">
+		<value>Mind az az értékes ereklye, örökre elvész a tömlöcben.</value>
+	</data>
+	<data name="Death6" xml:space="preserve">
+		<value>Így ki fog végezni a
+Fácán sámánnal?</value>
+	</data>
+	<data name="Death7" xml:space="preserve">
+		<value>Bosszuld meg a halálod a következő kalandodban!</value>
+	</data>
+	<data name="Death8" xml:space="preserve">
+		<value>Még egy próba?</value>
+	</data>
+	<data name="Death9" xml:space="preserve">
+		<value>Ennyi volt,
+meghaltál.</value>
+	</data>
+</root>

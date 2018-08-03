@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<!-- Keyboard keys -->
+	<data name="Back">
+		<value>Backspace</value>
+	</data>
+	<data name="CapsLock">
+		<value>Caps Lock</value>
+	</data>
+	<data name="ImeConvert">
+		<value>IME Convert</value>
+	</data>
+	<data name="ImeNoConvert">
+		<value>IME NoConvert</value>
+	</data>
+	<data name="Space">
+		<value>Space</value>
+	</data>
+	<data name="PageUp">
+		<value>Page Up</value>
+	</data>
+	<data name="PageDown">
+		<value>Page Down</value>
+	</data>
+	<data name="PrintScreen">
+		<value>Print Screen</value>
+	</data>
+	<data name="D0">
+		<value>0</value>
+	</data>
+	<data name="D1">
+		<value>1</value>
+	</data>
+	<data name="D2">
+		<value>2</value>
+	</data>
+	<data name="D3">
+		<value>3</value>
+	</data>
+	<data name="D4">
+		<value>4</value>
+	</data>
+	<data name="D5">
+		<value>5</value>
+	</data>
+	<data name="D6">
+		<value>6</value>
+	</data>
+	<data name="D7">
+		<value>7</value>
+	</data>
+	<data name="D8">
+		<value>8</value>
+	</data>
+	<data name="D9">
+		<value>9</value>
+	</data>
+	<data name="Up">
+		<value>Fel</value>
+	</data>
+	<data name="Down">
+		<value>Le</value>
+	</data>
+	<data name="Left">
+		<value>Balra</value>
+	</data>
+	<data name="Right">
+		<value>Jobbra</value>
+	</data>
+	<data name="LeftWindows">
+		<value>Bal Windows</value>
+	</data>
+	<data name="RightWindows">
+		<value>Jobb Windows</value>
+	</data>
+	<data name="Apps">
+		<value>Programok</value>
+	</data>
+	<data name="Multiply">
+		<value>NumPad *</value>
+	</data>
+	<data name="Add">
+		<value>NumPad +</value>
+	</data>
+	<data name="Subtract">
+		<value>NumPad -</value>
+	</data>
+	<data name="Decimal">
+		<value>NumPad .</value>
+	</data>
+	<data name="Divide">
+		<value>NumPad /</value>
+	</data>
+	<data name="NumPad0">
+		<value>NumPad 0</value>
+	</data>
+	<data name="NumPad1">
+		<value>NumPad 1</value>
+	</data>
+	<data name="NumPad2">
+		<value>NumPad 2</value>
+	</data>
+	<data name="NumPad3">
+		<value>NumPad 3</value>
+	</data>
+	<data name="NumPad4">
+		<value>NumPad 4</value>
+	</data>
+	<data name="NumPad5">
+		<value>NumPad 5</value>
+	</data>
+	<data name="NumPad6">
+		<value>NumPad 6</value>
+	</data>
+	<data name="NumPad7">
+		<value>NumPad 7</value>
+	</data>
+	<data name="NumPad8">
+		<value>NumPad 8</value>
+	</data>
+	<data name="NumPad9">
+		<value>NumPad 9</value>
+	</data>
+	<data name="NumLock">
+		<value>Num Lock</value>
+	</data>
+	<data name="Scroll">
+		<value>Scroll Lock</value>
+	</data>
+	<data name="LeftShift">
+		<value>Bal Shift</value>
+	</data>
+	<data name="RightShift">
+		<value>Jobb Shift</value>
+	</data>
+	<data name="LeftControl">
+		<value>Bal Control</value>
+	</data>
+	<data name="RightControl">
+		<value>Jobb Control</value>
+	</data>
+	<data name="LeftAlt">
+		<value>Bal Alt</value>
+	</data>
+	<data name="RightAlt">
+		<value>Jobb Alt</value>
+	</data>
+	<data name="BrowserBack">
+		<value>Böngésző Vissza</value>
+	</data>
+	<data name="BrowserForward">
+		<value>Böngésző Előre</value>
+	</data>
+	<data name="BrowserRefresh">
+		<value>Böngésző Frissítés</value>
+	</data>
+	<data name="BrowserStop">
+		<value>Böngésző Stop</value>
+	</data>
+	<data name="BrowserSearch">
+		<value>Böngésző Keresés</value>
+	</data>
+	<data name="BrowserFavorites">
+		<value>Böngésző Kedvencek</value>
+	</data>
+	<data name="BrowserHome">
+		<value>Böngésző Kezdőlap</value>
+	</data>
+	<data name="VolumeMute">
+		<value>Hangerő Elnémítás</value>
+	</data>
+	<data name="VolumeDown">
+		<value>Hangerő Le</value>
+	</data>
+	<data name="VolumeUp">
+		<value>Hangerő Fel</value>
+	</data>
+	<data name="MediaNextTrack">
+		<value>Következő Média Szám</value>
+	</data>
+	<data name="MediaPreviousTrack">
+		<value>Előző Média Szám</value>
+	</data>
+	<data name="MediaStop">
+		<value>Média Stop</value>
+	</data>
+	<data name="MediaPlayPause">
+		<value>Média Lejátszás/Szünet</value>
+	</data>
+	<data name="LaunchMail">
+		<value>Levelező Kliens</value>
+	</data>
+	<data name="SelectMedia">
+		<value>Média Kiválasztás</value>
+	</data>
+	<data name="LaunchApplication1">
+		<value>Program Indítása 1</value>
+	</data>
+	<data name="LaunchApplication2">
+		<value>Program Indítása 2</value>
+	</data>
+	<data name="OemSemicolon">
+		<value>;</value>
+	</data>
+	<data name="OemPlus">
+		<value>+</value>
+	</data>
+	<data name="OemComma">
+		<value>,</value>
+	</data>
+	<data name="OemMinus">
+		<value>-</value>
+	</data>
+	<data name="OemPeriod">
+		<value>.</value>
+	</data>
+	<data name="OemQuestion">
+		<value>?</value>
+	</data>
+	<data name="OemTilde">
+		<value>~</value>
+	</data>
+	<data name="ChatPadGreen">
+		<value>Zöld Chat mód</value>
+	</data>
+	<data name="ChatPadOrange">
+		<value>Narancs Chat mód</value>
+	</data>
+	<data name="OemOpenBrackets">
+		<value>[</value>
+	</data>
+	<data name="OemPipe">
+		<value>|</value>
+	</data>
+	<data name="OemCloseBrackets">
+		<value>]</value>
+	</data>
+	<data name="OemQuotes">
+		<value>'</value>
+	</data>
+	<data name="OemBackslash">
+		<value>\</value>
+	</data>
+	<data name="ProcessKey">
+		<value>Process</value>
+	</data>
+	<data name="OemCopy">
+		<value>Copy</value>
+	</data>
+	<data name="OemAuto">
+		<value>Auto</value>
+	</data>
+	<data name="OemEnlW">
+		<value>Ablak kiterjesztés</value>
+	</data>
+	<data name="Crsel">
+		<value>CrSel</value>
+	</data>
+	<data name="Exsel">
+		<value>ExSel</value>
+	</data>
+	<data name="EraseEof">
+		<value>Erase EOF</value>
+	</data>
+	<data name="Pa1">
+		<value>PA1</value>
+	</data>
+	<data name="OemClear">
+		<value>Clear</value>
+	</data>
+	<!-- GamePad buttons -->
+	<data name="DPadUp">
+		<value>I-Választó Fel</value>
+	</data>
+	<data name="DPadDown">
+		<value>I-Választó Le</value>
+	</data>
+	<data name="DPadLeft">
+		<value>I-Választó Balra</value>
+	</data>
+	<data name="DPadRight">
+		<value>I-Választó Jobbra</value>
+	</data>
+	<data name="LeftStick">
+		<value>Bal Kar lenyomás</value>
+	</data>
+	<data name="RightStick">
+		<value>Jobb Kar lenyomás</value>
+	</data>
+	<data name="LeftShoulder">
+		<value>Bal Ütköző</value>
+	</data>
+	<data name="RightShoulder">
+		<value>Jobb Ütköző</value>
+	</data>
+	<data name="BigButton">
+		<value>Nagy Gomb</value>
+	</data>
+	<data name="RightTrigger">
+		<value>Jobb Ravasz</value>
+	</data>
+	<data name="LeftTrigger">
+		<value>Bal Ravasz</value>
+	</data>
+	<data name="RightThumbstickUp">
+		<value>Jobb Kar Fel</value>
+	</data>
+	<data name="RightThumbstickDown">
+		<value>Jobb Kar Le</value>
+	</data>
+	<data name="RightThumbstickLeft">
+		<value>Jobb Kar Balra</value>
+	</data>
+	<data name="RightThumbstickRight">
+		<value>Jobb Kar Jobbra</value>
+	</data>
+	<data name="LeftThumbstickUp">
+		<value>Bal Kar Fel</value>
+	</data>
+	<data name="LeftThumbstickDown">
+		<value>Bal Kar Le</value>
+	</data>
+	<data name="LeftThumbstickLeft">
+		<value>Bal Kar Balra</value>
+	</data>
+	<data name="LeftThumbstickRight">
+		<value>Bal Kar Jobbra</value>
+	</data>
+</root>

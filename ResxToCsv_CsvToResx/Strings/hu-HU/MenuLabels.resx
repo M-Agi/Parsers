@@ -1,0 +1,811 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="ExitForSure" xml:space="preserve">
+		<value>Biztos vagy benne,
+hogy kilépsz?</value>
+	</data>
+	<data name="Yes">
+		<value>Igen</value>
+	</data>
+	<data name="No">
+		<value>Nem</value>
+	</data>
+	<data name="Start">
+		<value>Kezdés</value>
+	</data>
+	<data name="Difficulty">
+		<value>Nehézség:</value>
+	</data>
+	<data name="Variant">
+		<value>Variáns:</value>
+	</data>
+	<data name="Normal">
+		<value>Normál</value>
+	</data>
+	<data name="Nightmare">
+		<value>Rémálom</value>
+	</data>
+	<data name="Treasury">
+		<value>Kincstár</value>
+	</data>
+	<data name="Stash">
+		<value>Ládika</value>
+	</data>
+	<data name="Elite">
+		<value>Elit</value>
+	</data>
+	<data name="Options">
+		<value>Beállítások</value>
+	</data>
+	<data name="Help">
+		<value>Segítség</value>
+	</data>
+	<data name="Credits">
+		<value>Készítő</value>
+	</data>
+	<data name="Exit">
+		<value>Kilépés</value>
+	</data>
+	<data name="Controls">
+		<value>Irányítás</value>
+	</data>
+	<data name="Mouse">
+		<value>Egér</value>
+	</data>
+	<data name="Graphics">
+		<value>Grafika</value>
+	</data>
+	<data name="Audio">
+		<value>Hang</value>
+	</data>
+	<data name="Language">
+		<value>Nyelv</value>
+	</data>
+	<data name="Custom">
+		<value>Egyedi</value>
+	</data>
+	<data name="System">
+		<value>Rendszer</value>
+	</data>
+	<data name="Master">
+		<value>Fő hangerő</value>
+	</data>
+	<data name="Sound">
+		<value>Hanghatások</value>
+	</data>
+	<data name="Ambiance">
+		<value>Környezet</value>
+	</data>
+	<data name="Music">
+		<value>Zene</value>
+	</data>
+	<data name="Back">
+		<value>Vissza</value>
+	</data>
+	<data name="Resume">
+		<value>Folytatás</value>
+	</data>
+	<data name="Inventory">
+		<value>Tárgylista</value>
+	</data>
+	<data name="Dungeon">
+		<value>Tömlöc</value>
+	</data>
+	<data name="Player">
+		<value>Játékos</value>
+	</data>
+	<data name="Stats">
+		<value>Statisztika</value>
+	</data>
+	<data name="General">
+		<value>Általános</value>
+	</data>
+	<data name="Progress">
+		<value>Haladás</value>
+	</data>
+	<data name="HallOfFame">
+		<value>Csarnok</value>
+	</data>
+	<data name="Immortalize">
+		<value>Megörökítés</value>
+	</data>
+	<data name="Trophies">
+		<value>Trófeák</value>
+	</data>
+	<data name="ValueFromMax">
+		<value>{0}/{1}</value>
+		<comment>The 0th argument ("{0}") will be substituted to the current achievement value.
+		The 1st argument ("{1}") will be substituted to the maximum achievement value.</comment>
+	</data>
+	<data name="ValueBest">
+		<value>Eddigi legjobb: {2}</value>
+		<comment>The 2nd argument ("{0}") will be substituted to the bast achievement value.</comment>
+	</data>
+	<data name="Achieved">
+		<value>Megszerezve</value>
+	</data>
+	<data name="Taken">
+		<value>Kivetted:</value>
+	</data>
+	<data name="Inn">
+		<value>Fogadó</value>
+	</data>
+	<data name="HelpInnStart">
+		<value>Kezdés</value>
+	</data>
+	<data name="HelpInnOptions">
+		<value>Beállítások</value>
+	</data>
+	<data name="HelpInnStory">
+		<value>Sztori</value>
+	</data>
+	<data name="HelpInnCredits">
+		<value>Készítő</value>
+	</data>
+	<data name="HelpInnTrophies">
+		<value>Trófeák</value>
+	</data>
+	<data name="HelpInnHallOfFame">
+		<value>Statisztikák</value>
+	</data>
+	<data name="HelpInnStatue">
+		<value>Rémálom</value>
+	</data>
+	<data name="HelpInnTreasury">
+		<value>Kincstár</value>
+	</data>
+	<data name="HelpInnStash">
+		<value>Ládika</value>
+	</data>
+	<data name="HelpInnExit">
+		<value>Kilépés</value>
+	</data>
+	<data name="HelpInnArtifacts">
+		<value>Ereklyék</value>
+	</data>
+	<data name="HelpInnMonsters">
+		<value>Szörnyek</value>
+	</data>
+	<data name="Chests">
+		<value>Ládák</value>
+	</data>
+	<data name="Pickups">
+		<value>Kincsek</value>
+	</data>
+	<data name="Monsters">
+		<value>Szörnyek</value>
+	</data>
+	<data name="Artifacts">
+		<value>Ereklyék</value>
+	</data>
+	<data name="Tragic">
+		<value>Rémes</value>
+	</data>
+	<data name="Relic">
+		<value>Filléres</value>
+	</data>
+	<data name="Magic">
+		<value>Értékes</value>
+	</data>
+	<data name="Epic">
+		<value>Fenséges</value>
+	</data>
+	<data name="Health">
+		<value>Életerő</value>
+	</data>
+	<data name="Attributes">
+		<value>Jellemzők</value>
+	</data>
+	<data name="Story">
+		<value>Sztori</value>
+	</data>
+	<data name="Restart">
+		<value>Új próba</value>
+	</data>
+	<data name="ExitToInn">
+		<value>Elhagy</value>
+	</data>
+	<data name="Retry">
+		<value>Újrapróba</value>
+	</data>
+	<data name="ResetControls">
+		<value>Visszaállítás</value>
+	</data>
+	<data name="Up">
+		<value>Fel</value>
+	</data>
+	<data name="Down">
+		<value>Le</value>
+	</data>
+	<data name="Left">
+		<value>Balra</value>
+	</data>
+	<data name="Right">
+		<value>Jobbra</value>
+	</data>
+	<data name="Cursor">
+		<value>Kurzor</value>
+	</data>
+	<data name="MouseControl">
+		<value>Irányítás</value>
+	</data>
+	<data name="AutoHide">
+		<value>Elrejtés</value>
+	</data>
+	<data name="PathFinding">
+		<value>Legrövidebb út</value>
+	</data>
+	<data name="DirectionalFourWay">
+		<value>Négyirányú mozgás</value>
+	</data>
+	<data name="ScreenMode">
+		<value>Képernyő</value>
+	</data>
+	<data name="ScaleMode">
+		<value>Skálázás</value>
+	</data>
+	<data name="WindowSize">
+		<value>Méret</value>
+	</data>
+	<data name="ScreenShake">
+		<value>Rázás</value>
+	</data>
+	<data name="SpriteBorders">
+		<value>Keretek</value>
+	</data>
+	<data name="Windowed">
+		<value>Ablakos</value>
+	</data>
+	<data name="Fullscreen">
+		<value>Teljes képernyős</value>
+	</data>
+	<data name="Borderless">
+		<value>Képernyő méretű ablakos</value>
+	</data>
+	<data name="Stretch">
+		<value>Kinyújtás</value>
+	</data>
+	<data name="Letterbox">
+		<value>Szélesvászon csíkok</value>
+	</data>
+	<data name="Pixelperfect">
+		<value>Csak egész pixelek</value>
+	</data>
+	<data name="YouTube">
+		<value>YouTube</value>
+	</data>
+	<data name="Twitter">
+		<value>Twitter</value>
+	</data>
+	<data name="Website">
+		<value>Weboldal</value>
+	</data>
+	<data name="Email">
+		<value>Email</value>
+	</data>
+	<!-- Main -->
+	<data name="StartTooltip" xml:space="preserve">
+		<value>Lépj be a tömlöcbe...</value>
+	</data>
+	<data name="OptionsTooltip" xml:space="preserve">
+		<value>Opciók beállítása, irányítás, grafika és hang...</value>
+	</data>
+	<data name="HelpTooltip" xml:space="preserve">
+		<value>Segítségre van szükséged?
+Ne keresgélj tovább...</value>
+	</data>
+	<data name="StoryTooltip" xml:space="preserve">
+		<value>Érdekel egy réges régi történet?
+Elmesélek egyet...</value>
+	</data>
+	<data name="ProgressTooltip" xml:space="preserve">
+		<value>Relikviák, fenevadak és nagy tettek felkeltik az érdeklődésedet?
+Lássuk meddig jutottál...</value>
+	</data>
+	<data name="CreditsTooltip" xml:space="preserve">
+		<value>Ismerd meg ki
+keltette életre
+ezt a világot...</value>
+	</data>
+	<data name="ExitTooltip" xml:space="preserve">
+		<value>Kilépés a játékból.</value>
+	</data>
+	<!-- Start -->
+	<data name="NormalTooltip" xml:space="preserve">
+		<value>Lépj be a normál nehézségű tömlöcbe...</value>
+	</data>
+	<data name="NightmareTooltip" xml:space="preserve">
+		<value>Lépj be a rémálom nehézségű tömlöcbe, ahol csökkentett jellemzőkkel indulsz, több a szörny és kisebb az esély, hogy kincsekre bukkansz...</value>
+	</data>
+	<data name="NightmareNotUnlockedTooltip" xml:space="preserve">
+		<value>A rémálom nehézségi szint még zárva.
+Először vidd végig a játékot normál nehézségi szinten.</value>
+	</data>
+	<data name="StashTooltip" xml:space="preserve">
+		<value>Vigyél magaddal a ládikából egy ereklyét a tömlöcbe.</value>
+	</data>
+	<data name="StashNotUnlockedTooltip" xml:space="preserve">
+		<value>Nincs semmi a ládikában amit magaddal vihetnél.</value>
+	</data>
+	<data name="EliteNotUnlockedTooltip" xml:space="preserve">
+		<value>Az elit variáns még zárva.
+Először vidd végig a játékot kétszer normál vagy rémálom nehézségi szinten.</value>
+	</data>
+	<data name="EliteTooltip" xml:space="preserve">
+		<value>Az elit variáns a tömlöc minden szintjén egy véletlenszerűen kiválasztott szörnynek megduplázza az életerejét.</value>
+	</data>
+	<data name="TreasuryTooltip" xml:space="preserve">
+		<value>Kincstár variáns ahol a relikviákat nem véletlenszerűen kapod, hanem válogathatsz.
+Az ereklyék, szörnyek és trófák nem nyithatóak!</value>
+	</data>
+	<data name="TreasuryNotUnlockedTooltip" xml:space="preserve">
+		<value>A kincstár variáns még zárva.
+Először vidd végig a játékot háromszor normál vagy rémálom nehézségi szinten.</value>
+	</data>
+	<data name="StartBackTooltip" xml:space="preserve">
+		<value>Meggondoltad magad?</value>
+	</data>
+	<!-- Options -->
+	<data name="ControlsTooltip" xml:space="preserve">
+		<value>Játék közbeni irányítás beállítása...</value>
+	</data>
+	<data name="ResetControlsTooltip" xml:space="preserve">
+		<value>Visszaállítás alapértelmezett irányításra!</value>
+	</data>
+	<data name="MouseTooltip" xml:space="preserve">
+		<value>Egérrel való irányítás beállítása...</value>
+	</data>
+	<data name="GraphicsTooltip" xml:space="preserve">
+		<value>Grafikai opciók beállítása...</value>
+	</data>
+	<data name="AudioTooltip" xml:space="preserve">
+		<value>Hangok erejének beállítása...</value>
+	</data>
+	<data name="SystemTooltip" xml:space="preserve">
+		<value>A rendszer nyelvének használata.</value>
+	</data>
+	<data name="LanguageTooltip" xml:space="preserve">
+		<value>A beállítás eredménye csak a következő indításnál észlelhető.</value>
+	</data>
+	<!-- Audio -->
+	<data name="MasterTooltip" xml:space="preserve">
+		<value>Fő hangerő erősítése vagy némítása.</value>
+	</data>
+	<data name="SoundTooltip" xml:space="preserve">
+		<value>Hanghatások erősítése vagy némítása.</value>
+	</data>
+	<data name="AmbianceTooltip" xml:space="preserve">
+		<value>Zajok erősítése vagy némítása.</value>
+	</data>
+	<data name="MusicTooltip" xml:space="preserve">
+		<value>Zene erősítése vagy némítása.</value>
+	</data>
+	<data name="OptionsBackTooltip" xml:space="preserve">
+		<value>Beállítások véglegesítése és visszalépés.</value>
+	</data>
+	<!-- Controls -->
+	<data name="ControlsBackTooltip" xml:space="preserve">
+		<value>Irányítás véglegesítése és visszalépés.</value>
+	</data>
+	<data name="DefaultControlsTooltip" xml:space="preserve">
+		<value>Alapértelmezett:</value>
+	</data>
+	<data name="CustomControlTooltip" xml:space="preserve">
+		<value>Konfigurált:</value>
+	</data>
+	<data name="KeyboardTooltip" xml:space="preserve">
+		<value>Billentyűzet</value>
+	</data>
+	<data name="GamepadTooltip" xml:space="preserve">
+		<value>Kontroller</value>
+	</data>
+	<data name="AwaitingDeviceTooltip" xml:space="preserve">
+		<value>Eszköz ?</value>
+	</data>
+	<data name="AwaitingControlTooltip" xml:space="preserve">
+		<value>Gomb ?</value>
+	</data>
+	<!-- Mouse -->
+	<data name="MouseBackTooltip" xml:space="preserve">
+		<value>Egér opciók véglegesítése és visszalépés.</value>
+	</data>
+	<data name="CustomCursorTooltip" xml:space="preserve">
+		<value>Kontextusfüggő egyedi grafikák használata kurzorként.</value>
+	</data>
+	<data name="SystemCursorTooltip" xml:space="preserve">
+		<value>Az operációs rendszer kurzor grafikájának használata.</value>
+	</data>
+	<data name="PathFindingTooltip" xml:space="preserve">
+		<value>A kurzorhoz tartó legrövidebb út automatikus követése.</value>
+	</data>
+	<data name="DirectionalFourWayTooltip" xml:space="preserve">
+		<value>Szimpla négyirányú mozgás a kurzort követve.</value>
+	</data>
+	<data name="AutoHideTooltip" xml:space="preserve">
+		<value>Egyedi kurzor grafikák autómatikus elrejtése ha az egér inaktív egy rövid ideig.</value>
+	</data>
+	<!-- Graphics -->
+	<data name="GraphicsBackTooltip" xml:space="preserve">
+		<value>Grafikai opciók véglegesítése és visszalépés.</value>
+	</data>
+	<data name="WindowedTooltip">
+		<value>Fix méretű ablakos mód.</value>
+	</data>
+	<data name="FullscreenTooltip">
+		<value>Hardver gyorsított teljes képernyős mód.</value>
+	</data>
+	<data name="BorderlessTooltip">
+		<value>Keret nélküli képernyő méretű ablakos mód.</value>
+	</data>
+	<data name="StretchTooltip">
+		<value>A teljes képernyő kitöltése nyújtással, nem törődve a képarány megtartásával.</value>
+	</data>
+	<data name="LetterboxTooltip">
+		<value>Képarány tartása, esetleges vízszintes vagy függőleges fekete csikok használatával.</value>
+	</data>
+	<data name="PixelperfectTooltip">
+		<value>Egész pixeles skálázás, esetleges vízszintes vagy függőleges fekete csikok használatával.</value>
+	</data>
+	<data name="ScreenShakeTooltip">
+		<value>A játékos sérülésekor esedékes képernyő-
+rázás effektus ki-be kapcsolása.</value>
+	</data>
+	<data name="WindowSizeTooltip">
+		<value>Az ablak méretének logikai szorzója, nem teljes képernyős módban.</value>
+	</data>
+	<!-- Audio -->
+	<data name="AudioBackTooltip" xml:space="preserve">
+		<value>Hangerők véglegesítése és visszalépés.</value>
+	</data>
+	<!-- Help -->
+	<data name="DungeonTooltip" xml:space="preserve">
+		<value>Ismerd meg mik kószálnak és milyen kincsek rejtőznek a tömlöcökben...</value>
+	</data>
+	<data name="HelpChestsTooltip1" xml:space="preserve">
+	<value>A ládákban drága
+kincsek lapulnak.</value>
+	</data>
+	<data name="HelpChestsTooltip2" xml:space="preserve">
+		<value>Elzárják az utat
+és nem lehet őket
+elmozdítani.</value>
+	</data>
+	<data name="HelpChestsTooltip3" xml:space="preserve">
+		<value>A jobb tárgyakat
+rejtők kinyitása
+pénzbe kerül.</value>
+	</data>
+	<data name="HelpPickupTooltip1" xml:space="preserve">
+		<value>Arany.</value>
+	</data>
+	<data name="HelpPickupTooltip2" xml:space="preserve">
+		<value>Jellemző bónuszok.</value>
+	</data>
+	<data name="HelpPickupTooltip3" xml:space="preserve">
+		<value>Életerő elixír.</value>
+	</data>
+	<data name="HelpPickupTooltip4" xml:space="preserve">
+		<value>Ismeretlen; méreg?</value>
+	</data>
+	<data name="HelpPickupTooltip5" xml:space="preserve">
+		<value>Rejtett ereklye.</value>
+	</data>
+	<data name="HelpMonstersTooltip1" xml:space="preserve">
+		<value>Szörnyek őrzik a
+kincseket és a
+lépcsőket.</value>
+	</data>
+	<data name="HelpMonstersTooltip2" xml:space="preserve">
+		<value>Néha a harc
+szükségszerű lesz.</value>
+	</data>
+	<data name="HelpMonstersTooltip3" xml:space="preserve">
+		<value>Értékes arany
+zsákmányolható a
+tetemükből.</value>
+	</data>
+	<data name="HelpDungeonBackTooltip" xml:space="preserve">
+		<value>Hagyd hátra az ismeretlentől való félelmed! </value>
+	</data>
+	<data name="PlayerTooltip" xml:space="preserve">
+		<value>Ismerd meg a "hős" motivációját, erejét és gyengeségeit...</value>
+	</data>
+	<data name="HelpArtifactPowerLevel">
+		<value>Hatalom és érték:</value>
+	</data>
+	<data name="HelpHealth">
+		<value>Ne veszítsd
+szem elől Joey
+életpontjait!
+
+0 pont egyet  
+jelent a hulla-
+merevséggel...</value>
+	</data>
+	<data name="HelpArtifactSlots">
+		<value>Joey 20 ereklyét
+viselhet egyidejűleg.
+Cipők, gyűrű, pajzs...</value>
+	</data>
+	<data name="HelpAttributeAttack">
+		<value>Támadás</value>
+	</data>
+	<data name="HelpAttributeAttackDetailed">
+		<value>Sebzést növel</value>
+	</data>
+	<data name="HelpAttributeDefense">
+		<value>Védelem</value>
+	</data>
+	<data name="HelpAttributeDefenseDetailed">
+		<value>Sérülést csökkent</value>
+	</data>
+	<data name="HelpAttributeVitality">
+		<value>Életerő</value>
+	</data>
+	<data name="HelpAttributeVitalityDetailed">
+		<value>Maximum életpont</value>
+	</data>
+	<data name="HelpAttributeSpeed">
+		<value>Gyorsaság</value>
+	</data>
+	<data name="HelpAttributeSpeedDetailed">
+		<value>Csata reakció</value>
+	</data>
+	<data name="HelpAttributeLuck">
+		<value>Szerencse</value>
+	</data>
+	<data name="HelpAttributeLuckDetailed">
+		<value>Kihat a sorsodra</value>
+	</data>
+	<data name="HelpPlayerStoryTooltip" xml:space="preserve">
+		<value>"Hősünk" - hívjuk most
+Joey-nak - egy rendes
+figura, de nem
+éppen megbízható...
+Az ereklye vadászat
+(khm. tolvajlás)
+kalandos, feltéve ha
+a zsákmány értékes!</value>
+	</data>
+	<data name="HelpPlayerBackTooltip" xml:space="preserve">
+		<value>Készen állsz a nagy kalandra?!</value>
+	</data>
+	<data name="HelpBackTooltip" xml:space="preserve">
+		<value>Felkészültél a
+szörnyekre és a
+kincsvadászatra?!</value>
+	</data>
+	<!-- Progress -->
+	<data name="ProgressHallOfFame" xml:space="preserve">
+		<value>Statisztikák</value>
+	</data>
+	<data name="ProgressHallOfFameTooltip" xml:space="preserve">
+		<value>Lesd meg a megörökített statisztikáid...</value>
+	</data>
+	<data name="ProgressTrophiesTooltip" xml:space="preserve">
+		<value>Nézd meg a trófákat amelyeket a mélységbe ereszkedő hősök kiérdemeltek...</value>
+	</data>
+	<data name="ProgressMonstersTooltip" xml:space="preserve">
+		<value>Olvasgasd a
+Szörnyek könyvét...</value>
+	</data>
+	<data name="ProgressArtifactsTooltip" xml:space="preserve">
+		<value>Tanulmányozd az
+Ereklye kötetet...</value>
+	</data>
+	<data name="ProgressBackTooltip" xml:space="preserve">
+		<value>Ideje több rejteket kinyitni!</value>
+	</data>
+	<!-- Credits -->
+	<data name="CreditsTooltipDevelopedBy" xml:space="preserve">
+		<value>Készítette:</value>
+	</data>
+	<data name="CreditsTooltipName" xml:space="preserve">
+		<value>Karsai Tamás (Spidi)</value>
+	</data>
+	<data name="CreditsTooltipCompany" xml:space="preserve">
+		<value>Magic Item Tech</value>
+	</data>
+	<data name="CreditsTooltipThanks" xml:space="preserve">
+		<value>Külön köszönet a feleségemnek, barátaimnak, családomnak és az internet népének!</value>
+	</data>
+	<!-- Paused -->
+	<data name="ResumeTooltip" xml:space="preserve">
+		<value>Folytasd a kalandot!</value>
+	</data>
+	<data name="InventoryTooltip" xml:space="preserve">
+		<value>Tárgylista bogarászása...</value>
+	</data>
+	<data name="RestartTooltip" xml:space="preserve">
+		<value>Kezd újra a kalandot...
+</value>
+	</data>
+	<data name="ExitToInnTooltip" xml:space="preserve">
+		<value>Hagyd el a tömlöcöt...
+</value>
+	</data>
+	<data name="ProgressLost" xml:space="preserve">
+		<value>Semmibe vész amit eddig szereztél!</value>
+	</data>
+	<data name="Switch">
+		<value>Lecserél:</value>
+	</data>
+	<data name="Keep">
+		<value>Megtart:</value>
+	</data>
+	<!-- Stash -->
+	<data name="StashCancelTooltip" xml:space="preserve">
+		<value>Tedd vissza az elvett ereklyét a ládikába.</value>
+	</data>
+	<data name="StashRandomTooltip" xml:space="preserve">
+		<value>Vegyél ki egy ereklyét
+véletlenszerűen a ládikából.</value>
+	</data>
+	<!-- Treasury -->
+	<data name="RandomizeTooltip" xml:space="preserve">
+		<value>Ereklye véletlenszerű kiválasztása.
+Ez esetben nem befolyásolja a szerencséd a relikvia típusát!</value>
+	</data>
+	<!-- Finished -->
+	<data name="ThankYou">
+		<value>Köszönet, hogy játszottál.
+Te vagy a legjobb!</value>
+	</data>
+	<!-- Stats -->
+	<data name="StatsInventoryTooltip" xml:space="preserve">
+		<value>Végső ereklyék megtekintése...</value>
+	</data>
+	<data name="StatsGoldTooltip" xml:space="preserve">
+		<value>Arany</value>
+	</data>
+	<data name="StatsPickupsTooltip" xml:space="preserve">
+		<value>Kincsek</value>
+	</data>
+	<data name="StatsChestsTooltip" xml:space="preserve">
+		<value>Ládák</value>
+	</data>
+	<data name="StatsKillsTooltip" xml:space="preserve">
+		<value>Ölés</value>
+	</data>
+	<data name="StatsSpentTooltip" xml:space="preserve">
+		<value>Költés</value>
+	</data>
+	<data name="StatsBackTooltip" xml:space="preserve">
+		<value>Elég lesz ennyi szám mára.</value>
+	</data>
+	<data name="ReachedTooltip">
+		<value>Elérted:</value>
+	</data>
+	<data name="KilledByTooltip">
+		<value>Megölt:</value>
+	</data>
+	<data name="ChoiceTooltip">
+		<value>Választás:</value>
+	</data>
+	<data name="ModeTooltip">
+		<value>Mód:</value>
+	</data>
+	<!-- HallOfFame -->
+	<data name="HallOfFameStatsTooltip">
+		<value>Tekintsd meg a mentett eredményeid...</value>
+	</data>
+	<data name="HallOfFameOverwriteTooltip">
+		<value>Írd felül a régi mentésed...</value>
+	</data>
+	<data name="HallOfFameEmpty">
+		<value>???</value>
+	</data>
+	<data name="HallOfFameEmptyTooltip">
+		<value>Üres statisztika mentési mező.</value>
+	</data>
+	<data name="HallOfFameEmptySaveTooltip">
+		<value>Őrökítsd meg az eredményeid!</value>
+	</data>
+	<data name="HallOfFameEnterNameTooltip">
+		<value>Add meg a neved
+(max 8 karakter),
+hogy megörökítsd
+az eredményeid!</value>
+	</data>
+	<data name="HallOfFameBackTooltip">
+		<value>Nem túl lenyűgöző.</value>
+	</data>
+	<!-- GameOver -->
+	<data name="StatsTooltip" xml:space="preserve">
+		<value>Tekintsd meg az eredményeid...</value>
+	</data>
+	<data name="RetryTooltip" xml:space="preserve">
+		<value>Kezd újra a kalandot...</value>
+	</data>
+	<data name="GameOverHallOfFameTooltip" xml:space="preserve">
+		<value>Őrökítsd meg az eredményeid...</value>
+	</data>
+	<data name="GameOverExitToInnTooltip" xml:space="preserve">
+		<value>Hagyd el a tömlöcöt...</value>
+	</data>
+	<!-- -->
+	<data name="Unlocked">
+		<value>Megszerezted:</value>
+	</data>
+	<data name="HeaderMainMenu">
+		<value>Főmenü</value>
+	</data>
+	<data name="HeaderStart">
+		<value>Kezdés</value>
+	</data>
+	<data name="HeaderOptions">
+		<value>Beállítások</value>
+	</data>
+	<data name="HeaderControls">
+		<value>Irányítás</value>
+	</data>
+	<data name="HeaderMouse">
+		<value>Egér</value>
+	</data>
+	<data name="HeaderGraphics">
+		<value>Grafika</value>
+	</data>
+	<data name="HeaderAudio">
+		<value>Hang</value>
+	</data>
+	<data name="HeaderHelp">
+		<value>Segítség</value>
+	</data>
+	<data name="HeaderHelpDungeon">
+		<value>Segítség (Tömlöc)</value>
+	</data>
+	<data name="HeaderHelpPlayer">
+		<value>Segítség (Játékos)</value>
+	</data>
+	<data name="HeaderProgress">
+		<value>Haladás</value>
+	</data>
+	<data name="HeaderTrophies">
+		<value>Trófeák</value>
+	</data>
+	<data name="HeaderStash">
+		<value>Ládika</value>
+	</data>
+	<data name="HeaderCredits">
+		<value>Készítő</value>
+	</data>
+	<data name="HeaderItemLog">
+		<value>Ereklye Kötet</value>
+	</data>
+	<data name="HeaderMonsterLog">
+		<value>Szörnyek Könyve</value>
+	</data>
+	<data name="HeaderPause">
+		<value>Szünet</value>
+	</data>
+	<data name="HeaderDeath">
+		<value>Halál</value>
+	</data>
+	<data name="HeaderStats">
+		<value>Statisztika</value>
+	</data>
+	<data name="HeaderHallOfFame">
+		<value>Csarnok</value>
+	</data>
+	<data name="HeaderFinished">
+		<value>I Am Overburdened</value>
+	</data>
+	<data name="HeaderTreasury">
+		<value>Ereklye választás</value>
+	</data>
+	<data name="HeaderExit">
+		<value>Kilépés a Játékból</value>
+	</data>
+</root>

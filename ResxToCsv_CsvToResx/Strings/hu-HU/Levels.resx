@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Entering">
+		<value>Beléptél:</value>
+	</data>
+	<data name="Cave">
+		<value>Az Elárasztott Barlang {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="CaveResume" xml:space="preserve">
+		<value>Elárasztott Barlang {0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Sewers">
+		<value>A Szutykos Csatornák {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="SewersResume" xml:space="preserve">
+		<value>Szutykos Csatornák {0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Barracks">
+		<value>A Süvöltő Kaszárnya {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="BarracksResume" xml:space="preserve">
+		<value>Süvöltő Kaszárnya {0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Vault">
+		<value>A Porlepte Kamra {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="VaultResume" xml:space="preserve">
+		<value>Porlepte Kamra
+{0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Cellar">
+		<value>Az Elfelejtett Pince {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="CellarResume" xml:space="preserve">
+		<value>Elfelejtett Pince
+{0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Catacombs">
+		<value>A Lepusztult Katakombák {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="CatacombsResume" xml:space="preserve">
+		<value>Lepusztult Katakombák {0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Mausoleum">
+		<value>A Romos Mauzóleum {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="MausoleumResume" xml:space="preserve">
+		<value>Romos Mauzóleum {0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Tomb">
+		<value>Az Ősi Síremlék {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="TombResume" xml:space="preserve">
+		<value>Ősi Síremlék
+{0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Fort">
+		<value>A Rozsdásodó Erőd {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="FortResume" xml:space="preserve">
+		<value>Rozsdásodó Erőd
+{0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Cavern">
+		<value>A Kristály Kaverna {0}. szintjére</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="CavernResume" xml:space="preserve">
+		<value>Kristály Kaverna
+{0}. szint</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Abyss">
+		<value>A mélységbe ahonnan nincs visszatérés</value>
+	</data>
+	<data name="AbyssResume" xml:space="preserve">
+		<value>A mélység ahonnan nincs visszatérés</value>
+	</data>
+	<data name="Market">
+		<value>A Fekete Holló Piacra</value>
+	</data>
+	<data name="MarketResume" xml:space="preserve">
+		<value>Fekete Holló Piac</value>
+	</data>
+</root>

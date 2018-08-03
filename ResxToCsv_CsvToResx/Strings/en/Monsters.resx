@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="RatName">
+		<value>Wererat</value>
+	</data>
+	<data name="RatDescription">
+		<value>Imbecile pest.
+Nothing to worry about...</value>
+	</data>
+	<data name="BatName">
+		<value>Giant Bat</value>
+	</data>
+	<data name="BatDescription">
+		<value>Fast beast.
+15% chance to dodge your attacks.</value>
+	</data>
+	<data name="LeechName">
+		<value>Phlegmy Leech</value>
+	</data>
+	<data name="LeechDescription">
+		<value>Bloodsucker vermin.
+Deals +1 damage when you have more than 50% of your maximum health.</value>
+	</data>
+	<data name="CrabName">
+		<value>Mutant Crab</value>
+	</data>
+	<data name="CrabDescription">
+		<value>A real abnormality.
+20% chance to interrupt your attacks in a fight.</value>
+	</data>
+	<data name="ToadName">
+		<value>Poison Toad</value>
+	</data>
+	<data name="ToadDescription">
+		<value>Venomous creature.
+10% chance to poison you with hallucinogens on hit.</value>
+	</data>
+	<data name="GoatmanName">
+		<value>Goatman</value>
+	</data>
+	<data name="GoatmanDescription">
+		<value>Evil fiend.
+15% chance to leave a critical wound when hitting you.</value>
+	</data>
+	<data name="BoarName">
+		<value>Orcish Boar</value>
+	</data>
+	<data name="BoarDescription">
+		<value>Clumsy brute.
+10% chance to interrupt your attacks, but has a 20% chance to miss a hit.</value>
+	</data>
+	<data name="BugbearName">
+		<value>Bugbear</value>
+	</data>
+	<data name="BugbearDescription">
+		<value>Living horror.
+When it attacks you, its eyes may leave you trembling in fear
+(10% chance).</value>
+	</data>
+	<data name="SkeletonName">
+		<value>Skeleton</value>
+	</data>
+	<data name="SkeletonDescription">
+		<value>Animated undead.
+There's a 50% chance that it will reanimate once after death.</value>
+	</data>
+	<data name="ZombieName">
+		<value>Zombie</value>
+	</data>
+	<data name="ZombieDescription">
+		<value>Undead miscreation.
+When damaged it may regenerate its wounds (35% chance) healing for 5 points.</value>
+	</data>
+	<data name="VampireName">
+		<value>Vampire</value>
+	</data>
+	<data name="VampireDescription">
+		<value>Undead prince.
+May feast on your blood (50% chance) stealing 5 health points.</value>
+	</data>
+	<data name="RevenantName">
+		<value>Revenant</value>
+	</data>
+	<data name="RevenantDescription">
+		<value>Undead overlord.
+50% chance to summon a Skeleton when hit. 7% chance to scare you to death.</value>
+	</data>
+	<data name="MummyName">
+		<value>Mummy</value>
+	</data>
+	<data name="MummyDescription">
+		<value>Misfortunate undead.
+When killed its curse will befall on you damaging 3 points.</value>
+	</data>
+	<data name="GolemName">
+		<value>Scrap Golem</value>
+	</data>
+	<data name="GolemDescription">
+		<value>Sturdy behemoth.
+Immune to fear and interrupts. Has 50% chance to reduce damage suffered by 3.</value>
+	</data>
+	<data name="ElementalName">
+		<value>Crystal Elemental</value>
+	</data>
+	<data name="ElementalDescription">
+		<value>Chilling colossus.
+Each hit on its shard covered body damages you for 2 points.
+</value>
+	</data>
+	<data name="TenguName">
+		<value>Tengu</value>
+	</data>
+	<data name="TenguDescription">
+		<value>Demonic avian.
+25% chance to strike twice in a battle and 5% chance to interrupt your attacks.</value>
+	</data>
+	<data name="BossName">
+		<value>Buzzard Wizard</value>
+	</data>
+	<data name="BossDescription">
+		<value>Avian being of unknown origin.
+May possess any powerful magic
+known to man.</value>
+	</data>
+	<data name="ShopKeeperName">
+		<value>The Shopkeeper</value>
+	</data>
+	<data name="ShopKeeperDescription">
+		<value>Who knows what powers it has at its disposal. It is better to not get in a fight...</value>
+	</data>
+</root>

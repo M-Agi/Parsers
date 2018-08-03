@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Entering">
+		<value>Entering:</value>
+	</data>
+	<data name="Cave">
+		<value>The Flooded Cave - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="CaveResume" xml:space="preserve">
+		<value>The Flooded Cave
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Sewers">
+		<value>The Filthy Sewers - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="SewersResume" xml:space="preserve">
+		<value>The Filthy Sewers
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Barracks">
+		<value>The Howling Barracks - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="BarracksResume" xml:space="preserve">
+		<value>The Howling Barracks
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Vault">
+		<value>The Dusty Vault - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="VaultResume" xml:space="preserve">
+		<value>The Dusty Vault
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Cellar">
+		<value>The Forgotten Cellar - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="CellarResume" xml:space="preserve">
+		<value>The Forgotten Cellar
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Catacombs">
+		<value>The Decayed Catacombs - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="CatacombsResume" xml:space="preserve">
+		<value>The Decayed Catacombs
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Mausoleum">
+		<value>The Ruined Mausoleum - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="MausoleumResume" xml:space="preserve">
+		<value>The Ruined Mausoleum
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Tomb">
+		<value>The Ancient Tomb - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="TombResume" xml:space="preserve">
+		<value>The Ancient Tomb
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Fort">
+		<value>The Rusting Fort - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="FortResume" xml:space="preserve">
+		<value>The Rusting Fort
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Cavern">
+		<value>The Crystalline Cavern - Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="CavernResume" xml:space="preserve">
+		<value>The Crystalline Cavern
+Level {0}</value>
+		<comment>The 0th argument in the string ("{0}") will be substituted with the appropriate cell from the "NameIndex" column of the DungeonProfile.csv file.</comment>
+	</data>
+	<data name="Abyss">
+		<value>The Abyss - Point of No Return</value>
+	</data>
+	<data name="AbyssResume" xml:space="preserve">
+		<value>The Abyss
+Point of No Return</value>
+	</data>
+	<data name="Market">
+		<value>The Black Raven Market</value>
+	</data>
+	<data name="MarketResume" xml:space="preserve">
+		<value>The Black Raven
+Market</value>
+	</data>
+</root>

@@ -1,0 +1,821 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="ExitForSure" xml:space="preserve">
+		<value>Are you sure you
+want to leave?</value>
+	</data>
+	<data name="Yes">
+		<value>Yes</value>
+	</data>
+	<data name="No">
+		<value>No</value>
+	</data>
+	<data name="Start">
+		<value>Start</value>
+	</data>
+	<data name="Difficulty">
+		<value>Difficulty:</value>
+	</data>
+	<data name="Variant">
+		<value>Variant:</value>
+	</data>
+	<data name="Normal">
+		<value>Normal</value>
+	</data>
+	<data name="Nightmare">
+		<value>Nightmare</value>
+	</data>
+	<data name="Treasury">
+		<value>Treasury</value>
+	</data>
+	<data name="Stash">
+		<value>Stash</value>
+	</data>
+	<data name="Elite">
+		<value>Elite</value>
+	</data>
+	<data name="Options">
+		<value>Options</value>
+	</data>
+	<data name="Help">
+		<value>Help</value>
+	</data>
+	<data name="Credits">
+		<value>Credits</value>
+	</data>
+	<data name="Exit">
+		<value>Exit</value>
+	</data>
+	<data name="Controls">
+		<value>Controls</value>
+	</data>
+	<data name="Mouse">
+		<value>Mouse</value>
+	</data>
+	<data name="Graphics">
+		<value>Graphics</value>
+	</data>
+	<data name="Audio">
+		<value>Audio</value>
+	</data>
+	<data name="Language">
+		<value>Language</value>
+	</data>
+	<data name="Custom">
+		<value>Custom</value>
+	</data>
+	<data name="System">
+		<value>System</value>
+	</data>
+	<data name="Master">
+		<value>Master</value>
+	</data>
+	<data name="Sound">
+		<value>Sound</value>
+	</data>
+	<data name="Ambiance">
+		<value>Ambiance</value>
+	</data>
+	<data name="Music">
+		<value>Music</value>
+	</data>
+	<data name="Back">
+		<value>Back</value>
+	</data>
+	<data name="Resume">
+		<value>Resume</value>
+	</data>
+	<data name="Inventory">
+		<value>Inventory</value>
+	</data>
+	<data name="Dungeon">
+		<value>Dungeon</value>
+	</data>
+	<data name="Player">
+		<value>Player</value>
+	</data>
+	<data name="Stats">
+		<value>Statistics</value>
+	</data>
+	<data name="General">
+		<value>General</value>
+	</data>
+	<data name="Progress">
+		<value>Progress</value>
+	</data>
+	<data name="HallOfFame">
+		<value>Hall of Fame</value>
+	</data>
+	<data name="Immortalize">
+		<value>Immortalize</value>
+	</data>
+	<data name="Trophies">
+		<value>Trophies</value>
+	</data>
+	<data name="ValueFromMax">
+		<value>{0}/{1}</value>
+		<comment>The 0th argument ("{0}") will be substituted to the current achievement value.
+		The 1st argument ("{1}") will be substituted to the maximum achievement value.</comment>
+	</data>
+	<data name="ValueBest">
+		<value>Best so far: {2}</value>
+		<comment>The 2nd argument ("{0}") will be substituted to the bast achievement value.</comment>
+	</data>
+	<data name="Achieved">
+		<value>Achieved</value>
+	</data>
+	<data name="Taken">
+		<value>Taken:</value>
+	</data>
+	<data name="Inn">
+		<value>Inn</value>
+	</data>
+	<data name="HelpInnStart">
+		<value>Start</value>
+	</data>
+	<data name="HelpInnOptions">
+		<value>Options</value>
+	</data>
+	<data name="HelpInnStory">
+		<value>Story</value>
+	</data>
+	<data name="HelpInnCredits">
+		<value>Credits</value>
+	</data>
+	<data name="HelpInnTrophies">
+		<value>Trophies</value>
+	</data>
+	<data name="HelpInnHallOfFame">
+		<value>Statistics</value>
+	</data>
+	<data name="HelpInnStatue">
+		<value>Nightmare</value>
+	</data>
+	<data name="HelpInnTreasury">
+		<value>Treasury</value>
+	</data>
+	<data name="HelpInnStash">
+		<value>Stash</value>
+	</data>
+	<data name="HelpInnExit">
+		<value>Exit</value>
+	</data>
+	<data name="HelpInnArtifacts">
+		<value>Artifacts</value>
+	</data>
+	<data name="HelpInnMonsters">
+		<value>Monsters</value>
+	</data>
+	<data name="Chests">
+		<value>Chests</value>
+	</data>
+	<data name="Pickups">
+		<value>Pickups</value>
+	</data>
+	<data name="Monsters">
+		<value>Monsters</value>
+	</data>
+	<data name="Artifacts">
+		<value>Artifacts</value>
+	</data>
+	<data name="Tragic">
+		<value>Tragic</value>
+	</data>
+	<data name="Relic">
+		<value>Relic</value>
+	</data>
+	<data name="Magic">
+		<value>Magic</value>
+	</data>
+	<data name="Epic">
+		<value>Epic</value>
+	</data>
+	<data name="Health">
+		<value>Health</value>
+	</data>
+	<data name="Attributes">
+		<value>Attributes</value>
+	</data>
+	<data name="Story">
+		<value>Story</value>
+	</data>
+	<data name="Restart">
+		<value>Restart</value>
+	</data>
+	<data name="ExitToInn">
+		<value>Leave</value>
+	</data>
+	<data name="Retry">
+		<value>Retry</value>
+	</data>
+	<data name="ResetControls">
+		<value>Reset</value>
+	</data>
+	<data name="Up">
+		<value>Up</value>
+	</data>
+	<data name="Down">
+		<value>Down</value>
+	</data>
+	<data name="Left">
+		<value>Left</value>
+	</data>
+	<data name="Right">
+		<value>Right</value>
+	</data>
+	<data name="Cursor">
+		<value>Cursor</value>
+	</data>
+	<data name="MouseControl">
+		<value>Control</value>
+	</data>
+	<data name="AutoHide">
+		<value>AutoHide</value>
+	</data>
+	<data name="PathFinding">
+		<value>Shortest path finding</value>
+	</data>
+	<data name="DirectionalFourWay">
+		<value>Four-way directional</value>
+	</data>
+	<data name="ScreenMode">
+		<value>Window</value>
+	</data>
+	<data name="ScaleMode">
+		<value>Scaling</value>
+	</data>
+	<data name="WindowSize">
+		<value>Size</value>
+	</data>
+	<data name="ScreenShake">
+		<value>Shake</value>
+	</data>
+	<data name="SpriteBorders">
+		<value>Borders</value>
+	</data>
+	<data name="Windowed">
+		<value>Windowed</value>
+	</data>
+	<data name="Fullscreen">
+		<value>Fullscreen</value>
+	</data>
+	<data name="Borderless">
+		<value>Borderless fullscreen</value>
+	</data>
+	<data name="Stretch">
+		<value>Stretch</value>
+	</data>
+	<data name="Letterbox">
+		<value>Letterbox</value>
+	</data>
+	<data name="Pixelperfect">
+		<value>Pixel perfect</value>
+	</data>
+	<data name="YouTube">
+		<value>YouTube</value>
+	</data>
+	<data name="Twitter">
+		<value>Twitter</value>
+	</data>
+	<data name="Website">
+		<value>Website</value>
+	</data>
+	<data name="Email">
+		<value>Email</value>
+	</data>
+	<!-- Main -->
+	<data name="StartTooltip" xml:space="preserve">
+		<value>Enter the dungeon...</value>
+	</data>
+	<data name="OptionsTooltip" xml:space="preserve">
+		<value>Configure controls, graphics and audio...</value>
+	</data>
+	<data name="HelpTooltip" xml:space="preserve">
+		<value>Need some help?
+Look no further...</value>
+	</data>
+	<data name="StoryTooltip" xml:space="preserve">
+		<value>Interested in some
+       history?         
+Let me tell you an old story then...</value>
+	</data>
+	<data name="ProgressTooltip" xml:space="preserve">
+		<value>Relics, beasts
+and great deeds
+  grab your attention?  
+Check your progress...</value>
+	</data>
+	<data name="CreditsTooltip" xml:space="preserve">
+		<value>Learn about who
+brought this realm
+into existence...</value>
+	</data>
+	<data name="ExitTooltip" xml:space="preserve">
+		<value>Leave the game.</value>
+	</data>
+	<!-- Start -->
+	<data name="NormalTooltip" xml:space="preserve">
+		<value>Enter the dungeon on normal difficulty...</value>
+	</data>
+	<data name="NightmareTooltip" xml:space="preserve">
+		<value>Enter the dungeon on nightmare difficulty, having reduced starting attributes, more monsters and smaller chances to find treasures...</value>
+	</data>
+	<data name="NightmareNotUnlockedTooltip" xml:space="preserve">
+		<value>Nightmare difficulty is not unlocked.
+Complete the game once on normal difficulty beforehand.</value>
+	</data>
+	<data name="StashTooltip" xml:space="preserve">
+		<value>Take one item from the stash with you into the dungeon.</value>
+	</data>
+	<data name="StashNotUnlockedTooltip" xml:space="preserve">
+		<value>There are no items to take from the stash.</value>
+	</data>
+	<data name="EliteTooltip" xml:space="preserve">
+		<value>Elite play variant turns a monster on each and every dungeon level into a significantly greater threat, doubling their health points.</value>
+	</data>
+	<data name="EliteNotUnlockedTooltip" xml:space="preserve">
+		<value>Elite play variant is not unlocked.
+Complete the game 2 times on normal or on nightmare difficulty beforehand.</value>
+	</data>
+	<data name="TreasuryTooltip" xml:space="preserve">
+		<value>Treasury play variant for selecting items instead of randomly receiving them.
+Artifacts, monsters and achievements cannot be unlocked!</value>
+	</data>
+	<data name="TreasuryNotUnlockedTooltip" xml:space="preserve">
+		<value>Treasury play variant is not unlocked.
+Complete the game 3 times on normal or on nightmare difficulty beforehand.</value>
+	</data>
+	<data name="StartBackTooltip" xml:space="preserve">
+		<value>Have you changed your mind?</value>
+	</data>
+	<!-- Options -->
+	<data name="ControlsTooltip" xml:space="preserve">
+		<value>Configure in-game controls...</value>
+	</data>
+	<data name="ResetControlsTooltip" xml:space="preserve">
+		<value>Reset to default controls!</value>
+	</data>
+	<data name="MouseTooltip" xml:space="preserve">
+		<value>Configure mouse look
+and control modes...</value>
+	</data>
+	<data name="GraphicsTooltip" xml:space="preserve">
+		<value>Configure graphics
+and screen modes...</value>
+	</data>
+	<data name="AudioTooltip" xml:space="preserve">
+		<value>Configure audible sounds and volumes...</value>
+	</data>
+	<data name="SystemTooltip" xml:space="preserve">
+		<value>Use system default language.</value>
+	</data>
+	<data name="LanguageTooltip" xml:space="preserve">
+		<value>Change will take effect next time the game starts.</value>
+	</data>
+	<!-- Audio -->
+	<data name="MasterTooltip" xml:space="preserve">
+		<value>Changes the master volume or mutes the game.</value>
+	</data>
+	<data name="SoundTooltip" xml:space="preserve">
+		<value>Change volume of
+or mute sounds.</value>
+	</data>
+	<data name="AmbianceTooltip" xml:space="preserve">
+		<value>Change volume of or
+mute ambient sounds.</value>
+	</data>
+	<data name="MusicTooltip" xml:space="preserve">
+		<value>Change volume of
+or mute music.</value>
+	</data>
+	<data name="OptionsBackTooltip" xml:space="preserve">
+		<value>Apply changes and leave options.</value>
+	</data>
+	<!-- Controls -->
+	<data name="ControlsBackTooltip" xml:space="preserve">
+		<value>Apply changes and leave controls options.</value>
+	</data>
+	<data name="DefaultControlsTooltip" xml:space="preserve">
+		<value>Default controls:</value>
+	</data>
+	<data name="CustomControlTooltip" xml:space="preserve">
+		<value>Custom control:</value>
+	</data>
+	<data name="KeyboardTooltip" xml:space="preserve">
+		<value>Keyboard</value>
+	</data>
+	<data name="GamepadTooltip" xml:space="preserve">
+		<value>Gamepad</value>
+	</data>
+	<data name="AwaitingDeviceTooltip" xml:space="preserve">
+		<value>Device ?</value>
+	</data>
+	<data name="AwaitingControlTooltip" xml:space="preserve">
+		<value>Control ?</value>
+	</data>
+	<!-- Mouse -->
+	<data name="MouseBackTooltip" xml:space="preserve">
+		<value>Apply changes and leave mouse options.</value>
+	</data>
+	<data name="CustomCursorTooltip" xml:space="preserve">
+		<value>Use context-sensitive custom graphics as the cursor.</value>
+	</data>
+	<data name="SystemCursorTooltip" xml:space="preserve">
+		<value>Use the default operating system cursor graphic.</value>
+	</data>
+	<data name="PathFindingTooltip" xml:space="preserve">
+		<value>Automatically follow the shortest path towards the cursor.</value>
+	</data>
+	<data name="DirectionalFourWayTooltip" xml:space="preserve">
+		<value>Simple directional four-way movement towards the cursor.</value>
+	</data>
+	<data name="AutoHideTooltip" xml:space="preserve">
+		<value>Hide the custom cursor graphics automatically if the mouse is inactive for a short while.</value>
+	</data>
+	<!-- Graphics -->
+	<data name="GraphicsBackTooltip" xml:space="preserve">
+		<value>Apply changes and leave graphics options.</value>
+	</data>
+	<data name="WindowedTooltip">
+		<value>Size locked windowed mode.</value>
+	</data>
+	<data name="FullscreenTooltip">
+		<value>Hardware full screen mode.</value>
+	</data>
+	<data name="BorderlessTooltip">
+		<value>Borderless full screen sized window mode.</value>
+	</data>
+	<data name="StretchTooltip">
+		<value>Stretch, with no regards to the aspect ratio, to fill the screen.</value>
+	</data>
+	<data name="LetterboxTooltip">
+		<value>Letter-, pillar- or window-box the screen to keep aspect ratio.</value>
+	</data>
+	<data name="PixelperfectTooltip">
+		<value>Pixel perfect scaling only. May windowbox the screen.</value>
+	</data>
+	<data name="ScreenShakeTooltip">
+		<value>Toggles the screen-wide shake effect, which is triggered when the player character is damaged.</value>
+	</data>
+	<data name="WindowSizeTooltip">
+		<value>Logical size multiplier for the window when not in full screen mode.</value>
+	</data>
+	<!-- Audio -->
+	<data name="AudioBackTooltip" xml:space="preserve">
+		<value>Apply changes and leave audio options.</value>
+	</data>
+	<!-- Help -->
+	<data name="DungeonTooltip" xml:space="preserve">
+		<value>Learn what roams the dungeons and what treasures are hidden in them...</value>
+	</data>
+	<data name="HelpChestsTooltip1" xml:space="preserve">
+		<value>Chests may hold
+precious artifacts.</value>
+	</data>
+	<data name="HelpChestsTooltip2" xml:space="preserve">
+		<value>They block the
+way and cannot
+be moved.</value>
+	</data>
+	<data name="HelpChestsTooltip3" xml:space="preserve">
+		<value>Ones hiding better
+treasures require
+gold to be opened.</value>
+	</data>
+	<data name="HelpPickupTooltip1" xml:space="preserve">
+		<value>Gold.</value>
+	</data>
+	<data name="HelpPickupTooltip2" xml:space="preserve">
+		<value>Attribute bonuses.</value>
+	</data>
+	<data name="HelpPickupTooltip3" xml:space="preserve">
+		<value>Health potion.</value>
+	</data>
+	<data name="HelpPickupTooltip4" xml:space="preserve">
+		<value>Unknown; poison?</value>
+	</data>
+	<data name="HelpPickupTooltip5" xml:space="preserve">
+		<value>Hidden artifact.</value>
+	</data>
+	<data name="HelpMonstersTooltip1" xml:space="preserve">
+		<value>Monsters block
+the way to stairs
+and treasures.</value>
+	</data>
+	<data name="HelpMonstersTooltip2" xml:space="preserve">
+		<value>Sometimes violence
+will be necessary.</value>
+	</data>
+	<data name="HelpMonstersTooltip3" xml:space="preserve">
+		<value>At least valuable
+gold can be looted
+from their corpses.</value>
+	</data>
+	<data name="HelpDungeonBackTooltip" xml:space="preserve">
+		<value>Leave behind your fear of the unknown! </value>
+	</data>
+	<data name="PlayerTooltip" xml:space="preserve">
+		<value>Learn about the player's motivation, strengths and weaknesses...</value>
+	</data>
+	<data name="HelpArtifactPowerLevel">
+		<value>Power levels:</value>
+	</data>
+	<data name="HelpHealth">
+		<value>Never loose
+sight of
+Joey's health!
+
+Reaching 0 is
+followed by
+rigor mortis...</value>
+	</data>
+	<data name="HelpArtifactSlots">
+	<value>Joey can wear 20 
+artifacts all at once.
+Shoes, rings, armor...</value>
+	</data>
+	<data name="HelpAttributeAttack">
+		<value>Attack</value>
+	</data>
+	<data name="HelpAttributeAttackDetailed">
+		<value>Increases damage</value>
+	</data>
+	<data name="HelpAttributeDefense">
+		<value>Defense</value>
+	</data>
+	<data name="HelpAttributeDefenseDetailed">
+		<value>Reduces injuries</value>
+	</data>
+	<data name="HelpAttributeVitality">
+		<value>Vitality</value>
+	</data>
+	<data name="HelpAttributeVitalityDetailed">
+		<value>Maximum health</value>
+	</data>
+	<data name="HelpAttributeSpeed">
+		<value>Speed</value>
+	</data>
+	<data name="HelpAttributeSpeedDetailed">
+		<value>Battle initiative</value>
+	</data>
+	<data name="HelpAttributeLuck">
+		<value>Luck</value>
+	</data>
+	<data name="HelpAttributeLuckDetailed">
+		<value>Influences fate</value>
+	</data>
+	<data name="HelpPlayerStoryTooltip" xml:space="preserve">
+		<value>Our "hero" - let's call
+him Joey - is a good
+guy, but his profession
+choice is questionable...
+Being an artifact hunter
+(a.k.a burglar) is okay
+though as long as
+the loot is good!</value>
+	</data>
+	<data name="HelpPlayerBackTooltip" xml:space="preserve">
+		<value>Are you packed up and ready to go?! </value>
+	</data>
+	<data name="HelpBackTooltip" xml:space="preserve">
+		<value>Ready for
+fighting monsters and
+hunting for loot?! </value>
+	</data>
+	<!-- Progress -->
+	<data name="ProgressHallOfFame" xml:space="preserve">
+		<value>Statistics</value>
+	</data>	
+	<data name="ProgressHallOfFameTooltip" xml:space="preserve">
+		<value>Check immortalized final numbers...</value>
+	</data>
+	<data name="ProgressTrophiesTooltip" xml:space="preserve">
+		<value>Check the trophies earned by heroes descending into the depths...</value>
+	</data>
+	<data name="ProgressMonstersTooltip" xml:space="preserve">
+		<value>Read the
+Book of Monsters...</value>
+	</data>
+	<data name="ProgressArtifactsTooltip" xml:space="preserve">
+		<value>Study the
+Tome of Artifacts...</value>
+	</data>
+	<data name="ProgressBackTooltip" xml:space="preserve">
+		<value>It is time to unlock more stuff!</value>
+	</data>
+	<!-- Credits -->
+	<data name="CreditsTooltipDevelopedBy" xml:space="preserve">
+		<value>Developed by:</value>
+	</data>
+	<data name="CreditsTooltipName" xml:space="preserve">
+		<value>Tamás Karsai (Spidi)</value>
+	</data>
+	<data name="CreditsTooltipCompany" xml:space="preserve">
+		<value>Magic Item Tech</value>
+	</data>
+	<data name="CreditsTooltipThanks" xml:space="preserve">
+		<value>Special thanks to my
+wife, friends, family
+and to the people of
+the INTERNETZ!</value>
+	</data>
+	<!-- Paused -->
+	<data name="ResumeTooltip" xml:space="preserve">
+		<value>Continue your crawl!</value>
+	</data>
+	<data name="InventoryTooltip" xml:space="preserve">
+		<value>Identify your artifacts...</value>
+	</data>
+	<data name="RestartTooltip" xml:space="preserve">
+		<value>Restart your story...
+</value>
+	</data>
+	<data name="ExitToInnTooltip" xml:space="preserve">
+		<value>Leave the dungeon...
+</value>
+	</data>
+	<data name="ProgressLost" xml:space="preserve">
+		<value>All your progress will be lost!</value>
+	</data>
+	<!-- Choice -->
+	<data name="Switch">
+		<value>Switch to:</value>
+	</data>
+	<data name="Keep">
+		<value>Keep:</value>
+	</data>
+	<!-- Stash -->
+	<data name="StashCancelTooltip" xml:space="preserve">
+		<value>Put the taken artifact back into the stash.</value>
+	</data>
+	<data name="StashRandomTooltip" xml:space="preserve">
+		<value>Take a random artifact from the stash.</value>
+	</data>
+	<!-- Treasury -->
+	<data name="RandomizeTooltip" xml:space="preserve">
+		<value>Select an artifact randomly from the current list.
+No luck trial occurs upfront for defining the inventory slot!</value>
+	</data>
+	<!-- Finished -->
+	<data name="ThankYou">
+		<value>Thank you for playing.
+You are the best!</value>
+	</data>
+	<!-- Stats -->
+	<data name="StatsInventoryTooltip" xml:space="preserve">
+		<value>Identify final artifacts...</value>
+	</data>
+	<data name="StatsGoldTooltip" xml:space="preserve">
+		<value>Gold</value>
+	</data>
+	<data name="StatsPickupsTooltip" xml:space="preserve">
+		<value>Pickups</value>
+	</data>
+	<data name="StatsChestsTooltip" xml:space="preserve">
+		<value>Chests</value>
+	</data>
+	<data name="StatsKillsTooltip" xml:space="preserve">
+		<value>Kills</value>
+	</data>
+	<data name="StatsSpentTooltip" xml:space="preserve">
+		<value>Spent</value>
+	</data>
+	<data name="StatsBackTooltip" xml:space="preserve">
+		<value>Had enough numbers for the day.</value>
+	</data>
+	<data name="ReachedTooltip">
+		<value>Reached:</value>
+	</data>
+	<data name="KilledByTooltip">
+		<value>Killed by:</value>
+	</data>
+	<data name="ChoiceTooltip">
+		<value>Choice:</value>
+	</data>
+	<data name="ModeTooltip">
+		<value>Mode:</value>
+	</data>
+	<!-- HallOfFame -->
+	<data name="HallOfFameStatsTooltip">
+		<value>Check the saved final numbers...</value>
+	</data>
+	<data name="HallOfFameOverwriteTooltip">
+		<value>Overwrite the saved final numbers...</value>
+	</data>
+	<data name="HallOfFameEmpty">
+		<value>???</value>
+	</data>
+	<data name="HallOfFameEmptyTooltip">
+		<value>Empty statistics save slot.</value>
+	</data>
+	<data name="HallOfFameEmptySaveTooltip">
+		<value>Immortalize your final numbers!</value>
+	</data>
+	<data name="HallOfFameEnterNameTooltip">
+		<value>Enter your name
+(8 characters tops)
+to immortalize your
+final numbers!</value>
+	</data>
+	<data name="HallOfFameBackTooltip">
+		<value>It's not that impressive.</value>
+	</data>
+	<!-- GameOver -->
+	<data name="StatsTooltip" xml:space="preserve">
+		<value>Check your final numbers...</value>
+	</data>
+	<data name="RetryTooltip" xml:space="preserve">
+		<value>Retry your crawl...</value>
+	</data>
+	<data name="GameOverHallOfFameTooltip" xml:space="preserve">
+		<value>Immortalize your final numbers...</value>
+	</data>
+	<data name="GameOverExitToInnTooltip" xml:space="preserve">
+		<value>Leave the dungeon...</value>
+	</data>
+	<!-- -->
+	<data name="Unlocked">
+		<value>Unlocked:</value>
+	</data>
+	<data name="HeaderMainMenu">
+		<value>Main Menu</value>
+	</data>
+	<data name="HeaderStart">
+		<value>Start</value>
+	</data>
+	<data name="HeaderOptions">
+		<value>Options</value>
+	</data>
+	<data name="HeaderControls">
+		<value>Controls</value>
+	</data>
+	<data name="HeaderMouse">
+		<value>Mouse</value>
+	</data>
+	<data name="HeaderGraphics">
+		<value>Graphics</value>
+	</data>
+	<data name="HeaderAudio">
+		<value>Audio</value>
+	</data>
+	<data name="HeaderHelp">
+		<value>Help</value>
+	</data>
+	<data name="HeaderHelpDungeon">
+		<value>Help (Dungeon)</value>
+	</data>
+	<data name="HeaderHelpPlayer">
+		<value>Help (Player)</value>
+	</data>
+	<data name="HeaderProgress">
+		<value>Progress</value>
+	</data>
+	<data name="HeaderTrophies">
+		<value>Trophies</value>
+	</data>
+	<data name="HeaderStash">
+		<value>Stash</value>
+	</data>
+	<data name="HeaderCredits">
+		<value>Credits</value>
+	</data>
+	<data name="HeaderItemLog">
+		<value>Tome of Artifacts</value>
+	</data>
+	<data name="HeaderMonsterLog">
+		<value>Book of Monsters</value>
+	</data>
+	<data name="HeaderPause">
+		<value>Game Paused</value>
+	</data>
+	<data name="HeaderDeath">
+		<value>Player Dead</value>
+	</data>
+	<data name="HeaderStats">
+		<value>Statistics</value>
+	</data>
+	<data name="HeaderHallOfFame">
+		<value>Hall of Fame</value>
+	</data>
+	<data name="HeaderFinished">
+		<value>I Am Overburdened</value>
+	</data>
+	<data name="HeaderTreasury">
+		<value>Artifact Selection</value>
+	</data>
+	<data name="HeaderExit">
+		<value>Exit Game</value>
+	</data>
+</root>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="RatName">
+		<value>Vérpatkány</value>
+	</data>
+	<data name="RatDescription">
+		<value>Kerge kártevő.
+Nincs mi miatt aggódni...</value>
+	</data>
+	<data name="BatName">
+		<value>Óriás denevér</value>
+	</data>
+	<data name="BatDescription">
+		<value>Sebes bestia.
+15% eséllyel kitér a támadásaid elől.</value>
+	</data>
+	<data name="LeechName">
+		<value>Nyálkás pióca</value>
+	</data>
+	<data name="LeechDescription">
+		<value>Vérszívó féreg.
++1-et sebez ha a maximum életerőd több mint 50%-ával rendelkezel.</value>
+	</data>
+	<data name="CrabName">
+		<value>Mutáns rák</value>
+	</data>
+	<data name="CrabDescription">
+		<value>Igazi abnormalitás.
+20% eséllyel megszakítja a támadásaidat harcban.</value>
+	</data>
+	<data name="ToadName">
+		<value>Méreg béka</value>
+	</data>
+	<data name="ToadDescription">
+		<value>Toxikus teremtmény.
+10% eséllyel hallucinogénakat juttat a szervezetedbe ha megsebez.</value>
+	</data>
+	<data name="GoatmanName">
+		<value>Kecskeember</value>
+	</data>
+	<data name="GoatmanDescription">
+		<value>Gonosz szörnyszülött.
+15% eséllyel kritikus csapást képes mérni rád.</value>
+	</data>
+	<data name="BoarName">
+		<value>Disznó ork</value>
+	</data>
+	<data name="BoarDescription">
+		<value>Suta vad.
+Gyakran mellé üt (20% esély), de támadásaidat 10% eséllyel megszakíthatja.</value>
+	</data>
+	<data name="BugbearName">
+		<value>Goblin mumus</value>
+	</data>
+	<data name="BugbearDescription">
+		<value>Élő borzalom.
+Tekintete félelmet kelt és támadásnál reszketést hagy maga után (10% esély).</value>
+	</data>
+	<data name="SkeletonName">
+		<value>Csontváz</value>
+	</data>
+	<data name="SkeletonDescription">
+		<value>Megelevenített holt.
+Halál után 50% eséllyel újra lábra ál és harcba száll veled.</value>
+	</data>
+	<data name="ZombieName">
+		<value>Zombi</value>
+	</data>
+	<data name="ZombieDescription">
+		<value>Élőholt rendellenesség.
+Sérüléskor könnyen regenrálhat (35% esély) és visszanyer 5 életerőpontot.</value>
+	</data>
+	<data name="VampireName">
+		<value>Vámpír</value>
+	</data>
+	<data name="VampireDescription">
+		<value>Élőholt herceg.
+Véredből lakomázva 5 életerőpontot lophat (50% esély).</value>
+	</data>
+	<data name="RevenantName">
+		<value>Visszatért lélek</value>
+	</data>
+	<data name="RevenantDescription">
+		<value>Élőholt nagyúr.
+Sérüléskor 50% eséllyel csontvázakat idézhet. Halálra is rémíthet (7% esély).</value>
+	</data>
+	<data name="MummyName">
+		<value>Múmia</value>
+	</data>
+	<data name="MummyDescription">
+		<value>Balsorsú élőholt.
+Halálakor az átka rád száll amivel 3 pontot sebez rajtad.</value>
+	</data>
+	<data name="GolemName">
+		<value>Hulladék Gólem</value>
+	</data>
+	<data name="GolemDescription">
+		<value>Acélos behemót.
+Immúnis a félelemre és megszakításra. 3 sebzéscsökkentést élvez 50% eséllyel.</value>
+	</data>
+	<data name="ElementalName">
+		<value>Kristály elementál</value>
+	</data>
+	<data name="ElementalDescription">
+		<value>Rémisztő kolosszus.
+Minden szilánkos testét érő ütés 2 pontot sebez rajtad.</value>
+	</data>
+	<data name="TenguName">
+		<value>Tengu</value>
+	</data>
+	<data name="TenguDescription">
+		<value>Démoni madárfajzat.
+25% eséllyel kétszer támad egy harcben és megszakíthatja a támadásaid (5% esély).</value>
+	</data>
+	<data name="BossName">
+		<value>A fácán sámán</value>
+	</data>
+	<data name="BossDescription">
+		<value>Ismeretlen eredetű madár sátán.
+Pletykák szerint csak a mágia tudása tesz túl gonoszságán.</value>
+	</data>
+	<data name="ShopKeeperName">
+		<value>A kofa</value>
+	</data>
+	<data name="ShopKeeperDescription">
+		<value>Ki tudja milyen hatalommal bír, jobb a kedvében járni és nem keresni a harcot...</value>
+	</data>
+</root>

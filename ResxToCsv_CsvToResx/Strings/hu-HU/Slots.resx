@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Head">
+		<value>Fej</value>
+	</data>
+	<data name="Face">
+		<value>Arc</value>
+	</data>
+	<data name="Necklace">
+		<value>Nyaklánc</value>
+	</data>
+	<data name="Scarf">
+		<value>Sál</value>
+	</data>
+	<data name="Shoulders">
+		<value>Vállak</value>
+	</data>
+	<data name="Chest">
+		<value>Mellkas</value>
+	</data>
+	<data name="Forearms">
+		<value>Alkar</value>
+	</data>
+	<data name="Ring">
+		<value>Gyűrű</value>
+	</data>
+	<data name="MainHand">
+		<value>Ügyesebbik kéz</value>
+	</data>
+	<data name="Bracelet">
+		<value>Karkötő</value>
+	</data>
+	<data name="OffHand">
+		<value>Másik kéz</value>
+	</data>
+	<data name="Hands">
+		<value>Kezek</value>
+	</data>
+	<data name="Waist">
+		<value>Derék</value>
+	</data>
+	<data name="Pouch">
+		<value>Tártáska</value>
+	</data>
+	<data name="Pants">
+		<value>Nadrág</value>
+	</data>
+	<data name="Pocket">
+		<value>Zseb</value>
+	</data>
+	<data name="Feet">
+		<value>Láb</value>
+	</data>
+	<data name="Cape">
+		<value>Köpeny</value>
+	</data>
+	<data name="Backpack">
+		<value>Hátizsák</value>
+	</data>
+	<data name="Companion">
+		<value>Követő</value>
+	</data>
+</root>

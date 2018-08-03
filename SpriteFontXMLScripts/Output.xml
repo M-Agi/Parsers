@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Font texture="Fonts\FontTiny.png" height="36">
+	<SpaceWidth>16</SpaceWidth>
+	<TabWidth>76</TabWidth>
+	<MinimumLineHeight>36</MinimumLineHeight>
+	<PlaceholderGlyph>468 160 20 36</PlaceholderGlyph>
+	<GlyphTable>
+		<Glyph number="32" advance="16">364 120 20 36</Glyph>
+		<Glyph number="33" advance="12">452 160 12 36</Glyph>
+		<Glyph number="34" advance="20">220 120 20 36</Glyph>
+  </GlyphTable>
+</Font>

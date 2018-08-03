@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="NarratorIntro" xml:space="preserve">
+		<value>A suspicious-looking
+artifact hunter
+walks into a bar...</value>
+	</data>
+	<data name="NarratorPunchline" xml:space="preserve">
+		<value>Do you want to hear
+the punchline?</value>
+	</data>
+	<data name="InnKeeperGreet" xml:space="preserve">
+		<value>Hey lad!
+Need some help?</value>
+	</data>
+	<data name="InnKeeperTrailer" xml:space="preserve">
+		<value>The dungeon is
+right there lad,
+under the trapdoor...</value>
+	</data>
+	<!-- Story -->
+	<data name="OldGuy" xml:space="preserve">
+		<value>Interested in some history, boy?</value>
+	</data>
+	<data name="OldGuyStoryPlayEnter" xml:space="preserve">
+		<value>Let me tell you an old story then...</value>
+	</data>
+	<data name="OldGuyStoryPlayLeaving" xml:space="preserve">
+		<value>Son, where do you think that trapdoor leads?!</value>
+	</data>
+	<data name="PlayerStoryPlayCancel" xml:space="preserve">
+		<value>Old man, I've changed my mind...</value>
+	</data>
+	<data name="PlayerStoryPlayLeaving" xml:space="preserve">
+		<value>Old man, tell me something I don't know!</value>
+	</data>
+	<data name="Story1_1" xml:space="preserve">
+		<value>It is said, that a great evil</value>
+		<comment>The first "story" speech text is put together from text parts: Story1_1, Story1_2 and Story1_3</comment>
+	</data>
+	<data name="Story1_2" xml:space="preserve">
+		<value>,
+a Buzzard Wizard</value>
+		<comment>The first "story" speech text is put together from text parts: Story1_1, Story1_2 and Story1_3</comment>
+	</data>
+	<data name="Story1_3" xml:space="preserve">
+		<value>, is to blame
+for the disappearance of magic.</value>
+		<comment>The first "story" speech text is put together from text parts: Story1_1, Story1_2 and Story1_3</comment>
+	</data>
+	<data name="Story2_1" xml:space="preserve">
+		<value>Rumor has it</value>
+		<comment>The second "story" speech text is put together from text parts: Story2_1, Story2_2 and Story2_3</comment>
+	</data>
+	<data name="Story2_2" xml:space="preserve">
+		<value>, that this powerful
+demon is still alive</value>
+		<comment>The second "story" speech text is put together from text parts: Story2_1, Story2_2 and Story2_3</comment>
+	</data>
+	<data name="Story2_3" xml:space="preserve">
+		<value> and its dungeon
+is full of supernatural artifacts.</value>
+		<comment>The second "story" speech text is put together from text parts: Story2_1, Story2_2 and Story2_3</comment>
+	</data>
+	<!-- -->
+	<data name="DrunkGuy" xml:space="preserve">
+		<value>Want to hear something weird?
+This is all fake,
+we live in an illusion...</value>
+	</data>
+	<data name="Trophies" xml:space="preserve">
+		<value>Those are trophies
+earned by heroes
+who visited our inn.
+Please do not touch!</value>
+	</data>
+	<data name="Stash" xml:space="preserve">
+		<value>You can take one
+item from the
+stash with you
+into the dungeon.</value>
+	</data>
+	<data name="StashEmpty" xml:space="preserve">
+		<value>There is nothing
+in the stash
+for you.
+Please do not touch!</value>
+	</data>
+	<data name="HallOfFame" xml:space="preserve">
+		<value>Notes on heroes visiting our inn.
+Didn't know, that this place is so trendy...</value>
+	</data>
+	<data name="BookShelf1" xml:space="preserve">
+		<value>Settings
+What does that mean?</value>
+	</data>
+	<data name="BookShelf2" xml:space="preserve">
+		<value>Tome of Artifacts
+Sounds intriguing!</value>
+	</data>
+	<data name="BookShelf3" xml:space="preserve">
+		<value>Book of Monsters
+Let see those horrors!</value>
+	</data>
+	<data name="StatueAfraid" xml:space="preserve">
+		<value>Nice
+goat skull statue, he-he.</value>
+	</data>
+	<data name="StatueInstructions" xml:space="preserve">
+		<value>It has something written on it:
+Unleash nightmares!</value>
+	</data>
+	<data name="CandleAfraid" xml:space="preserve">
+		<value>Scary candle.
+Too bad, I don't have spark rocks on me...</value>
+	</data>
+	<data name="CandleWarning" xml:space="preserve">
+		<value>Think twice before lighting that candle!
+Only fools seek their own destruction.</value>
+	</data>
+	<data name="TreasuryOffLimits" xml:space="preserve">
+		<value>The treasury is off-limits, you have to earn the right to enter...</value>
+	</data>
+	<data name="PlayerInnExit" xml:space="preserve">
+		<value>Do I really
+want to quit?
+Maybe the next dungeon will be the lucky one!</value>
+	</data>
+	<!-- Levels -->
+	<data name="PlayerEnterDungeon" xml:space="preserve">
+		<value>They closed the trapdoor.
+I think I'll have to find another way out...</value>
+	</data>
+	<data name="PlayerFirstStairs" xml:space="preserve">
+		<value>The stairs collapsed under me, they must be ancient.
+Better watch my step!</value>
+	</data>
+	<data name="PlayerSewers" xml:space="preserve">
+		<value>Why did nobody warn me about this smell?!</value>
+	</data>
+	<data name="PlayerBarracks" xml:space="preserve">
+		<value>I get the feeling that somebody's following me.</value>
+	</data>
+	<data name="PlayerVault" xml:space="preserve">
+		<value>Knock, knock on the vault door.
+I wonder what goodies are there.</value>
+	</data>
+	<data name="PlayerCellar" xml:space="preserve">
+		<value>Any booze?!</value>
+	</data>
+	<data name="PlayerCatacombs" xml:space="preserve">
+		<value>Sickening chamber.
+Its inhabitants are rotten to the core.</value>
+	</data>
+	<data name="PlayerMausoleum" xml:space="preserve">
+		<value>I've been roaming for a while now...
+I must be getting close, aren't I?!</value>
+	</data>
+	<data name="PlayerTomb" xml:space="preserve">
+		<value>Hush, don't wake the dead...</value>
+	</data>
+	<data name="PlayerFort" xml:space="preserve">
+		<value>This place gives me the KREEPS!</value>
+	</data>
+	<data name="PlayerCavern" xml:space="preserve">
+		<value>Looks like reality itself is distorted!
+Can't tell which way is up or down...</value>
+	</data>
+	<data name="PlayerAbyss1" xml:space="preserve">
+		<value>Well, you are
+indeed alive
+Buzzard Wizard?!</value>
+	</data>
+	<data name="PlayerAbyss2" xml:space="preserve">
+		<value>Hand over your artifacts or I rip out your gizzard!!!</value>
+	</data>
+	<!-- Player -->
+	<data name="PlayerPoisonedForTheFirstTime" xml:space="preserve">
+		<value>My mouth tastes like rotten penguin meat.
+I'm poisoned...</value>
+	</data>
+	<data name="PlayerHallucinatingForTheFirstTime" xml:space="preserve">
+		<value>My eyes are dazzling?!
+That must have been a hallucination...</value>
+	</data>
+	<data name="PlayerFirstItemPickedUp" xml:space="preserve">
+		<value>I should put that to good use in my inventory...</value>
+	</data>
+	<data name="PlayerShinyArtifacts" xml:space="preserve">
+		<value>Now that is one shiny artifact! Mesmerizing. Hypnotizing.
+It's; calling me...</value>
+	</data>
+	<data name="PlayerGoldenFeatherPickup" xml:space="preserve">
+		<value>I feel really really weird...
+What is happening to me?!</value>
+	</data>
+	<data name="PlayerRightChoice" xml:space="preserve">
+		<value>I gotta get out of here, now!</value>
+	</data>
+	<data name="KnightRightChoice" xml:space="preserve">
+		<value>Need a hand in getting out of this wretched place?</value>
+	</data>
+	<data name="SameItem1" xml:space="preserve">
+		<value>I already have one like that equipped!</value>
+	</data>
+	<data name="SameItem2" xml:space="preserve">
+		<value>I don't really need two of those...</value>
+	</data>
+	<data name="SameItem3" xml:space="preserve">
+		<value>What should I do with a second one?!</value>
+	</data>
+	<!-- Shopkeeper -->
+	<data name="Shop" xml:space="preserve">
+		<value>Welcome to the
+Black Raven Market!</value>
+	</data>
+	<data name="ShopFirst" xml:space="preserve">
+		<value>Choose wisely!
+You can only buy one, I'll take back the rest...</value>
+	</data>
+	<data name="ShopWhatever" xml:space="preserve">
+		<value>Choose whatever you want, just don't hurt me...</value>
+	</data>
+	<data name="ShopAngry1" xml:space="preserve">
+		<value>Stop pushing me around!</value>
+	</data>
+	<data name="ShopAngry2" xml:space="preserve">
+		<value>What are you trying to achieve?!</value>
+	</data>
+	<data name="ShopAngry3" xml:space="preserve">
+		<value>My answer is;
+42 (forty-two)...</value>
+	</data>
+	<data name="ShopAngry4" xml:space="preserve">
+		<value>No take-backsies in my shop!</value>
+	</data>
+	<!-- Death -->
+	<data name="Death1" xml:space="preserve">
+		<value>That must have hurt.</value>
+	</data>
+	<data name="Death2" xml:space="preserve">
+		<value>Oh, poor Joey...
+Maybe next time!</value>
+	</data>
+	<data name="Death3" xml:space="preserve">
+		<value>No one will ever bury that corpse...</value>
+	</data>
+	<data name="Death4" xml:space="preserve">
+		<value>You have been slaughtered!</value>
+	</data>
+	<data name="Death5" xml:space="preserve">
+		<value>All those lovely artifacts, lost forever in the dungeon.</value>
+	</data>
+	<data name="Death6" xml:space="preserve">
+		<value>Who is going to wipe out the
+Buzzard Wizard then?</value>
+	</data>
+	<data name="Death7" xml:space="preserve">
+		<value>Avenge your old self in the next run!</value>
+	</data>
+	<data name="Death8" xml:space="preserve">
+		<value>One more try?</value>
+	</data>
+	<data name="Death9" xml:space="preserve">
+		<value>That's it,
+you are dead.</value>
+	</data>
+</root>

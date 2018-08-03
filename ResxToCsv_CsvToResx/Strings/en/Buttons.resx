@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<!-- Keyboard keys -->
+	<data name="Back">
+		<value>Backspace</value>
+	</data>
+	<data name="CapsLock">
+		<value>Caps Lock</value>
+	</data>
+	<data name="ImeConvert">
+		<value>IME Convert</value>
+	</data>
+	<data name="ImeNoConvert">
+		<value>IME NoConvert</value>
+	</data>
+	<data name="Space">
+		<value>Space Bar</value>
+	</data>
+	<data name="PageUp">
+		<value>Page Up</value>
+	</data>
+	<data name="PageDown">
+		<value>Page Down</value>
+	</data>
+	<data name="PrintScreen">
+		<value>Print Screen</value>
+	</data>
+	<data name="D0">
+		<value>0</value>
+	</data>
+	<data name="D1">
+		<value>1</value>
+	</data>
+	<data name="D2">
+		<value>2</value>
+	</data>
+	<data name="D3">
+		<value>3</value>
+	</data>
+	<data name="D4">
+		<value>4</value>
+	</data>
+	<data name="D5">
+		<value>5</value>
+	</data>
+	<data name="D6">
+		<value>6</value>
+	</data>
+	<data name="D7">
+		<value>7</value>
+	</data>
+	<data name="D8">
+		<value>8</value>
+	</data>
+	<data name="D9">
+		<value>9</value>
+	</data>
+	<data name="LeftWindows">
+		<value>Left Windows</value>
+	</data>
+	<data name="RightWindows">
+		<value>Right Windows</value>
+	</data>
+	<data name="Apps">
+		<value>Applications</value>
+	</data>
+	<data name="Multiply">
+		<value>NumPad *</value>
+	</data>
+	<data name="Add">
+		<value>NumPad +</value>
+	</data>
+	<data name="Subtract">
+		<value>NumPad -</value>
+	</data>
+	<data name="Decimal">
+		<value>NumPad .</value>
+	</data>
+	<data name="Divide">
+		<value>NumPad /</value>
+	</data>
+	<data name="NumPad0">
+		<value>NumPad 0</value>
+	</data>
+	<data name="NumPad1">
+		<value>NumPad 1</value>
+	</data>
+	<data name="NumPad2">
+		<value>NumPad 2</value>
+	</data>
+	<data name="NumPad3">
+		<value>NumPad 3</value>
+	</data>
+	<data name="NumPad4">
+		<value>NumPad 4</value>
+	</data>
+	<data name="NumPad5">
+		<value>NumPad 5</value>
+	</data>
+	<data name="NumPad6">
+		<value>NumPad 6</value>
+	</data>
+	<data name="NumPad7">
+		<value>NumPad 7</value>
+	</data>
+	<data name="NumPad8">
+		<value>NumPad 8</value>
+	</data>
+	<data name="NumPad9">
+		<value>NumPad 9</value>
+	</data>
+	<data name="NumLock">
+		<value>Num Lock</value>
+	</data>
+	<data name="Scroll">
+		<value>Scroll Lock</value>
+	</data>
+	<data name="LeftShift">
+		<value>Left Shift</value>
+	</data>
+	<data name="RightShift">
+		<value>Right Shift</value>
+	</data>
+	<data name="LeftControl">
+		<value>Left Control</value>
+	</data>
+	<data name="RightControl">
+		<value>Right Control</value>
+	</data>
+	<data name="LeftAlt">
+		<value>Left Alt</value>
+	</data>
+	<data name="RightAlt">
+		<value>Right Alt</value>
+	</data>
+	<data name="BrowserBack">
+		<value>Browser Back</value>
+	</data>
+	<data name="BrowserForward">
+		<value>Browser Forward</value>
+	</data>
+	<data name="BrowserRefresh">
+		<value>Browser Refresh</value>
+	</data>
+	<data name="BrowserStop">
+		<value>Browser Stop</value>
+	</data>
+	<data name="BrowserSearch">
+		<value>Browser Search</value>
+	</data>
+	<data name="BrowserFavorites">
+		<value>Browser Favorites</value>
+	</data>
+	<data name="BrowserHome">
+		<value>Browser Home</value>
+	</data>
+	<data name="VolumeMute">
+		<value>Volume Mute</value>
+	</data>
+	<data name="VolumeDown">
+		<value>Volume Down</value>
+	</data>
+	<data name="VolumeUp">
+		<value>Volume Up</value>
+	</data>
+	<data name="MediaNextTrack">
+		<value>Media Next Track</value>
+	</data>
+	<data name="MediaPreviousTrack">
+		<value>Media Previous Track</value>
+	</data>
+	<data name="MediaStop">
+		<value>Media Stop</value>
+	</data>
+	<data name="MediaPlayPause">
+		<value>Media Play/Pause</value>
+	</data>
+	<data name="LaunchMail">
+		<value>Start Mail</value>
+	</data>
+	<data name="SelectMedia">
+		<value>Select Media</value>
+	</data>
+	<data name="LaunchApplication1">
+		<value>Launch Application 1</value>
+	</data>
+	<data name="LaunchApplication2">
+		<value>Launch Application 2</value>
+	</data>
+	<data name="OemSemicolon">
+		<value>;</value>
+	</data>
+	<data name="OemPlus">
+		<value>+</value>
+	</data>
+	<data name="OemComma">
+		<value>,</value>
+	</data>
+	<data name="OemMinus">
+		<value>-</value>
+	</data>
+	<data name="OemPeriod">
+		<value>.</value>
+	</data>
+	<data name="OemQuestion">
+		<value>?</value>
+	</data>
+	<data name="OemTilde">
+		<value>~</value>
+	</data>
+	<data name="ChatPadGreen">
+		<value>Green Chat Pad</value>
+	</data>
+	<data name="ChatPadOrange">
+		<value>Orange Chat Pad</value>
+	</data>
+	<data name="OemOpenBrackets">
+		<value>[</value>
+	</data>
+	<data name="OemPipe">
+		<value>|</value>
+	</data>
+	<data name="OemCloseBrackets">
+		<value>]</value>
+	</data>
+	<data name="OemQuotes">
+		<value>'</value>
+	</data>
+	<data name="OemBackslash">
+		<value>\</value>
+	</data>
+	<data name="ProcessKey">
+		<value>Process</value>
+	</data>
+	<data name="OemCopy">
+		<value>Copy</value>
+	</data>
+	<data name="OemAuto">
+		<value>Auto</value>
+	</data>
+	<data name="OemEnlW">
+		<value>Enlarge Window</value>
+	</data>
+	<data name="Crsel">
+		<value>CrSel</value>
+	</data>
+	<data name="Exsel">
+		<value>ExSel</value>
+	</data>
+	<data name="EraseEof">
+		<value>Erase EOF</value>
+	</data>
+	<data name="Pa1">
+		<value>PA1</value>
+	</data>
+	<data name="OemClear">
+		<value>Clear</value>
+	</data>
+	<!-- GamePad buttons -->
+	<data name="DPadUp">
+		<value>D-Pad Up</value>
+	</data>
+	<data name="DPadDown">
+		<value>D-Pad Down</value>
+	</data>
+	<data name="DPadLeft">
+		<value>D-Pad Left</value>
+	</data>
+	<data name="DPadRight">
+		<value>D-Pad Right</value>
+	</data>
+	<data name="LeftStick">
+		<value>Left Stick Press</value>
+	</data>
+	<data name="RightStick">
+		<value>Right Stick Press</value>
+	</data>
+	<data name="LeftShoulder">
+		<value>Left Bumper</value>
+	</data>
+	<data name="RightShoulder">
+		<value>Right Bumper</value>
+	</data>
+	<data name="BigButton">
+		<value>Big Button</value>
+	</data>
+	<data name="RightTrigger">
+		<value>Right Trigger</value>
+	</data>
+	<data name="LeftTrigger">
+		<value>Left Trigger</value>
+	</data>
+	<data name="RightThumbstickUp">
+		<value>Right Stick Up</value>
+	</data>
+	<data name="RightThumbstickDown">
+		<value>Right Stick Down</value>
+	</data>
+	<data name="RightThumbstickLeft">
+		<value>Right Stick Left</value>
+	</data>
+	<data name="RightThumbstickRight">
+		<value>Right Stick Right</value>
+	</data>
+	<data name="LeftThumbstickUp">
+		<value>Left Stick Up</value>
+	</data>
+	<data name="LeftThumbstickDown">
+		<value>Left Stick Down</value>
+	</data>
+	<data name="LeftThumbstickLeft">
+		<value>Left Stick Left</value>
+	</data>
+	<data name="LeftThumbstickRight">
+		<value>Left Stick Right</value>
+	</data>
+</root>

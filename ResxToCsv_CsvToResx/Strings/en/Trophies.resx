@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="AchievementCave1">
+		<value>Cave dweller</value>
+	</data>
+	<data name="AchievementCave1Description">
+		<value>Beat the
+Flooded Cave</value>
+	</data>
+	<data name="AchievementCave2">
+		<value>Sewer cleaner</value>
+	</data>
+	<data name="AchievementCave2Description">
+		<value>Beat the
+Filthy Sewers</value>
+	</data>
+	<data name="AchievementCave3">
+		<value>Drill sergeant</value>
+	</data>
+	<data name="AchievementCave3Description">
+		<value>Beat the
+Howling Barracks</value>
+	</data>
+	<data name="AchievementCave4">
+		<value>Treasurer</value>
+	</data>
+	<data name="AchievementCave4Description">
+		<value>Beat the
+Dusty Vault</value>
+	</data>
+	<data name="AchievementCave5">
+		<value>Winemaker</value>
+	</data>
+	<data name="AchievementCave5Description">
+		<value>Beat the
+Forgotten Cellar</value>
+	</data>
+	<data name="AchievementCave6">
+		<value>Preserver</value>
+	</data>
+	<data name="AchievementCave6Description">
+		<value>Beat the
+Decayed Catacombs</value>
+	</data>
+	<data name="AchievementCave7">
+		<value>Cemetery guard</value>
+	</data>
+	<data name="AchievementCave7Description">
+		<value>Beat the
+Ruined Mausoleum</value>
+	</data>
+	<data name="AchievementCave8">
+		<value>Raider</value>
+	</data>
+	<data name="AchievementCave8Description">
+		<value>Beat the
+Ancient Tomb</value>
+	</data>
+	<data name="AchievementCave9">
+		<value>Aged fighter</value>
+	</data>
+	<data name="AchievementCave9Description">
+		<value>Beat the
+Rusting Fort</value>
+	</data>
+	<data name="AchievementCave10">
+		<value>Crystal miner</value>
+	</data>
+	<data name="AchievementCave10Description">
+		<value>Beat the
+Crystalline Cavern</value>
+	</data>
+	<data name="AchievementCaveNightmare1">
+		<value>Cave denizen</value>
+	</data>
+	<data name="AchievementCaveNightmare1Description">
+		<value>Beat the
+Flooded Cave
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementCaveNightmare2">
+		<value>Sewer rat</value>
+	</data>
+	<data name="AchievementCaveNightmare2Description">
+		<value>Beat the
+Filthy Sewers
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementCaveNightmare3">
+		<value>Warlord</value>
+	</data>
+	<data name="AchievementCaveNightmare3Description">
+		<value>Beat the
+Howling Barracks
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementCaveNightmare4">
+		<value>Antiquarian</value>
+	</data>
+	<data name="AchievementCaveNightmare4Description">
+		<value>Beat the
+Dusty Vault
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementCaveNightmare5">
+		<value>Drunkard</value>
+	</data>
+	<data name="AchievementCaveNightmare5Description">
+		<value>Beat the
+Forgotten Cellar
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementCaveNightmare6">
+		<value>Renovator</value>
+	</data>
+	<data name="AchievementCaveNightmare6Description">
+		<value>Beat the
+Decayed Catacombs
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementCaveNightmare7">
+		<value>Burial landlord</value>
+	</data>
+	<data name="AchievementCaveNightmare7Description">
+		<value>Beat the
+Ruined Mausoleum
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementCaveNightmare8">
+		<value>Ghoul</value>
+	</data>
+	<data name="AchievementCaveNightmare8Description">
+		<value>Beat the
+Ancient Tomb
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementCaveNightmare9">
+		<value>Legendary warrior</value>
+	</data>
+	<data name="AchievementCaveNightmare9Description">
+		<value>Beat the
+Rusting Fort
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementCaveNightmare10">
+		<value>Crystal magnate</value>
+	</data>
+	<data name="AchievementCaveNightmare10Description">
+		<value>Beat the
+Crystalline Cavern
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementGameComplete">
+		<value>Buzzard killer</value>
+	</data>
+	<data name="AchievementGameCompleteDescription">
+		<value>Beat the game</value>
+	</data>
+	<data name="AchievementGameCompleteNightmare">
+		<value>Dungeon crawler</value>
+	</data>
+	<data name="AchievementGameCompleteNightmareDescription">
+		<value>Beat the game
+on nightmare difficulty</value>
+	</data>
+	<data name="AchievementItemUnlocked1">
+		<value>Item stockpiler</value>
+	</data>
+	<data name="AchievementItemUnlocked1Description">
+		<value>Unlock
+25 items in the
+Tome of Artifacts</value>
+	</data>
+	<data name="AchievementItemUnlocked2">
+		<value>Antique hoarder</value>
+	</data>
+	<data name="AchievementItemUnlocked2Description">
+		<value>Unlock
+50 items in the
+Tome of Artifacts</value>
+	</data>
+	<data name="AchievementItemUnlocked3">
+		<value>Relic collector</value>
+	</data>
+	<data name="AchievementItemUnlocked3Description">
+		<value>Unlock
+75 items in the
+Tome of Artifacts</value>
+	</data>
+	<data name="AchievementItemUnlocked4">
+		<value>Artifact hunter</value>
+	</data>
+	<data name="AchievementItemUnlocked4Description">
+		<value>Unlock
+100 items in the
+Tome of Artifacts</value>
+	</data>
+	<data name="AchievementBossUnlocked">
+		<value>Avian destroyer</value>
+	</data>
+	<data name="AchievementBossUnlockedDescription">
+		<value>Unlock the
+Buzzard Wizard in the
+Book of Monsters</value>
+	</data>
+	<data name="AchievementMonstersUnlocked">
+		<value>Van Helsing</value>
+	</data>
+	<data name="AchievementMonstersUnlockedDescription">
+		<value>Unlock
+all entries in the
+Book of Monsters</value>
+	</data>
+	<data name="AchievementGold1">
+		<value>Gold digger</value>
+	</data>
+	<data name="AchievementGold1Description">
+		<value>Have 350 gold
+on you</value>
+	</data>
+	<data name="AchievementGold2">
+		<value>Taxman</value>
+	</data>
+	<data name="AchievementGold2Description">
+		<value>Have 500 gold
+on you</value>
+	</data>
+	<data name="AchievementTreasuryRandom">
+		<value>Like A Boss</value>
+	</data>
+	<data name="AchievementTreasuryRandomDescription">
+		<value>Select all
+artifacts randomly
+in a treasury mode
+playthrough</value>
+	</data>
+</root>

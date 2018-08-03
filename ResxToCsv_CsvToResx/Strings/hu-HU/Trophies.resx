@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="AchievementCave1">
+		<value>Barlangász</value>
+	</data>
+	<data name="AchievementCave1Description">
+		<value>Juss át az
+Elárasztott Barlangon</value>
+	</data>
+	<data name="AchievementCave2">
+		<value>Pöcegödör tisztító</value>
+	</data>
+	<data name="AchievementCave2Description">
+		<value>Juss át a
+Szutykos Csatornákon</value>
+	</data>
+	<data name="AchievementCave3">
+		<value>Újonckiképző</value>
+	</data>
+	<data name="AchievementCave3Description">
+		<value>Juss át a
+Süvöltő Kaszárnyán</value>
+	</data>
+	<data name="AchievementCave4">
+		<value>Kincstárnok</value>
+	</data>
+	<data name="AchievementCave4Description">
+		<value>Juss át a
+Porlepte Kamrán</value>
+	</data>
+	<data name="AchievementCave5">
+		<value>Borász</value>
+	</data>
+	<data name="AchievementCave5Description">
+		<value>Juss át az
+Elfelejtett Pincén</value>
+	</data>
+	<data name="AchievementCave6">
+		<value>Megőrző</value>
+	</data>
+	<data name="AchievementCave6Description">
+		<value>  Juss át a   Lepusztult Katakombákon</value>
+	</data>
+	<data name="AchievementCave7">
+		<value>Temető őr</value>
+	</data>
+	<data name="AchievementCave7Description">
+		<value>Juss át a
+Romos Mauzóleumon</value>
+	</data>
+	<data name="AchievementCave8">
+		<value>Fosztogató</value>
+	</data>
+	<data name="AchievementCave8Description">
+		<value>Juss át az
+Ősi Síremléken</value>
+	</data>
+	<data name="AchievementCave9">
+		<value>Öreg harcos</value>
+	</data>
+	<data name="AchievementCave9Description">
+		<value>Juss át a
+Rozsdásodó Erődön</value>
+	</data>
+	<data name="AchievementCave10">
+		<value>Kristály bányász</value>
+	</data>
+	<data name="AchievementCave10Description">
+		<value>Juss át a
+Kristály Kavernán</value>
+	</data>
+	<data name="AchievementCaveNightmare1">
+		<value>Barlanglakó</value>
+	</data>
+	<data name="AchievementCaveNightmare1Description">
+		<value>Juss át az
+Elárasztott Barlangon
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementCaveNightmare2">
+		<value>Csatornapatkány</value>
+	</data>
+	<data name="AchievementCaveNightmare2Description">
+		<value>Juss át a
+Szutykos Csatornákon
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementCaveNightmare3">
+		<value>Hadúr</value>
+	</data>
+	<data name="AchievementCaveNightmare3Description">
+		<value>Juss át a
+Süvöltő Kaszárnyán
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementCaveNightmare4">
+		<value>Régiségkereskedő</value>
+	</data>
+	<data name="AchievementCaveNightmare4Description">
+		<value>Juss át a
+Porlepte Kamrán
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementCaveNightmare5">
+		<value>Iszákos</value>
+	</data>
+	<data name="AchievementCaveNightmare5Description">
+		<value>Juss át az
+Elfelejtett Pincén
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementCaveNightmare6">
+		<value>Renováló</value>
+	</data>
+	<data name="AchievementCaveNightmare6Description">
+		<value>  Juss át a   Lepusztult Katakombákon
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementCaveNightmare7">
+		<value>Temető birtokos</value>
+	</data>
+	<data name="AchievementCaveNightmare7Description">
+		<value>Juss át a
+Romos Mauzóleumon
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementCaveNightmare8">
+		<value>Sírrabló</value>
+	</data>
+	<data name="AchievementCaveNightmare8Description">
+		<value>Juss át az
+Ősi Síremléken
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementCaveNightmare9">
+		<value>Legendás harcos</value>
+	</data>
+	<data name="AchievementCaveNightmare9Description">
+		<value>Juss át a
+Rozsdásodó Erődön
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementCaveNightmare10">
+		<value>Kristály mágnás</value>
+	</data>
+	<data name="AchievementCaveNightmare10Description">
+		<value>Juss át a
+Kristály Kavernán
+rémálom fokozaton</value>
+	</data>
+	<data name="AchievementGameComplete">
+		<value>Fácán gyilkos</value>
+	</data>
+	<data name="AchievementGameCompleteDescription">
+		<value>Vidd végig a játékot</value>
+	</data>
+	<data name="AchievementGameCompleteNightmare">
+		<value>Tömlöc bajnok</value>
+	</data>
+	<data name="AchievementGameCompleteNightmareDescription">
+		<value>Vidd végig a játékot rémálom fokozaton</value>
+	</data>
+	<data name="AchievementItemUnlocked1">
+		<value>Kincs harácsoló</value>
+	</data>
+	<data name="AchievementItemUnlocked1Description">
+		<value>Szerezz meg
+25 kincset az
+Ereklye kötetben</value>
+	</data>
+	<data name="AchievementItemUnlocked2">
+		<value>Antik halmozó</value>
+	</data>
+	<data name="AchievementItemUnlocked2Description">
+		<value>Szerezz meg
+50 kincset az
+Ereklye kötetben</value>
+	</data>
+	<data name="AchievementItemUnlocked3">
+		<value>Relikvia gyűjtő</value>
+	</data>
+	<data name="AchievementItemUnlocked3Description">
+		<value>Szerezz meg
+75 kincset az
+Ereklye kötetben</value>
+	</data>
+	<data name="AchievementItemUnlocked4">
+		<value>Ereklyevadász</value>
+	</data>
+	<data name="AchievementItemUnlocked4Description">
+		<value>Szerezz meg
+100 kincset az
+Ereklye kötetben</value>
+	</data>
+	<data name="AchievementBossUnlocked">
+		<value>Madár mészáros</value>
+	</data>
+	<data name="AchievementBossUnlockedDescription">
+		<value>Szerezd meg
+a Fácán sámánt a
+Szörnyek könyvében</value>
+	</data>
+	<data name="AchievementMonstersUnlocked">
+		<value>Van Helsing</value>
+	</data>
+	<data name="AchievementMonstersUnlockedDescription">
+		<value>Szerezd meg az
+összes bejegyzést a
+Szörnyek könyvében</value>
+	</data>
+	<data name="AchievementGold1">
+		<value>Aranyásó</value>
+	</data>
+	<data name="AchievementGold1Description">
+		<value>Legyen nálad
+350 arany</value>
+	</data>
+	<data name="AchievementGold2">
+		<value>Adószedő</value>
+	</data>
+	<data name="AchievementGold2Description">
+		<value>Legyen nálad
+500 arany</value>
+	</data>
+	<data name="AchievementTreasuryRandom">
+		<value>Csont nélkül</value>
+	</data>
+	<data name="AchievementTreasuryRandomDescription">
+		<value>Vidd végig a kincstárat és minden ereklyét véletlenszerűen válassz</value>
+	</data>
+</root>
