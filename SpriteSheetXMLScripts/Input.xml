@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet texture="Graphics\Sprites.png">
+	<DefaultSpriteProperties>
+		<SourceHorizontal>24</SourceHorizontal>
+		<SourceVertical>24</SourceVertical>
+		<OriginX>12</OriginX>
+		<OriginY>12</OriginY>
+	</DefaultSpriteProperties>
+	<SpriteTable>
+		<Entry name="PlayerDead">
+			<Sprite>
+				<Source>
+					<X>8</X>
+					<Y>4</Y>
+				</Source>
+			</Sprite>
+		</Entry>
+		<Entry name="MonsterHealth">
+			<Overwrite>
+				<Sprite>
+					<Source>
+						<X>218</X>
+						<Y>106</Y>
+						<Width>20</Width>
+						<Height>2</Height>
+					</Source>
+				</Sprite>
+			</Overwrite>
+		</Entry>
+	</SpriteTable>
+	<NinePatchTable>
+		<Entry name="HealthBarBackground">
+			<Overwrite>
+				<SpriteNinePatch>
+					<Source>
+						<X>24</X>
+						<Y>24</Y>
+						<Width>24</Width>
+						<Height>24</Height>
+					</Source>
+					<Middle>
+						<X>12</X>
+						<Y>12</Y>
+						<Width>2</Width>
+						<Height>2</Height>
+					</Middle>
+				</SpriteNinePatch>
+			</Overwrite>
+		</Entry>
+		<Entry name="UnlockBackground">
+			<SpriteNinePatch>
+				<Source>
+					<X>0</X>
+					<Y>7</Y>
+					<Width>4</Width>
+					<Height>3</Height>
+				</Source>
+				<Middle>
+					<X>1</X>
+					<Y>1</Y>
+					<Width>2</Width>
+					<Height>1</Height>
+				</Middle>
+			</SpriteNinePatch>
+		</Entry>
+	</NinePatchTable>
+</SpriteSheet>
